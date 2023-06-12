@@ -5,200 +5,438 @@
 
 ## Contents
 
-- [Batchfile](#batchfile)
-- [C++](#c++)
-- [CSS](#css)
-- [Dart](#dart)
-- [Dockerfile](#dockerfile)
-- [Go](#go)
-- [HCL](#hcl)
-- [HTML](#html)
-- [JavaScript](#javascript)
-- [Jinja](#jinja)
-- [Makefile](#makefile)
-- [Nix](#nix)
-- [Others](#others)
-- [PHP](#php)
-- [Python](#python)
-- [Rust](#rust)
-- [Shell](#shell)
-- [Smarty](#smarty)
-- [Svelte](#svelte)
-- [TeX](#tex)
-- [TypeScript](#typescript)
+- [ai](#ai)
+- [android](#android)
+- [ansible](#ansible)
+- [api](#api)
+- [automation](#automation)
+- [awesome](#awesome)
+- [awesome-list](#awesome-list)
+- [aws](#aws)
+- [azure](#azure)
+- [chatgpt](#chatgpt)
+- [chatgpt-api](#chatgpt-api)
+- [chrome](#chrome)
+- [cli](#cli)
+- [cybersecurity](#cybersecurity)
+- [data-structures](#data-structures)
+- [devops](#devops)
+- [discord](#discord)
+- [docker](#docker)
+- [documentation](#documentation)
+- [emacs](#emacs)
+- [git](#git)
+- [github](#github)
+- [go](#go)
+- [golang](#golang)
+- [good-first-issue](#good-first-issue)
+- [google-cloud](#google-cloud)
+- [hacktoberfest](#hacktoberfest)
+- [home-assistant](#home-assistant)
+- [image-processing](#image-processing)
+- [ios](#ios)
+- [ipfs](#ipfs)
+- [javascript](#javascript)
+- [json](#json)
+- [kubernetes](#kubernetes)
+- [linux](#linux)
+- [markdown](#markdown)
+- [monitoring](#monitoring)
+- [nextjs](#nextjs)
+- [open-source](#open-source)
+- [others](#others)
+- [php](#php)
+- [pixel-art](#pixel-art)
+- [python](#python)
+- [python3](#python3)
+- [raspberry-pi](#raspberry-pi)
+- [reactjs](#reactjs)
+- [reverse-engineering](#reverse-engineering)
+- [rust](#rust)
+- [security](#security)
+- [self-hosted](#self-hosted)
+- [serverless](#serverless)
+- [tensorflow](#tensorflow)
+- [terraform](#terraform)
+- [testing](#testing)
+- [twitter](#twitter)
+- [typescript](#typescript)
+- [windows](#windows)
 
-## Batchfile 
-
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency.
-
-## C++ 
-
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
-
-## CSS 
+## ai 
 
 - [simplysabir/AI-Writing-Assistant](https://github.com/simplysabir/AI-Writing-Assistant) - DeepWrite AI is Made with the Help of ChatGPT3 and Specific Model is Prepared for Generating Perfect Blog Post with atmost Clarity.  This is Just the Version 1.0 More Improvement Will be Implemented.
+- [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 
-## Dart 
+## android 
 
 - [jonjomckay/fritter](https://github.com/jonjomckay/fritter) - A privacy-friendly Twitter frontend for mobile devices
 
-## Dockerfile 
+## ansible 
 
-- [lipanski/docker-static-website](https://github.com/lipanski/docker-static-website) - A very small Docker image (~154KB) to run any static website
-- [QJoly/molecule-os-autobuild](https://github.com/QJoly/molecule-os-autobuild) - Collections d'images Docker pour Molecule
-- [QJoly/PrezDocker](https://github.com/QJoly/PrezDocker) - Présentation ludique pour montrer les différentes notions autour de Docker aux débutants
-- [geerlingguy/docker-debian11-ansible](https://github.com/geerlingguy/docker-debian11-ansible) - Debian 11 (Bullseye) Docker container for Ansible playbook and role testing.
-
-## Go 
-
-- [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
-- [yoanbernabeu/Subtitlr](https://github.com/yoanbernabeu/Subtitlr) - AI-assisted subtitle generation CLI for Youtube
-- [yandex-cloud/k8s-csi-s3](https://github.com/yandex-cloud/k8s-csi-s3) - GeeseFS-based CSI for mounting S3 buckets as PersistentVolumes
-- [ipfs-search/ipfs-search](https://github.com/ipfs-search/ipfs-search) - Search engine for the Interplanetary Filesystem.
-- [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source GitOps tool for Terraform. Digger allows you to run Terraform plan/apply in your CI ⚡️
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-- [openkruise/kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (project under CNCF)
-- [otiai10/ocrserver](https://github.com/otiai10/ocrserver) - A simple OCR API server, seriously easy to be deployed by Docker, on Heroku as well
-- [jsclayton/prometheus-plex-exporter](https://github.com/jsclayton/prometheus-plex-exporter) - Export metrics from your Plex Media Server
-- [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
-- [kubereboot/kured](https://github.com/kubereboot/kured) - Kubernetes Reboot Daemon
-- [QJoly/kubeconfig-merger](https://github.com/QJoly/kubeconfig-merger) - Simple program that merges two kubeconfig files
-- [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
-- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily.
-- [rverchere/ovh-mks-exporter](https://github.com/rverchere/ovh-mks-exporter) - OVH Managed Kubernetes Service Prometheus Exporter
-- [inoxlang/inox](https://github.com/inoxlang/inox) - Inox is a secure programming language for Web development and scripting
+- [ceph/ceph-ansible](https://github.com/ceph/ceph-ansible) - Ansible playbooks to deploy Ceph, the distributed filesystem.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
-- [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris) - Validation of best practices in your Kubernetes clusters
-- [FairwindsOps/nova](https://github.com/FairwindsOps/nova) - Find outdated or deprecated Helm charts running in your cluster.
-- [toboshii/hajimari](https://github.com/toboshii/hajimari) - Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.
-- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images.
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
-- [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it off
-- [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
-- [ddvk/rmfakecloud](https://github.com/ddvk/rmfakecloud) - host your own cloud for the remarkable
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
-- [ldez/traefik-certs-dumper](https://github.com/ldez/traefik-certs-dumper) - Dump ACME data from Traefik to certificates
-
-## HCL 
-
-- [nufailtd/terraform-budget-gcp](https://github.com/nufailtd/terraform-budget-gcp) - Terraform Manifests to create resources on Google Cloud Platform for hobbyists with limited budgets.
-- [rafaribe/home-ops](https://github.com/rafaribe/home-ops) - homelab cluster managed by flux and renovate-bot.
-- [szinn/k8s-homelab](https://github.com/szinn/k8s-homelab) - My home operations repository using k8s/gitops
-- [carpenike/k8s-gitops](https://github.com/carpenike/k8s-gitops) - My k8s cluster built with talos and managed by Flux-v2
-- [xUnholy/k8s-gitops](https://github.com/xUnholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
-- [bjw-s/home-ops](https://github.com/bjw-s/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices
-- [poseidon/typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform
-
-## HTML 
-
-- [janraasch/hugo-bearblog](https://github.com/janraasch/hugo-bearblog) - 🧸 A Hugo theme based on »Bear Blog«. Free, no-nonsense, super-fast blogging. This theme now includes a dark color scheme to support dark mode 🦉 ⬛️!
 - [brettinternet/homelab](https://github.com/brettinternet/homelab) - Resources for my self-hosted homelab
-
-## JavaScript 
-
-- [aquiladev/ipfs-action](https://github.com/aquiladev/ipfs-action) - GitHub Action for upload to IPFS. Supports Pinata, Infura pinning service as well as direct upload.
-- [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
-- [pabloromeo/clusterplex](https://github.com/pabloromeo/clusterplex) - ClusterPlex is an extended version of Plex, which supports distributed Workers across a cluster to handle transcoding requests.
-- [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of tech conferences's date and CFP in order to help conferences organizers, speakers & attendees
-- [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
-- [QJoly/TheBidouilleur.xyz](https://github.com/QJoly/TheBidouilleur.xyz) - Blog autour de mes découvertes techniques (ou pas)
-
-## Jinja 
-
-- [QJoly/GitOps](https://github.com/QJoly/GitOps) - WIP - Déploiement complet d'un cluster Kubernetes
-- [ansible-community/ansible-role-boundary](https://github.com/ansible-community/ansible-role-boundary) - 🚧 Ansible role to install HashiCorp Boundary.
-
-## Makefile 
-
-- [codespaces-lab/kubernetes-in-codespaces](https://github.com/codespaces-lab/kubernetes-in-codespaces) - Inner loop Kubernetes development using Codespaces
-
-## Nix 
-
-- [nix-community/nix-doom-emacs](https://github.com/nix-community/nix-doom-emacs) - doom-emacs packaged for Nix [maintainers=@ckiee,@thiagokokada]
-- [vlaci/nix-doom-emacs](https://github.com/vlaci/nix-doom-emacs) - doom-emacs packaged for Nix
-- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
-- [budimanjojo/home-cluster](https://github.com/budimanjojo/home-cluster) - My home Kubernetes cluster managed with flux GitOps tool.
-- [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS
-- [badele/nix-apps](https://github.com/badele/nix-apps) - Some nix applications packages
-- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@adisbladis]
-- [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
-
-## Others 
-
-- [rayning0/build-your-own-x](https://github.com/rayning0/build-your-own-x) - 🤓 Build your own (insert technology here)
-- [Kuronons/FZ_graphics](https://github.com/Kuronons/FZ_graphics) - Flipper Zero Custom animations, profile and passport pictures by Kuronons
-- [HexxedBitHeadz/FlipperZeroWallpaper](https://github.com/HexxedBitHeadz/FlipperZeroWallpaper) - Wallpapers for Flipper Zero
-- [juhnny5/DevoxxFR2023-OctoDNS](https://github.com/juhnny5/DevoxxFR2023-OctoDNS) - DevoxxFR 2023 | Infra : Donnez de l’autonomie à vos développeurs avec OctoDNS
-- [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering Tools
-- [szinn/renovate-config](https://github.com/szinn/renovate-config) - 
-- [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering
-- [saphoooo/impressionnant](https://github.com/saphoooo/impressionnant) - Une liste organisée de toutes les impressionnantes ressources technologiques francophones
-- [dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises) - A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation
-- [zwindler/ansible-scaleway](https://github.com/zwindler/ansible-scaleway) - 
-- [QJoly/QJoly](https://github.com/QJoly/QJoly) - Lisez-moi
-- [reireias/keel-arm](https://github.com/reireias/keel-arm) - build keel image for arm32.
+- [geerlingguy/docker-debian11-ansible](https://github.com/geerlingguy/docker-debian11-ansible) - Debian 11 (Bullseye) Docker container for Ansible playbook and role testing.
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 
-## PHP 
+## api 
+
+- [otiai10/ocrserver](https://github.com/otiai10/ocrserver) - A simple OCR API server, seriously easy to be deployed by Docker, on Heroku as well
+- [simplysabir/AI-Writing-Assistant](https://github.com/simplysabir/AI-Writing-Assistant) - DeepWrite AI is Made with the Help of ChatGPT3 and Specific Model is Prepared for Generating Perfect Blog Post with atmost Clarity.  This is Just the Version 1.0 More Improvement Will be Implemented.
+
+## automation 
+
+- [inoxlang/inox](https://github.com/inoxlang/inox) - Inox is a secure programming language for Web development and scripting
+- [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering
+
+## awesome 
+
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
+- [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
+- [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
+- [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering Tools
+- [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
+
+## awesome-list 
+
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
+- [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
+- [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
+- [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering Tools
+- [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
+
+## aws 
+
+- [poseidon/typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform
+
+## azure 
+
+- [poseidon/typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform
+
+## chatgpt 
+
+- [joone/loz](https://github.com/joone/loz) - Loz is a command-line interface tool based on ChatGPT that allows Unix pipes to be used with other Unix tools.
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
+- [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
+
+## chatgpt-api 
+
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
+
+## chrome 
+
+- [inoxlang/inox](https://github.com/inoxlang/inox) - Inox is a secure programming language for Web development and scripting
+
+## cli 
+
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
+- [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
+- [joone/loz](https://github.com/joone/loz) - Loz is a command-line interface tool based on ChatGPT that allows Unix pipes to be used with other Unix tools.
+- [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
+- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily.
+
+## cybersecurity 
+
+- [inoxlang/inox](https://github.com/inoxlang/inox) - Inox is a secure programming language for Web development and scripting
+
+## data-structures 
+
+- [inoxlang/inox](https://github.com/inoxlang/inox) - Inox is a secure programming language for Web development and scripting
+
+## devops 
+
+- [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
+- [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering Tools
+- [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
+- [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
+
+## discord 
+
+- [carpenike/k8s-gitops](https://github.com/carpenike/k8s-gitops) - My k8s cluster built with talos and managed by Flux-v2
+
+## docker 
+
+- [otiai10/ocrserver](https://github.com/otiai10/ocrserver) - A simple OCR API server, seriously easy to be deployed by Docker, on Heroku as well
+- [nufailtd/terraform-budget-gcp](https://github.com/nufailtd/terraform-budget-gcp) - Terraform Manifests to create resources on Google Cloud Platform for hobbyists with limited budgets.
+- [pabloromeo/clusterplex](https://github.com/pabloromeo/clusterplex) - ClusterPlex is an extended version of Plex, which supports distributed Workers across a cluster to handle transcoding requests.
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images.
+- [pyouroboros/ouroboros](https://github.com/pyouroboros/ouroboros) - Automatically update running docker containers with newest available image
+- [mrhavens/Dedockify](https://github.com/mrhavens/Dedockify) - Reverse engineer Docker images into Dockerfiles.
+- [QJoly/TheBidouilleur.xyz](https://github.com/QJoly/TheBidouilleur.xyz) - Blog autour de mes découvertes techniques (ou pas)
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
+- [QJoly/PrezDocker](https://github.com/QJoly/PrezDocker) - Présentation ludique pour montrer les différentes notions autour de Docker aux débutants
+- [geerlingguy/docker-debian11-ansible](https://github.com/geerlingguy/docker-debian11-ansible) - Debian 11 (Bullseye) Docker container for Ansible playbook and role testing.
+- [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
+- [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
+- [containrrr/shepherd](https://github.com/containrrr/shepherd) - Docker swarm service for automatically updating your services whenever their image is refreshed
+- [PAPAMICA/docker-compose-collection](https://github.com/PAPAMICA/docker-compose-collection) - These docker-compose allow you to deploy multiple services easily and quickly.  You can use them with Portainer directly or via docker-compose commands.
+
+## documentation 
+
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - An opinionated guide for developers wanting to get things done with the Nix ecosystem.
+
+## emacs 
+
+- [vlaci/nix-doom-emacs](https://github.com/vlaci/nix-doom-emacs) - doom-emacs packaged for Nix
+
+## git 
+
+- [joone/loz](https://github.com/joone/loz) - Loz is a command-line interface tool based on ChatGPT that allows Unix pipes to be used with other Unix tools.
+
+## github 
+
+- [aquiladev/ipfs-action](https://github.com/aquiladev/ipfs-action) - GitHub Action for upload to IPFS. Supports Pinata, Infura pinning service as well as direct upload.
+- [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
+
+## go 
+
+- [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
+- [otiai10/ocrserver](https://github.com/otiai10/ocrserver) - A simple OCR API server, seriously easy to be deployed by Docker, on Heroku as well
+- [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
+- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily.
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
+
+## golang 
+
+- [ipfs-search/ipfs-search](https://github.com/ipfs-search/ipfs-search) - Search engine for the Interplanetary Filesystem.
+- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily.
+- [inoxlang/inox](https://github.com/inoxlang/inox) - Inox is a secure programming language for Web development and scripting
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
+
+## good-first-issue 
+
+- [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
+
+## google-cloud 
+
+- [poseidon/typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform
+
+## hacktoberfest 
+
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+- [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris) - Validation of best practices in your Kubernetes clusters
+- [FairwindsOps/nova](https://github.com/FairwindsOps/nova) - Find outdated or deprecated Helm charts running in your cluster.
+- [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
+- [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
+
+## home-assistant 
+
+- [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
+
+## image-processing 
+
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
+
+## ios 
+
+- [jonjomckay/fritter](https://github.com/jonjomckay/fritter) - A privacy-friendly Twitter frontend for mobile devices
+
+## ipfs 
+
+- [ipfs-search/ipfs-search](https://github.com/ipfs-search/ipfs-search) - Search engine for the Interplanetary Filesystem.
+- [aquiladev/ipfs-action](https://github.com/aquiladev/ipfs-action) - GitHub Action for upload to IPFS. Supports Pinata, Infura pinning service as well as direct upload.
+- [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
+
+## javascript 
+
+- [simplysabir/AI-Writing-Assistant](https://github.com/simplysabir/AI-Writing-Assistant) - DeepWrite AI is Made with the Help of ChatGPT3 and Specific Model is Prepared for Generating Perfect Blog Post with atmost Clarity.  This is Just the Version 1.0 More Improvement Will be Implemented.
+
+## json 
+
+- [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
+
+## kubernetes 
+
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+- [openkruise/kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (project under CNCF)
+- [nufailtd/terraform-budget-gcp](https://github.com/nufailtd/terraform-budget-gcp) - Terraform Manifests to create resources on Google Cloud Platform for hobbyists with limited budgets.
+- [budimanjojo/home-cluster](https://github.com/budimanjojo/home-cluster) - My home Kubernetes cluster managed with flux GitOps tool.
+- [kubereboot/kured](https://github.com/kubereboot/kured) - Kubernetes Reboot Daemon
+- [pabloromeo/clusterplex](https://github.com/pabloromeo/clusterplex) - ClusterPlex is an extended version of Plex, which supports distributed Workers across a cluster to handle transcoding requests.
+- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily.
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
+- [rafaribe/home-ops](https://github.com/rafaribe/home-ops) - homelab cluster managed by flux and renovate-bot.
+- [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris) - Validation of best practices in your Kubernetes clusters
+- [FairwindsOps/nova](https://github.com/FairwindsOps/nova) - Find outdated or deprecated Helm charts running in your cluster.
+- [szinn/k8s-homelab](https://github.com/szinn/k8s-homelab) - My home operations repository using k8s/gitops
+- [brettinternet/homelab](https://github.com/brettinternet/homelab) - Resources for my self-hosted homelab
+- [toboshii/hajimari](https://github.com/toboshii/hajimari) - Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.
+- [carpenike/k8s-gitops](https://github.com/carpenike/k8s-gitops) - My k8s cluster built with talos and managed by Flux-v2
+- [xUnholy/k8s-gitops](https://github.com/xUnholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
+- [wrmilling/k3s-gitops](https://github.com/wrmilling/k3s-gitops) - GitOps principles to define kubernetes cluster state via code
+- [bjw-s/home-ops](https://github.com/bjw-s/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices
+- [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering
+- [poseidon/typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform
+- [QJoly/TheBidouilleur.xyz](https://github.com/QJoly/TheBidouilleur.xyz) - Blog autour de mes découvertes techniques (ou pas)
+- [QJoly/helm-charts](https://github.com/QJoly/helm-charts) - Dépot Helm Personnel (CI activé)
+- [dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises) - A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
+- [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it off
+- [QJoly/QJoly](https://github.com/QJoly/QJoly) - Lisez-moi
+- [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
+
+## linux 
+
+- [hyprland-community/hyprland-autoname-workspaces](https://github.com/hyprland-community/hyprland-autoname-workspaces) - Hyprland autoname workspaces 🪟 [maintainers=@cyrinux,@maximbaz]
+- [xUnholy/k8s-gitops](https://github.com/xUnholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
+
+## markdown 
+
+- [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
+- [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
+- [dadoomer/markdown-slides](https://github.com/dadoomer/markdown-slides) - Using markdown, write simple but beautiful presentations with math, animations and media.
+
+## monitoring 
+
+- [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering Tools
+- [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
+
+## nextjs 
+
+- [simplysabir/AI-Writing-Assistant](https://github.com/simplysabir/AI-Writing-Assistant) - DeepWrite AI is Made with the Help of ChatGPT3 and Specific Model is Prepared for Generating Perfect Blog Post with atmost Clarity.  This is Just the Version 1.0 More Improvement Will be Implemented.
+
+## open-source 
+
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency.
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
+
+## others 
+
+- [alpine-docker/k8s](https://github.com/alpine-docker/k8s) - All-In-One Kubernetes tools (kubectl, helm, iam-authenticator, eksctl, etc)
+- [yoanbernabeu/Subtitlr](https://github.com/yoanbernabeu/Subtitlr) - AI-assisted subtitle generation CLI for Youtube
+- [rayning0/build-your-own-x](https://github.com/rayning0/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [nix-community/nix-doom-emacs](https://github.com/nix-community/nix-doom-emacs) - doom-emacs packaged for Nix [maintainers=@ckiee,@thiagokokada]
+- [yandex-cloud/k8s-csi-s3](https://github.com/yandex-cloud/k8s-csi-s3) - GeeseFS-based CSI for mounting S3 buckets as PersistentVolumes
+- [janraasch/hugo-bearblog](https://github.com/janraasch/hugo-bearblog) - 🧸 A Hugo theme based on »Bear Blog«. Free, no-nonsense, super-fast blogging. This theme now includes a dark color scheme to support dark mode 🦉 ⬛️!
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
+- [BuilderIO/gpt-assistant](https://github.com/BuilderIO/gpt-assistant) - An experiment to give an autonomous GPT agent access to a browser and have it accomplish tasks
+- [HexxedBitHeadz/FlipperZeroWallpaper](https://github.com/HexxedBitHeadz/FlipperZeroWallpaper) - Wallpapers for Flipper Zero
+- [jsclayton/prometheus-plex-exporter](https://github.com/jsclayton/prometheus-plex-exporter) - Export metrics from your Plex Media Server
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
+- [juhnny5/DevoxxFR2023-OctoDNS](https://github.com/juhnny5/DevoxxFR2023-OctoDNS) - DevoxxFR 2023 | Infra : Donnez de l’autonomie à vos développeurs avec OctoDNS
+- [QJoly/kubeconfig-merger](https://github.com/QJoly/kubeconfig-merger) - Simple program that merges two kubeconfig files
+- [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS
+- [badele/nix-apps](https://github.com/badele/nix-apps) - Some nix applications packages
+- [stephrobert/ansible-aisnippet](https://github.com/stephrobert/ansible-aisnippet) - Generate ansible tasks with chatGPT
+- [Gioman101/FlipperAmiibo](https://github.com/Gioman101/FlipperAmiibo) - Made to be used with Flipper just drag the folder into NFC
+- [QJoly/DebianRepository](https://github.com/QJoly/DebianRepository) - Simple Debian Repository
+- [rverchere/ovh-mks-exporter](https://github.com/rverchere/ovh-mks-exporter) - OVH Managed Kubernetes Service Prometheus Exporter
+- [PAPAMICA/insta2wp](https://github.com/PAPAMICA/insta2wp) - Create a new WordPress post with your instagram post automatically
+- [PAPAMICA/OpenCraft.cloud](https://github.com/PAPAMICA/OpenCraft.cloud) - Generate a diagram of your Openstack's project
+- [lipanski/docker-static-website](https://github.com/lipanski/docker-static-website) - A very small Docker image (~154KB) to run any static website
+- [QJoly/GitOps](https://github.com/QJoly/GitOps) - WIP - Déploiement complet d'un cluster Kubernetes
+- [szinn/renovate-config](https://github.com/szinn/renovate-config) - 
+- [codespaces-lab/kubernetes-in-codespaces](https://github.com/codespaces-lab/kubernetes-in-codespaces) - Inner loop Kubernetes development using Codespaces
+- [yuvipanda/pre-commit-hook-ensure-sops](https://github.com/yuvipanda/pre-commit-hook-ensure-sops) - pre-commit hook to ensure that files that should be encrypted with sops are
+- [ansible-community/ansible-role-boundary](https://github.com/ansible-community/ansible-role-boundary) - 🚧 Ansible role to install HashiCorp Boundary.
+- [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of tech conferences's date and CFP in order to help conferences organizers, speakers & attendees
+- [cicdteam/simple-reverse-proxy](https://github.com/cicdteam/simple-reverse-proxy) - Sinple reverse http proxy based on HAproxy
+- [saphoooo/impressionnant](https://github.com/saphoooo/impressionnant) - Une liste organisée de toutes les impressionnantes ressources technologiques francophones
+- [MghRepo/pse-mdbook](https://github.com/MghRepo/pse-mdbook) - Fiches de préparation PSE
+- [zwindler/demystifions-kubernetes](https://github.com/zwindler/demystifions-kubernetes) - 
+- [cse-labs/kubernetes-in-codespaces](https://github.com/cse-labs/kubernetes-in-codespaces) - Kubernetes development cluster in GitHub Codespaces
+- [Nrosa01/pmd-quiz-online](https://github.com/Nrosa01/pmd-quiz-online) - Web recreation of the PMD EoS personality test
+- [QJoly/molecule-os-autobuild](https://github.com/QJoly/molecule-os-autobuild) - Collections d'images Docker pour Molecule
+- [zwindler/ansible-scaleway](https://github.com/zwindler/ansible-scaleway) - 
+- [fgonz666/Debian_Full_Disk_Encryption](https://github.com/fgonz666/Debian_Full_Disk_Encryption) - This french documentated repo explains the steps to follow to build manually a debian system, with or without efi system running, not using the official debian installer and putting all partitions, ev
+- [reireias/keel-arm](https://github.com/reireias/keel-arm) - build keel image for arm32.
+- [ddvk/rmfakecloud](https://github.com/ddvk/rmfakecloud) - host your own cloud for the remarkable
+- [Nriver/trilium-py](https://github.com/Nriver/trilium-py) - Python client for ETAPI of Trilium Note.
+- [ldez/traefik-certs-dumper](https://github.com/ldez/traefik-certs-dumper) - Dump ACME data from Traefik to certificates
+
+## php 
 
 - [michaelfranzl/no.php](https://github.com/michaelfranzl/no.php) - Transparent reverse proxy written in PHP
 
-## Python 
+## pixel-art 
+
+- [Kuronons/FZ_graphics](https://github.com/Kuronons/FZ_graphics) - Flipper Zero Custom animations, profile and passport pictures by Kuronons
+
+## python 
 
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [autorope/donkeycar](https://github.com/autorope/donkeycar) - Open source hardware and software platform to build a small scale self driving car.
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
-- [stephrobert/ansible-aisnippet](https://github.com/stephrobert/ansible-aisnippet) - Generate ansible tasks with chatGPT
-- [Gioman101/FlipperAmiibo](https://github.com/Gioman101/FlipperAmiibo) - Made to be used with Flipper just drag the folder into NFC
-- [PAPAMICA/insta2wp](https://github.com/PAPAMICA/insta2wp) - Create a new WordPress post with your instagram post automatically
-- [PAPAMICA/OpenCraft.cloud](https://github.com/PAPAMICA/OpenCraft.cloud) - Generate a diagram of your Openstack's project
-- [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
-- [dadoomer/markdown-slides](https://github.com/dadoomer/markdown-slides) - Using markdown, write simple but beautiful presentations with math, animations and media.
+- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@adisbladis]
 - [ceph/ceph-ansible](https://github.com/ceph/ceph-ansible) - Ansible playbooks to deploy Ceph, the distributed filesystem.
-- [yuvipanda/pre-commit-hook-ensure-sops](https://github.com/yuvipanda/pre-commit-hook-ensure-sops) - pre-commit hook to ensure that files that should be encrypted with sops are
-- [pyouroboros/ouroboros](https://github.com/pyouroboros/ouroboros) - Automatically update running docker containers with newest available image
 - [mrhavens/Dedockify](https://github.com/mrhavens/Dedockify) - Reverse engineer Docker images into Dockerfiles.
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
-- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - An opinionated guide for developers wanting to get things done with the Nix ecosystem.
 - [Fizzadar/pyinfra](https://github.com/Fizzadar/pyinfra) - pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more.
-- [PAPAMICA/docker-compose-collection](https://github.com/PAPAMICA/docker-compose-collection) - These docker-compose allow you to deploy multiple services easily and quickly.  You can use them with Portainer directly or via docker-compose commands.
-- [Nriver/trilium-py](https://github.com/Nriver/trilium-py) - Python client for ETAPI of Trilium Note.
 
-## Rust 
+## python3 
+
+- [pyouroboros/ouroboros](https://github.com/pyouroboros/ouroboros) - Automatically update running docker containers with newest available image
+
+## raspberry-pi 
+
+- [autorope/donkeycar](https://github.com/autorope/donkeycar) - Open source hardware and software platform to build a small scale self driving car.
+- [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
+
+## reactjs 
+
+- [simplysabir/AI-Writing-Assistant](https://github.com/simplysabir/AI-Writing-Assistant) - DeepWrite AI is Made with the Help of ChatGPT3 and Specific Model is Prepared for Generating Perfect Blog Post with atmost Clarity.  This is Just the Version 1.0 More Improvement Will be Implemented.
+
+## reverse-engineering 
+
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
+
+## rust 
 
 - [hyprland-community/hyprland-autoname-workspaces](https://github.com/hyprland-community/hyprland-autoname-workspaces) - Hyprland autoname workspaces 🪟 [maintainers=@cyrinux,@maximbaz]
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 
-## Shell 
+## security 
 
-- [alpine-docker/k8s](https://github.com/alpine-docker/k8s) - All-In-One Kubernetes tools (kubectl, helm, iam-authenticator, eksctl, etc)
-- [QJoly/DebianRepository](https://github.com/QJoly/DebianRepository) - Simple Debian Repository
-- [wrmilling/k3s-gitops](https://github.com/wrmilling/k3s-gitops) - GitOps principles to define kubernetes cluster state via code
-- [cicdteam/simple-reverse-proxy](https://github.com/cicdteam/simple-reverse-proxy) - Sinple reverse http proxy based on HAproxy
-- [MghRepo/pse-mdbook](https://github.com/MghRepo/pse-mdbook) - Fiches de préparation PSE
-- [zwindler/demystifions-kubernetes](https://github.com/zwindler/demystifions-kubernetes) - 
-- [cse-labs/kubernetes-in-codespaces](https://github.com/cse-labs/kubernetes-in-codespaces) - Kubernetes development cluster in GitHub Codespaces
-- [containrrr/shepherd](https://github.com/containrrr/shepherd) - Docker swarm service for automatically updating your services whenever their image is refreshed
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency.
+- [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 
-## Smarty 
+## self-hosted 
 
-- [QJoly/helm-charts](https://github.com/QJoly/helm-charts) - Dépot Helm Personnel (CI activé)
+- [brettinternet/homelab](https://github.com/brettinternet/homelab) - Resources for my self-hosted homelab
 
-## Svelte 
+## serverless 
 
-- [Nrosa01/pmd-quiz-online](https://github.com/Nrosa01/pmd-quiz-online) - Web recreation of the PMD EoS personality test
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 
-## TeX 
+## tensorflow 
 
-- [fgonz666/Debian_Full_Disk_Encryption](https://github.com/fgonz666/Debian_Full_Disk_Encryption) - This french documentated repo explains the steps to follow to build manually a debian system, with or without efi system running, not using the official debian installer and putting all partitions, ev
+- [autorope/donkeycar](https://github.com/autorope/donkeycar) - Open source hardware and software platform to build a small scale self driving car.
 
-## TypeScript 
+## terraform 
+
+- [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source GitOps tool for Terraform. Digger allows you to run Terraform plan/apply in your CI ⚡️
+- [nufailtd/terraform-budget-gcp](https://github.com/nufailtd/terraform-budget-gcp) - Terraform Manifests to create resources on Google Cloud Platform for hobbyists with limited budgets.
+- [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
+- [szinn/k8s-homelab](https://github.com/szinn/k8s-homelab) - My home operations repository using k8s/gitops
+- [brettinternet/homelab](https://github.com/brettinternet/homelab) - Resources for my self-hosted homelab
+- [xUnholy/k8s-gitops](https://github.com/xUnholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
+- [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering
+- [poseidon/typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform
+- [QJoly/QJoly](https://github.com/QJoly/QJoly) - Lisez-moi
+- [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
+
+## testing 
+
+- [geerlingguy/docker-debian11-ansible](https://github.com/geerlingguy/docker-debian11-ansible) - Debian 11 (Bullseye) Docker container for Ansible playbook and role testing.
+
+## twitter 
+
+- [jonjomckay/fritter](https://github.com/jonjomckay/fritter) - A privacy-friendly Twitter frontend for mobile devices
+
+## typescript 
 
 - [joone/loz](https://github.com/joone/loz) - Loz is a command-line interface tool based on ChatGPT that allows Unix pipes to be used with other Unix tools.
-- [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
-- [BuilderIO/gpt-assistant](https://github.com/BuilderIO/gpt-assistant) - An experiment to give an autonomous GPT agent access to a browser and have it accomplish tasks
+
+## windows 
+
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency.
 
 
 ## License
