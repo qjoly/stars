@@ -335,6 +335,7 @@
 
 ## others 
 
+- [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) - A tool for automatically generating markdown documentation for helm charts
 - [DeekshithSN/Helm_charts](https://github.com/DeekshithSN/Helm_charts) - 
 - [k3s-io/k3s-ansible](https://github.com/k3s-io/k3s-ansible) - 
 - [QJoly/Debian-Template-Proxmox](https://github.com/QJoly/Debian-Template-Proxmox) - Création d'une template Debian 12 sur un hyperviseur Proxmox
