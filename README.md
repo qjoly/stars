@@ -56,6 +56,7 @@
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [serverless](#serverless)
+- [shell](#shell)
 - [tensorflow](#tensorflow)
 - [terraform](#terraform)
 - [testing](#testing)
@@ -446,6 +447,10 @@
 ## serverless 
 
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
+
+## shell 
+
+- [binpash/try](https://github.com/binpash/try) - "Do, or do not. There is no try."  We're setting out to change that: `try cmd` and commit---or not.
 
 ## tensorflow 
 
