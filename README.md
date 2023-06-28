@@ -200,10 +200,12 @@
 
 ## git 
 
+- [ldez/prm](https://github.com/ldez/prm) - Pull Request Manager for Maintainers
 - [joone/loz](https://github.com/joone/loz) - Loz is a command-line interface tool based on ChatGPT that allows Unix pipes to be used with other Unix tools.
 
 ## github 
 
+- [ldez/prm](https://github.com/ldez/prm) - Pull Request Manager for Maintainers
 - [aquiladev/ipfs-action](https://github.com/aquiladev/ipfs-action) - GitHub Action for upload to IPFS. Supports Pinata, Infura pinning service as well as direct upload.
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 
@@ -336,6 +338,8 @@
 
 ## others 
 
+- [bdotdub/danger-go](https://github.com/bdotdub/danger-go) - Write your Dangerfiles in Go
+- [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
 - [getsops/community](https://github.com/getsops/community) - SOPS community content
 - [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) - A tool for automatically generating markdown documentation for helm charts
 - [DeekshithSN/Helm_charts](https://github.com/DeekshithSN/Helm_charts) - 
