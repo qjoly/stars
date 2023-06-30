@@ -455,7 +455,7 @@
 
 ## shell 
 
-- [binpash/try](https://github.com/binpash/try) - try lets you run a command and inspect its effects before modifying your live system
+- [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 
 ## tensorflow 
 
