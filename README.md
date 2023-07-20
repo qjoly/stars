@@ -75,6 +75,7 @@
 
 ## analytics 
 
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 
 ## android 
@@ -127,16 +128,19 @@
 
 ## aws 
 
+- [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
 - [4ndersonLin/awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) - 🛡️ Awesome Cloud Security Resources ⚔️
 - [poseidon/typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform
 
 ## azure 
 
+- [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
 - [4ndersonLin/awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) - 🛡️ Awesome Cloud Security Resources ⚔️
 - [poseidon/typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform
 
 ## bash 
 
+- [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
 - [az7rb/crt.sh](https://github.com/az7rb/crt.sh) - Crtsh Subdomain Enumeration | This bash script makes it easy to quickly save and parse the output from https://crt.sh website.
 
 ## chatgpt 
@@ -155,6 +159,7 @@
 
 ## cli 
 
+- [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [joone/loz](https://github.com/joone/loz) - Loz is a command-line interface tool based on ChatGPT that allows Unix pipes to be used with other Unix tools.
@@ -345,6 +350,7 @@
 
 ## monitoring 
 
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering Tools
@@ -361,6 +367,7 @@
 
 ## others 
 
+- [PAPAMICA/zbx2kuma](https://github.com/PAPAMICA/zbx2kuma) - Synchronize your Uptime Kuma with Zabbix events !
 - [gnublin/TimerStartX](https://github.com/gnublin/TimerStartX) - Time start and strop through POST
 - [measurement-factory/dnstop](https://github.com/measurement-factory/dnstop) - Stay on top of your DNS traffic
 - [bdotdub/danger-go](https://github.com/bdotdub/danger-go) - Write your Dangerfiles in Go
