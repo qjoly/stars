@@ -62,6 +62,7 @@
 - [shell](#shell)
 - [statistics](#statistics)
 - [tensorflow](#tensorflow)
+- [terminal](#terminal)
 - [terraform](#terraform)
 - [testing](#testing)
 - [twitter](#twitter)
@@ -159,6 +160,7 @@
 
 ## cli 
 
+- [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
@@ -487,6 +489,7 @@
 
 ## shell 
 
+- [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 
 ## statistics 
@@ -496,6 +499,10 @@
 ## tensorflow 
 
 - [autorope/donkeycar](https://github.com/autorope/donkeycar) - Open source hardware and software platform to build a small scale self driving car.
+
+## terminal 
+
+- [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 
 ## terraform 
 
