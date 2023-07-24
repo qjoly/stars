@@ -369,6 +369,7 @@
 
 ## others 
 
+- [beeper/k9s](https://github.com/beeper/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [PAPAMICA/zbx2kuma](https://github.com/PAPAMICA/zbx2kuma) - Synchronize your Uptime Kuma with Zabbix events !
 - [gnublin/TimerStartX](https://github.com/gnublin/TimerStartX) - Time start and strop through POST
 - [measurement-factory/dnstop](https://github.com/measurement-factory/dnstop) - Stay on top of your DNS traffic
