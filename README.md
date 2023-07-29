@@ -370,6 +370,7 @@
 
 ## others 
 
+- [webofmars/ansible-teleport](https://github.com/webofmars/ansible-teleport) - Ansible module for teleport installation (goteleport.com)
 - [isindir/sops-secrets-operator](https://github.com/isindir/sops-secrets-operator) - Kubernetes SOPS secrets operator
 - [beeper/k9s](https://github.com/beeper/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [PAPAMICA/zbx2kuma](https://github.com/PAPAMICA/zbx2kuma) - Synchronize your Uptime Kuma with Zabbix events !
