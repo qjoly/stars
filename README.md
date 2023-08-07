@@ -370,6 +370,7 @@
 
 ## others 
 
+- [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [LilyGO/TTGO-T-Beam](https://github.com/LilyGO/TTGO-T-Beam) - 
 - [webofmars/ansible-teleport](https://github.com/webofmars/ansible-teleport) - Ansible module for teleport installation (goteleport.com)
 - [isindir/sops-secrets-operator](https://github.com/isindir/sops-secrets-operator) - Kubernetes SOPS secrets operator
