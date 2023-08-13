@@ -370,6 +370,7 @@
 
 ## others 
 
+- [diggerhq/open-terraform](https://github.com/diggerhq/open-terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. This is an open-source fork of Hashicorp's Terraform that keeps the MPL license, following Hashicorp's annou
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) - k0smotron
 - [HelTecAutomation/ESP32_LoRaWAN](https://github.com/HelTecAutomation/ESP32_LoRaWAN) - Transplanted from Semtech LoRaWAN(https://github.com/Lora-net/LoRaMac-node) protocol to "ESP32 + Arduino" platform. Use RTC, support deep sleep, only working with ESP32 + LoRa boards made by HelTec Au
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
