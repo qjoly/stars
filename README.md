@@ -370,6 +370,8 @@
 
 ## others 
 
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal. Powered by OpenAI's GPT LLMs 💫
+- [Linus2punkt0/bluesky-crossposter](https://github.com/Linus2punkt0/bluesky-crossposter) - An app for crossposting your posts from bluesky to twitter and mastodon
 - [diggerhq/open-terraform](https://github.com/diggerhq/open-terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. This is an open-source fork of Hashicorp's Terraform that keeps the MPL license, following Hashicorp's annou
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) - k0smotron
 - [HelTecAutomation/ESP32_LoRaWAN](https://github.com/HelTecAutomation/ESP32_LoRaWAN) - Transplanted from Semtech LoRaWAN(https://github.com/Lora-net/LoRaMac-node) protocol to "ESP32 + Arduino" platform. Use RTC, support deep sleep, only working with ESP32 + LoRa boards made by HelTec Au
