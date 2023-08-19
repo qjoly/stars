@@ -379,6 +379,7 @@
 
 ## others 
 
+- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal. Powered by OpenAI's GPT LLMs 💫
 - [Linus2punkt0/bluesky-crossposter](https://github.com/Linus2punkt0/bluesky-crossposter) - An app for crossposting your posts from bluesky to twitter and mastodon
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) - k0smotron
