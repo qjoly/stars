@@ -223,6 +223,7 @@
 
 ## git 
 
+- [bokub/git-history-editor](https://github.com/bokub/git-history-editor) - :pencil2: Online commit editor, intuitive and easy to use
 - [ldez/prm](https://github.com/ldez/prm) - Pull Request Manager for Maintainers
 - [joone/loz](https://github.com/joone/loz) - Loz is a command-line interface tool based on ChatGPT that allows Unix pipes to be used with other Unix tools.
 
@@ -382,6 +383,8 @@
 
 ## others 
 
+- [ericvolp12/bsky-experiments](https://github.com/ericvolp12/bsky-experiments) - A handful of Go-based tools for poking around with BlueSky using the AT Protocol
+- [FrangipaneTeam/terraform-templates](https://github.com/FrangipaneTeam/terraform-templates) - 
 - [juhnny5/pulumi-maas](https://github.com/juhnny5/pulumi-maas) - 
 - [juhnny5/pulumi-maas-python](https://github.com/juhnny5/pulumi-maas-python) - A Pulumi package for creating and managing Canonical Metal-As-A-Service (MAAS) resources
 - [PierreAdams/HackRF-One-French](https://github.com/PierreAdams/HackRF-One-French) - Présentation et démonstration des fonctionnalitées du HackRF One
@@ -522,6 +525,7 @@
 ## shell 
 
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
+- [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 
 ## statistics 
