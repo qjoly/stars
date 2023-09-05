@@ -384,7 +384,6 @@
 
 ## others 
 
-- [facebookresearch/nougat](https://github.com/facebookresearch/nougat) - Implementation of Nougat Neural Optical Understanding for Academic Documents
 - [ericvolp12/bsky-experiments](https://github.com/ericvolp12/bsky-experiments) - A handful of Go-based tools for poking around with BlueSky using the AT Protocol
 - [FrangipaneTeam/terraform-templates](https://github.com/FrangipaneTeam/terraform-templates) - 
 - [juhnny5/pulumi-maas](https://github.com/juhnny5/pulumi-maas) - 
