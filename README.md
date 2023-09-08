@@ -42,9 +42,12 @@
 - [javascript](#javascript)
 - [json](#json)
 - [kubernetes](#kubernetes)
+- [learning](#learning)
 - [linux](#linux)
+- [lua](#lua)
 - [markdown](#markdown)
 - [monitoring](#monitoring)
+- [neovim](#neovim)
 - [nextjs](#nextjs)
 - [nodejs](#nodejs)
 - [open-source](#open-source)
@@ -69,6 +72,7 @@
 - [testing](#testing)
 - [twitter](#twitter)
 - [typescript](#typescript)
+- [vim](#vim)
 - [windows](#windows)
 
 ## ai 
@@ -181,6 +185,7 @@
 
 ## devops 
 
+- [badele/vide](https://github.com/badele/vide) - Neovim custom configuration, oriented for DevOps role (bash, go, json, python, terraform, typescript, etc ...). not empty code :)
 - [kluctl/kluctl](https://github.com/kluctl/kluctl) - The missing glue to put together large Kubernetes deployments, composed of multiple smaller parts (Helm/Kustomize/...)  in a manageable and unified way.
 - [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) - bootstrap HashiCorp Consul, Nomad, or Vault over SSH &lt; 1 minute
 - [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
@@ -217,7 +222,7 @@
 
 ## documentation 
 
-- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - An opinionated guide for developers wanting to get things done with the Nix ecosystem.
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 
 ## emacs 
 
@@ -348,17 +353,26 @@
 - [QJoly/QJoly](https://github.com/QJoly/QJoly) - Lisez-moi
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 
+## learning 
+
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
+
 ## linux 
 
 - [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) - bootstrap HashiCorp Consul, Nomad, or Vault over SSH &lt; 1 minute
 - [hyprland-community/hyprland-autoname-workspaces](https://github.com/hyprland-community/hyprland-autoname-workspaces) - Hyprland autoname workspaces 🪟 [maintainers=@cyrinux,@maximbaz]
 - [xUnholy/k8s-gitops](https://github.com/xUnholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
 
+## lua 
+
+- [badele/vide](https://github.com/badele/vide) - Neovim custom configuration, oriented for DevOps role (bash, go, json, python, terraform, typescript, etc ...). not empty code :)
+
 ## markdown 
 
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 - [dadoomer/markdown-slides](https://github.com/dadoomer/markdown-slides) - Using markdown, write simple but beautiful presentations with math, animations and media.
+- [Nriver/trilium-py](https://github.com/Nriver/trilium-py) - Python client for ETAPI of Trilium Note.
 
 ## monitoring 
 
@@ -368,6 +382,10 @@
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering Tools
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
+
+## neovim 
+
+- [badele/vide](https://github.com/badele/vide) - Neovim custom configuration, oriented for DevOps role (bash, go, json, python, terraform, typescript, etc ...). not empty code :)
 
 ## nextjs 
 
@@ -454,7 +472,6 @@
 - [fgonz666/Debian_Full_Disk_Encryption](https://github.com/fgonz666/Debian_Full_Disk_Encryption) - This french documentated repo explains the steps to follow to build manually a debian system, with or without efi system running, not using the official debian installer and putting all partitions, ev
 - [reireias/keel-arm](https://github.com/reireias/keel-arm) - build keel image for arm32.
 - [ddvk/rmfakecloud](https://github.com/ddvk/rmfakecloud) - host your own cloud for the remarkable
-- [Nriver/trilium-py](https://github.com/Nriver/trilium-py) - Python client for ETAPI of Trilium Note.
 - [ldez/traefik-certs-dumper](https://github.com/ldez/traefik-certs-dumper) - Dump ACME data from Traefik to certificates
 
 ## php 
@@ -477,10 +494,12 @@
 - [mrhavens/Dedockify](https://github.com/mrhavens/Dedockify) - Reverse engineer Docker images into Dockerfiles.
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
 - [Fizzadar/pyinfra](https://github.com/Fizzadar/pyinfra) - pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more.
+- [Nriver/trilium-py](https://github.com/Nriver/trilium-py) - Python client for ETAPI of Trilium Note.
 
 ## python3 
 
 - [pyouroboros/ouroboros](https://github.com/pyouroboros/ouroboros) - Automatically update running docker containers with newest available image
+- [Nriver/trilium-py](https://github.com/Nriver/trilium-py) - Python client for ETAPI of Trilium Note.
 
 ## raspberry-pi 
 
@@ -549,6 +568,7 @@
 
 ## terraform 
 
+- [badele/vide](https://github.com/badele/vide) - Neovim custom configuration, oriented for DevOps role (bash, go, json, python, terraform, typescript, etc ...). not empty code :)
 - [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
 - [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
 - [nufailtd/terraform-budget-gcp](https://github.com/nufailtd/terraform-budget-gcp) - Terraform Manifests to create resources on Google Cloud Platform for hobbyists with limited budgets.
@@ -572,8 +592,13 @@
 
 ## typescript 
 
+- [badele/vide](https://github.com/badele/vide) - Neovim custom configuration, oriented for DevOps role (bash, go, json, python, terraform, typescript, etc ...). not empty code :)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [joone/loz](https://github.com/joone/loz) - Loz is a command-line interface tool based on ChatGPT that allows Unix pipes to be used with other Unix tools.
+
+## vim 
+
+- [badele/vide](https://github.com/badele/vide) - Neovim custom configuration, oriented for DevOps role (bash, go, json, python, terraform, typescript, etc ...). not empty code :)
 
 ## windows 
 
