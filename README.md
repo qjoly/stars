@@ -406,6 +406,7 @@
 
 ## others 
 
+- [jseguillon/kubechat-poc](https://github.com/jseguillon/kubechat-poc) - POC for a Kubernetes chat power by OpenAI's GPTs
 - [gouz/slidesk](https://github.com/gouz/slidesk) - Slideshow companion
 - [ericvolp12/bsky-experiments](https://github.com/ericvolp12/bsky-experiments) - A handful of Go-based tools for poking around with BlueSky using the AT Protocol
 - [FrangipaneTeam/terraform-templates](https://github.com/FrangipaneTeam/terraform-templates) - 
