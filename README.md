@@ -462,7 +462,7 @@
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [juhnny5/DevoxxFR2023-OctoDNS](https://github.com/juhnny5/DevoxxFR2023-OctoDNS) - DevoxxFR 2023 | Infra : Donnez de l’autonomie à vos développeurs avec OctoDNS
 - [QJoly/kubeconfig-merger](https://github.com/QJoly/kubeconfig-merger) - Simple program that merges two kubeconfig files
-- [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS
+- [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [badele/nix-apps](https://github.com/badele/nix-apps) - Some nix applications packages
 - [stephrobert/ansible-aisnippet](https://github.com/stephrobert/ansible-aisnippet) - Generate ansible tasks with chatGPT
 - [Gioman101/FlipperAmiibo](https://github.com/Gioman101/FlipperAmiibo) - Made to be used with Flipper just drag the folder into NFC
