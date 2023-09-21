@@ -427,8 +427,8 @@
 - [juhnny5/pulumi-maas](https://github.com/juhnny5/pulumi-maas) - 
 - [juhnny5/pulumi-maas-python](https://github.com/juhnny5/pulumi-maas-python) - A Pulumi package for creating and managing Canonical Metal-As-A-Service (MAAS) resources
 - [PierreAdams/HackRF-One-French](https://github.com/PierreAdams/HackRF-One-French) - Présentation et démonstration des fonctionnalitées du HackRF One
-- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files. Powered by OpenAI's GPT language model APIs 💫
+- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README files from the terminal. Powered by OpenAI's GPT language model APIs 💫
 - [Linus2punkt0/bluesky-crossposter](https://github.com/Linus2punkt0/bluesky-crossposter) - An app for crossposting your posts from bluesky to twitter and mastodon
 - [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) - k0smotron
 - [HelTecAutomation/ESP32_LoRaWAN](https://github.com/HelTecAutomation/ESP32_LoRaWAN) - Transplanted from Semtech LoRaWAN(https://github.com/Lora-net/LoRaMac-node) protocol to "ESP32 + Arduino" platform. Use RTC, support deep sleep, only working with ESP32 + LoRa boards made by HelTec Au
