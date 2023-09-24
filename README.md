@@ -78,7 +78,7 @@
 
 ## ai 
 
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Automated README generation from the terminal, powered by GPT 🪐
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README files automatically, powered by GPT-4 🪐
 - [simplysabir/AI-Writing-Assistant](https://github.com/simplysabir/AI-Writing-Assistant) - DeepWrite AI is Made with the Help of ChatGPT3 and Specific Model is Prepared for Generating Perfect Blog Post with atmost Clarity.  This is Just the Version 1.0 More Improvement Will be Implemented.
 
 ## analytics 
@@ -224,7 +224,7 @@
 
 ## documentation 
 
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Automated README generation from the terminal, powered by GPT 🪐
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README files automatically, powered by GPT-4 🪐
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 
 ## emacs 
@@ -233,6 +233,7 @@
 
 ## git 
 
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
 - [bokub/git-history-editor](https://github.com/bokub/git-history-editor) - :pencil2: Online commit editor, intuitive and easy to use
 - [ldez/prm](https://github.com/ldez/prm) - Pull Request Manager for Maintainers
@@ -272,6 +273,7 @@
 
 ## hacktoberfest 
 
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [Mic92/nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - Review pull-requests on https://github.com/NixOS/nixpkgs
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
@@ -377,7 +379,7 @@
 
 ## markdown 
 
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Automated README generation from the terminal, powered by GPT 🪐
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README files automatically, powered by GPT-4 🪐
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 - [dadoomer/markdown-slides](https://github.com/dadoomer/markdown-slides) - Using markdown, write simple but beautiful presentations with math, animations and media.
@@ -423,6 +425,7 @@
 
 ## others 
 
+- [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [jseguillon/kubechat-poc](https://github.com/jseguillon/kubechat-poc) - POC for a Kubernetes chat power by OpenAI's GPTs
@@ -507,7 +510,7 @@
 
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
 - [NayamAmarshe/please](https://github.com/NayamAmarshe/please) - 🙏 Please CLI - Minimalistic New Tab Page CLI Tool with a greeting, date and time, inspirational quotes and your personal tasks and to-do list
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Automated README generation from the terminal, powered by GPT 🪐
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README files automatically, powered by GPT-4 🪐
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [autorope/donkeycar](https://github.com/autorope/donkeycar) - Open source hardware and software platform to build a small scale self driving car.
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
@@ -545,6 +548,7 @@
 
 ## rust 
 
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails.
 - [hyprland-community/hyprland-autoname-workspaces](https://github.com/hyprland-community/hyprland-autoname-workspaces) - Hyprland autoname workspaces 🪟 [maintainers=@cyrinux,@maximbaz]
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
