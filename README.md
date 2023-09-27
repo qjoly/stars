@@ -426,6 +426,7 @@
 
 ## others 
 
+- [pulumi/pulumi-terraform-bridge](https://github.com/pulumi/pulumi-terraform-bridge) - A library allowing providers built with the Terraform Plugin SDK to be bridged into Pulumi.
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
