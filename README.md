@@ -111,8 +111,9 @@
 ## automation 
 
 - [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) - bootstrap HashiCorp Consul, Nomad, or Vault over SSH &lt; 1 minute
-- [inoxlang/inox](https://github.com/inoxlang/inox) - Inox is a secure programming language for Web development and scripting
+- [inoxlang/inox](https://github.com/inoxlang/inox) - Inox is a secure programming language for Web development.
 - [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering
+- [containrrr/shepherd](https://github.com/containrrr/shepherd) - Docker swarm service for automatically updating your services whenever their image is refreshed
 
 ## awesome 
 
@@ -169,7 +170,7 @@
 
 ## chrome 
 
-- [inoxlang/inox](https://github.com/inoxlang/inox) - Inox is a secure programming language for Web development and scripting
+- [inoxlang/inox](https://github.com/inoxlang/inox) - Inox is a secure programming language for Web development.
 
 ## cli 
 
@@ -187,11 +188,11 @@
 ## cybersecurity 
 
 - [4ndersonLin/awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) - 🛡️ Awesome Cloud Security Resources ⚔️
-- [inoxlang/inox](https://github.com/inoxlang/inox) - Inox is a secure programming language for Web development and scripting
+- [inoxlang/inox](https://github.com/inoxlang/inox) - Inox is a secure programming language for Web development.
 
 ## data-structures 
 
-- [inoxlang/inox](https://github.com/inoxlang/inox) - Inox is a secure programming language for Web development and scripting
+- [inoxlang/inox](https://github.com/inoxlang/inox) - Inox is a secure programming language for Web development.
 
 ## deep-learning 
 
@@ -271,7 +272,7 @@
 - [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) - bootstrap HashiCorp Consul, Nomad, or Vault over SSH &lt; 1 minute
 - [ipfs-search/ipfs-search](https://github.com/ipfs-search/ipfs-search) - Search engine for the Interplanetary Filesystem.
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily.
-- [inoxlang/inox](https://github.com/inoxlang/inox) - Inox is a secure programming language for Web development and scripting
+- [inoxlang/inox](https://github.com/inoxlang/inox) - Inox is a secure programming language for Web development.
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 
 ## good-first-issue 
@@ -300,6 +301,7 @@
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of tech conferences's date and CFP in order to help conferences organizers, speakers & attendees
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
+- [containrrr/shepherd](https://github.com/containrrr/shepherd) - Docker swarm service for automatically updating your services whenever their image is refreshed
 
 ## home-assistant 
 
@@ -599,6 +601,7 @@
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
+- [containrrr/shepherd](https://github.com/containrrr/shepherd) - Docker swarm service for automatically updating your services whenever their image is refreshed
 
 ## tensorflow 
 
