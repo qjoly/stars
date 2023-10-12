@@ -111,7 +111,7 @@
 ## automation 
 
 - [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) - bootstrap HashiCorp Consul, Nomad, or Vault over SSH &lt; 1 minute
-- [inoxlang/inox](https://github.com/inoxlang/inox) - Inox is a secure programming language for Web development.
+- [inoxlang/inox](https://github.com/inoxlang/inox) - Inoxlang is your shield against complexity in Web Development.
 - [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering
 - [containrrr/shepherd](https://github.com/containrrr/shepherd) - Docker swarm service for automatically updating your services whenever their image is refreshed
 
@@ -170,7 +170,7 @@
 
 ## chrome 
 
-- [inoxlang/inox](https://github.com/inoxlang/inox) - Inox is a secure programming language for Web development.
+- [inoxlang/inox](https://github.com/inoxlang/inox) - Inoxlang is your shield against complexity in Web Development.
 
 ## cli 
 
@@ -188,11 +188,11 @@
 ## cybersecurity 
 
 - [4ndersonLin/awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) - 🛡️ Awesome Cloud Security Resources ⚔️
-- [inoxlang/inox](https://github.com/inoxlang/inox) - Inox is a secure programming language for Web development.
+- [inoxlang/inox](https://github.com/inoxlang/inox) - Inoxlang is your shield against complexity in Web Development.
 
 ## data-structures 
 
-- [inoxlang/inox](https://github.com/inoxlang/inox) - Inox is a secure programming language for Web development.
+- [inoxlang/inox](https://github.com/inoxlang/inox) - Inoxlang is your shield against complexity in Web Development.
 
 ## deep-learning 
 
@@ -272,7 +272,7 @@
 - [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) - bootstrap HashiCorp Consul, Nomad, or Vault over SSH &lt; 1 minute
 - [ipfs-search/ipfs-search](https://github.com/ipfs-search/ipfs-search) - Search engine for the Interplanetary Filesystem.
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily.
-- [inoxlang/inox](https://github.com/inoxlang/inox) - Inox is a secure programming language for Web development.
+- [inoxlang/inox](https://github.com/inoxlang/inox) - Inoxlang is your shield against complexity in Web Development.
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 
 ## good-first-issue 
