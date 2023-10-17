@@ -161,7 +161,7 @@
 
 ## chatgpt 
 
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal. Powered by OpenAI's GPT LLMs 💫
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README files from the terminal. Powered by OpenAI's GPT language model APIs 💫
 - [joone/loz](https://github.com/joone/loz) - Loz is a command-line interface tool based on ChatGPT that allows Unix pipes to be used with other Unix tools.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 
@@ -290,9 +290,10 @@
 - [Mic92/nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - Review pull-requests on https://github.com/NixOS/nixpkgs
 - [gouz/slidesk](https://github.com/gouz/slidesk) - Slideshow companion
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal. Powered by OpenAI's GPT LLMs 💫
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README files from the terminal. Powered by OpenAI's GPT language model APIs 💫
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [updatecli/updatecli](https://github.com/updatecli/updatecli) - A Declarative Dependency Management tool
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [collabnix/kubelabs](https://github.com/collabnix/kubelabs) - Get Started with Kubernetes
 - [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
