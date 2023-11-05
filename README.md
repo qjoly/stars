@@ -47,6 +47,7 @@
 - [learning](#learning)
 - [linux](#linux)
 - [lua](#lua)
+- [macos](#macos)
 - [markdown](#markdown)
 - [monitoring](#monitoring)
 - [mysql](#mysql)
@@ -402,6 +403,10 @@
 ## lua 
 
 - [badele/vide](https://github.com/badele/vide) - Neovim custom configuration, oriented for DevOps role (bash, go, json, python, terraform, typescript, etc ...). not empty code :)
+
+## macos 
+
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines
 
 ## markdown 
 
