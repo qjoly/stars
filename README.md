@@ -460,6 +460,7 @@
 
 ## others 
 
+- [redhat-cop/vault-config-operator](https://github.com/redhat-cop/vault-config-operator) - An operator to support Haschicorp Vault configuration workflows from within Kubernetes
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
 - [juhnny5/octodns-fix](https://github.com/juhnny5/octodns-fix) - Fix malformed records
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
