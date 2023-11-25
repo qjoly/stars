@@ -298,7 +298,6 @@
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [Mic92/nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - Review pull-requests on https://github.com/NixOS/nixpkgs
-- [gouz/slidesk](https://github.com/gouz/slidesk) - Speaker companion
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [updatecli/updatecli](https://github.com/updatecli/updatecli) - A Declarative Dependency Management tool
@@ -470,6 +469,7 @@
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [jseguillon/kubechat-poc](https://github.com/jseguillon/kubechat-poc) - POC for a Kubernetes chat power by OpenAI's GPTs
+- [gouz/slidesk](https://github.com/gouz/slidesk) - Speaker companion
 - [ericvolp12/bsky-experiments](https://github.com/ericvolp12/bsky-experiments) - A handful of Go-based tools for poking around with BlueSky using the AT Protocol
 - [FrangipaneTeam/terraform-templates](https://github.com/FrangipaneTeam/terraform-templates) - 
 - [juhnny5/pulumi-maas](https://github.com/juhnny5/pulumi-maas) - 
