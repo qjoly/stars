@@ -465,6 +465,8 @@
 
 ## others 
 
+- [idrissneumann/pulumi-university](https://github.com/idrissneumann/pulumi-university) - 
+- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform Provider for Proxmox
 - [ddvk/kickstart.nvim](https://github.com/ddvk/kickstart.nvim) - A launch point for your personal nvim configuration
 - [redhat-cop/vault-config-operator](https://github.com/redhat-cop/vault-config-operator) - An operator to support Haschicorp Vault configuration workflows from within Kubernetes
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
