@@ -349,6 +349,7 @@
 
 ## kubernetes 
 
+- [budimanjojo/talhelper](https://github.com/budimanjojo/talhelper) - A tool to help creating Talos kubernetes cluster
 - [gruberdev/homelab](https://github.com/gruberdev/homelab) - Self-managed ArgoCD responsible for controlling my homelab Kubernetes cluster.
 - [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes
 - [haraldkoch/kochhaus-home](https://github.com/haraldkoch/kochhaus-home) - Experimental homelab configuration for running things on kubernetes
