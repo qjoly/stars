@@ -466,6 +466,7 @@
 
 ## others 
 
+- [enix/sysext-bakery](https://github.com/enix/sysext-bakery) - Recipes for baking systemd-sysext images
 - [idrissneumann/pulumi-university](https://github.com/idrissneumann/pulumi-university) - 
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform Provider for Proxmox
 - [ddvk/kickstart.nvim](https://github.com/ddvk/kickstart.nvim) - A launch point for your personal nvim configuration
