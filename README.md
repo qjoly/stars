@@ -417,7 +417,7 @@
 
 ## macos 
 
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 
 ## markdown 
 
