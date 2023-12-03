@@ -466,6 +466,7 @@
 
 ## others 
 
+- [jseguillon/kubelab](https://github.com/jseguillon/kubelab) - kubelab scaleway
 - [enix/sysext-bakery](https://github.com/enix/sysext-bakery) - Recipes for baking systemd-sysext images
 - [idrissneumann/pulumi-university](https://github.com/idrissneumann/pulumi-university) - 
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform Provider for Proxmox
