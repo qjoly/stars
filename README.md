@@ -471,6 +471,7 @@
 
 ## others 
 
+- [onedr0p/JBOPS](https://github.com/onedr0p/JBOPS) - Just a Bunch Of Plex Scripts
 - [Fabienjulio/l-art-de-la-ligne-de-commande](https://github.com/Fabienjulio/l-art-de-la-ligne-de-commande) - Maitriser la ligne de commande, en une seule page
 - [kevinconway/remouseable](https://github.com/kevinconway/remouseable) - Use a reMarkable tablet as a mouse.
 - [jseguillon/kubelab](https://github.com/jseguillon/kubelab) - kubelab scaleway
