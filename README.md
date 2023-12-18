@@ -19,10 +19,8 @@
 - [bash](#bash)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
-- [chrome](#chrome)
 - [cli](#cli)
 - [cybersecurity](#cybersecurity)
-- [data-structures](#data-structures)
 - [deep-learning](#deep-learning)
 - [devops](#devops)
 - [discord](#discord)
@@ -116,7 +114,7 @@
 ## automation 
 
 - [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) - bootstrap HashiCorp Consul, Nomad, or Vault over SSH &lt; 1 minute
-- [inoxlang/inox](https://github.com/inoxlang/inox) - 🛡️ The Inox platform is your shield against complexity.
+- [inoxlang/inox](https://github.com/inoxlang/inox) - 🛡️ The Inox platform is your shield against complexity in web development.
 - [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering
 - [containrrr/shepherd](https://github.com/containrrr/shepherd) - Docker swarm service for automatically updating your services whenever their image is refreshed
 
@@ -178,10 +176,6 @@
 
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 
-## chrome 
-
-- [inoxlang/inox](https://github.com/inoxlang/inox) - 🛡️ The Inox platform is your shield against complexity.
-
 ## cli 
 
 - [homeport/termshot](https://github.com/homeport/termshot) - Creates screenshots based on terminal command output
@@ -199,11 +193,7 @@
 ## cybersecurity 
 
 - [4ndersonLin/awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) - 🛡️ Awesome Cloud Security Resources ⚔️
-- [inoxlang/inox](https://github.com/inoxlang/inox) - 🛡️ The Inox platform is your shield against complexity.
-
-## data-structures 
-
-- [inoxlang/inox](https://github.com/inoxlang/inox) - 🛡️ The Inox platform is your shield against complexity.
+- [inoxlang/inox](https://github.com/inoxlang/inox) - 🛡️ The Inox platform is your shield against complexity in web development.
 
 ## deep-learning 
 
@@ -286,7 +276,7 @@
 - [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) - bootstrap HashiCorp Consul, Nomad, or Vault over SSH &lt; 1 minute
 - [ipfs-search/ipfs-search](https://github.com/ipfs-search/ipfs-search) - Search engine for the Interplanetary Filesystem.
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily.
-- [inoxlang/inox](https://github.com/inoxlang/inox) - 🛡️ The Inox platform is your shield against complexity.
+- [inoxlang/inox](https://github.com/inoxlang/inox) - 🛡️ The Inox platform is your shield against complexity in web development.
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 
 ## good-first-issue 
@@ -353,6 +343,7 @@
 
 ## kubernetes 
 
+- [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that helps you maintain a clean and efficient Kubernetes environment by proactively identifying, removing, or updating stale resources. It provides flexible scheduli
 - [kairos-io/kairos](https://github.com/kairos-io/kairos) - :penguin: The immutable Linux meta-distribution for edge Kubernetes.
 - [budimanjojo/talhelper](https://github.com/budimanjojo/talhelper) - A tool to help creating Talos kubernetes cluster
 - [gruberdev/homelab](https://github.com/gruberdev/homelab) - Self-managed ArgoCD responsible for controlling my homelab Kubernetes cluster.
@@ -418,6 +409,7 @@
 
 ## lua 
 
+- [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that helps you maintain a clean and efficient Kubernetes environment by proactively identifying, removing, or updating stale resources. It provides flexible scheduli
 - [badele/vide](https://github.com/badele/vide) - Neovim custom configuration, oriented for DevOps role (bash, go, json, python, terraform, typescript, etc ...). not empty code :)
 
 ## macos 
@@ -471,6 +463,7 @@
 
 ## others 
 
+- [damiafuentes/DJITelloPy](https://github.com/damiafuentes/DJITelloPy) - DJI Tello drone python interface using the official Tello SDK. Feel free to contribute!
 - [onedr0p/JBOPS](https://github.com/onedr0p/JBOPS) - Just a Bunch Of Plex Scripts
 - [Fabienjulio/l-art-de-la-ligne-de-commande](https://github.com/Fabienjulio/l-art-de-la-ligne-de-commande) - Maitriser la ligne de commande, en une seule page
 - [kevinconway/remouseable](https://github.com/kevinconway/remouseable) - Use a reMarkable tablet as a mouse.
