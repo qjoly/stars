@@ -214,6 +214,7 @@
 
 ## discord 
 
+- [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that helps you maintain a clean and efficient Kubernetes environment by proactively identifying, removing, or updating stale/orphaned resources. It provides flexible
 - [carpenike/k8s-gitops](https://github.com/carpenike/k8s-gitops) - My k8s cluster built with talos and managed by Flux-v2
 
 ## docker 
@@ -347,7 +348,8 @@
 
 ## kubernetes 
 
-- [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that helps you maintain a clean and efficient Kubernetes environment by proactively identifying, removing, or updating stale resources. It provides flexible scheduli
+- [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
+- [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that helps you maintain a clean and efficient Kubernetes environment by proactively identifying, removing, or updating stale/orphaned resources. It provides flexible
 - [kairos-io/kairos](https://github.com/kairos-io/kairos) - :penguin: The immutable Linux meta-distribution for edge Kubernetes.
 - [budimanjojo/talhelper](https://github.com/budimanjojo/talhelper) - A tool to help creating Talos kubernetes cluster
 - [gruberdev/homelab](https://github.com/gruberdev/homelab) - Self-managed ArgoCD responsible for controlling my homelab Kubernetes cluster.
@@ -413,7 +415,7 @@
 
 ## lua 
 
-- [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that helps you maintain a clean and efficient Kubernetes environment by proactively identifying, removing, or updating stale resources. It provides flexible scheduli
+- [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that helps you maintain a clean and efficient Kubernetes environment by proactively identifying, removing, or updating stale/orphaned resources. It provides flexible
 - [badele/vide](https://github.com/badele/vide) - Neovim custom configuration, oriented for DevOps role (bash, go, json, python, terraform, typescript, etc ...). not empty code :)
 
 ## macos 
@@ -467,6 +469,7 @@
 
 ## others 
 
+- [jseguillon/graftool](https://github.com/jseguillon/graftool) - 
 - [julienhmmt/homelab](https://github.com/julienhmmt/homelab) - 
 - [damiafuentes/DJITelloPy](https://github.com/damiafuentes/DJITelloPy) - DJI Tello drone python interface using the official Tello SDK. Feel free to contribute!
 - [onedr0p/JBOPS](https://github.com/onedr0p/JBOPS) - Just a Bunch Of Plex Scripts
