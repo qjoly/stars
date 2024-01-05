@@ -475,6 +475,7 @@
 
 ## others 
 
+- [QJoly/BurntCoffee](https://github.com/QJoly/BurntCoffee) - Burntcoffee is a project that aims to provide a simple and efficient solution for managing and configuring firecracker instances
 - [jseguillon/graftool](https://github.com/jseguillon/graftool) - 
 - [julienhmmt/homelab](https://github.com/julienhmmt/homelab) - 
 - [damiafuentes/DJITelloPy](https://github.com/damiafuentes/DJITelloPy) - DJI Tello drone python interface using the official Tello SDK. Feel free to contribute!
