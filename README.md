@@ -454,6 +454,7 @@
 
 ## others 
 
+- [zwindler/50-nuances-de-kubernetes](https://github.com/zwindler/50-nuances-de-kubernetes) - 
 - [azrod/golink](https://github.com/azrod/golink) - Private shortlink service
 - [iam-veeramalla/aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero) - AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.
 - [QJoly/BurntCoffee](https://github.com/QJoly/BurntCoffee) - Burntcoffee is a project that aims to provide a simple and efficient solution for managing and configuring firecracker instances
@@ -647,6 +648,7 @@
 
 ## terminal 
 
+- [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [homeport/termshot](https://github.com/homeport/termshot) - Creates screenshots based on terminal command output
 - [NayamAmarshe/please](https://github.com/NayamAmarshe/please) - 🙏 Please CLI - Minimalistic New Tab Page CLI Tool with a greeting, date and time, inspirational quotes and your personal tasks and to-do list
