@@ -114,6 +114,7 @@
 
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) - bootstrap HashiCorp Consul, Nomad, or Vault over SSH &lt; 1 minute
+- [joone/loz](https://github.com/joone/loz) - LOZ is a CLI tool that utilizes Large Language Models (LLMs), specifically code-lamma and GPT-3.5, to automatically generate GIT commit messages based on code changes
 - [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering
 - [containrrr/shepherd](https://github.com/containrrr/shepherd) - Docker swarm service for automatically updating your services whenever their image is refreshed
 
@@ -176,7 +177,6 @@
 ## chatgpt 
 
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🎈 Automated README file generator, powered by GPT language model APIs
-- [joone/loz](https://github.com/joone/loz) - LOZ is a CLI tool that utilizes Large Language Models (LLMs), specifically code-lamma and GPT-3.5, to automatically generate GIT commit messages based on code changes
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 
 ## chatgpt-api 
@@ -479,6 +479,7 @@
 
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+- [joone/loz](https://github.com/joone/loz) - LOZ is a CLI tool that utilizes Large Language Models (LLMs), specifically code-lamma and GPT-3.5, to automatically generate GIT commit messages based on code changes
 
 ## nosql 
 
