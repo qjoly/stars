@@ -499,7 +499,6 @@
 ## others 
 
 - [juhnny5/TouraineTech2024-Pulumi](https://github.com/juhnny5/TouraineTech2024-Pulumi) - TouraineTech 2024 | Pulumi : Gérer son infra avec son langage de programmation préféré
-- [zwindler/50-nuances-de-kubernetes](https://github.com/zwindler/50-nuances-de-kubernetes) - 
 - [azrod/golink](https://github.com/azrod/golink) - Private shortlink service
 - [iam-veeramalla/aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero) - AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.
 - [QJoly/BurntCoffee](https://github.com/QJoly/BurntCoffee) - Burntcoffee is a project that aims to provide a simple and efficient solution for managing and configuring firecracker instances
@@ -555,7 +554,7 @@
 - [nix-community/nix-doom-emacs](https://github.com/nix-community/nix-doom-emacs) - doom-emacs packaged for Nix [maintainers=@ckiee,@thiagokokada]
 - [yandex-cloud/k8s-csi-s3](https://github.com/yandex-cloud/k8s-csi-s3) - GeeseFS-based CSI for mounting S3 buckets as PersistentVolumes
 - [janraasch/hugo-bearblog](https://github.com/janraasch/hugo-bearblog) - 🧸 A Hugo theme based on »Bear Blog«. Free, no-nonsense, super-fast blogging. This theme now includes a dark color scheme to support dark mode 🦉 ⬛️!
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
 - [HexxedBitHeadz/FlipperZeroWallpaper](https://github.com/HexxedBitHeadz/FlipperZeroWallpaper) - Wallpapers for Flipper Zero
 - [jsclayton/prometheus-plex-exporter](https://github.com/jsclayton/prometheus-plex-exporter) - Export metrics from your Plex Media Server
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
