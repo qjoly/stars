@@ -29,6 +29,7 @@
 - [discord](#discord)
 - [docker](#docker)
 - [documentation](#documentation)
+- [electron](#electron)
 - [emacs](#emacs)
 - [git](#git)
 - [github](#github)
@@ -86,6 +87,7 @@
 
 ## ai 
 
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator
 
@@ -267,6 +269,10 @@
 
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
+
+## electron 
+
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 
 ## emacs 
 
@@ -499,6 +505,7 @@
 
 ## others 
 
+- [weaveworks/weave-gitops-enterprise](https://github.com/weaveworks/weave-gitops-enterprise) - This repo provides the enterprise level features for the weave-gitops product, including CAPI cluster creation and team workspaces.
 - [juhnny5/TouraineTech2024-Pulumi](https://github.com/juhnny5/TouraineTech2024-Pulumi) - TouraineTech 2024 | Pulumi : Gérer son infra avec son langage de programmation préféré
 - [azrod/golink](https://github.com/azrod/golink) - Private shortlink service
 - [iam-veeramalla/aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero) - AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.
