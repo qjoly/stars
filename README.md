@@ -25,6 +25,7 @@
 - [cybersecurity](#cybersecurity)
 - [database](#database)
 - [deep-learning](#deep-learning)
+- [deployment](#deployment)
 - [devops](#devops)
 - [discord](#discord)
 - [docker](#docker)
@@ -221,6 +222,10 @@
 ## deep-learning 
 
 - [rupeshs/diffusionmagic](https://github.com/rupeshs/diffusionmagic) - Easy to use Stable diffusion workflows using diffusers
+
+## deployment 
+
+- [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
 
 ## devops 
 
