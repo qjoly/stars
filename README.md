@@ -32,6 +32,7 @@
 - [documentation](#documentation)
 - [electron](#electron)
 - [emacs](#emacs)
+- [firefox](#firefox)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -286,6 +287,10 @@
 
 - [vlaci/nix-doom-emacs](https://github.com/vlaci/nix-doom-emacs) - doom-emacs packaged for Nix
 
+## firefox 
+
+- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - The source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
+
 ## git 
 
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -387,6 +392,7 @@
 
 ## kubernetes 
 
+- [askmeegs/istiobyexample](https://github.com/askmeegs/istiobyexample) - 
 - [alex1989hu/kubelet-serving-cert-approver](https://github.com/alex1989hu/kubelet-serving-cert-approver) - Kubelet Serving TLS Certificate Signing Request Approver
 - [gimlet-io/capacitor](https://github.com/gimlet-io/capacitor) - A general purpose UI for FluxCD.
 - [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and O
@@ -520,6 +526,7 @@
 
 ## others 
 
+- [jpetazzo/2024-03-meetup](https://github.com/jpetazzo/2024-03-meetup) - 
 - [PAPAMICA/talos_k8s_openstack](https://github.com/PAPAMICA/talos_k8s_openstack) - Deploy K8S with Talos on Infomaniak Public Cloud !
 - [siderolabs/omni](https://github.com/siderolabs/omni) - SaaS-simple deployment of Kubernetes - on your own hardware.
 - [deggja/serpent](https://github.com/deggja/serpent) - snek in k8s create chaos
