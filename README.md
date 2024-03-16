@@ -603,7 +603,7 @@
 - [PAPAMICA/OpenCraft.cloud](https://github.com/PAPAMICA/OpenCraft.cloud) - Generate a diagram of your Openstack's project
 - [lipanski/docker-static-website](https://github.com/lipanski/docker-static-website) - A very small Docker image (~154KB) to run any static website
 - [QJoly/GitOps](https://github.com/QJoly/GitOps) - WIP - Déploiement complet d'un cluster Kubernetes
-- [szinn/renovate-config](https://github.com/szinn/renovate-config) - 
+- [szinn/renovate-config](https://github.com/szinn/renovate-config) - Useful Renovate Configurations
 - [codespaces-lab/kubernetes-in-codespaces](https://github.com/codespaces-lab/kubernetes-in-codespaces) - Inner loop Kubernetes development using Codespaces
 - [yuvipanda/pre-commit-hook-ensure-sops](https://github.com/yuvipanda/pre-commit-hook-ensure-sops) - pre-commit hook to ensure that files that should be encrypted with sops are
 - [ansible-community/ansible-role-boundary](https://github.com/ansible-community/ansible-role-boundary) - 🚧 Ansible role to install HashiCorp Boundary.
