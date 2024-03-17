@@ -289,7 +289,7 @@
 
 ## firefox 
 
-- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - The source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
+- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - The most of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 
 ## git 
 
@@ -543,7 +543,6 @@
 - [kevinconway/remouseable](https://github.com/kevinconway/remouseable) - Use a reMarkable tablet as a mouse.
 - [jseguillon/kubelab](https://github.com/jseguillon/kubelab) - kubelab scaleway
 - [enix/sysext-bakery](https://github.com/enix/sysext-bakery) - Recipes for baking systemd-sysext images
-- [idrissneumann/pulumi-university](https://github.com/idrissneumann/pulumi-university) - 
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform Provider for Proxmox
 - [ddvk/kickstart.nvim](https://github.com/ddvk/kickstart.nvim) - A launch point for your personal nvim configuration
 - [redhat-cop/vault-config-operator](https://github.com/redhat-cop/vault-config-operator) - An operator to support Haschicorp Vault configuration workflows from within Kubernetes
