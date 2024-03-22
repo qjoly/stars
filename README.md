@@ -392,6 +392,7 @@
 
 ## kubernetes 
 
+- [helm-unittest/helm-unittest](https://github.com/helm-unittest/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin.
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 - [askmeegs/istiobyexample](https://github.com/askmeegs/istiobyexample) - 
 - [alex1989hu/kubelet-serving-cert-approver](https://github.com/alex1989hu/kubelet-serving-cert-approver) - Kubelet Serving TLS Certificate Signing Request Approver
@@ -528,6 +529,8 @@
 
 ## others 
 
+- [littlejo/awesome-french-cilium](https://github.com/littlejo/awesome-french-cilium) - Together all French contents
+- [benjilegnard/jetez-vos-souris-a-la-poubelle](https://github.com/benjilegnard/jetez-vos-souris-a-la-poubelle) - 
 - [jpetazzo/2024-03-meetup](https://github.com/jpetazzo/2024-03-meetup) - 
 - [PAPAMICA/talos_k8s_openstack](https://github.com/PAPAMICA/talos_k8s_openstack) - Deploy K8S with Talos on Infomaniak Public Cloud !
 - [siderolabs/omni](https://github.com/siderolabs/omni) - SaaS-simple deployment of Kubernetes - on your own hardware.
@@ -759,6 +762,7 @@
 
 ## testing 
 
+- [helm-unittest/helm-unittest](https://github.com/helm-unittest/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [geerlingguy/docker-debian11-ansible](https://github.com/geerlingguy/docker-debian11-ansible) - Debian 11 (Bullseye) Docker container for Ansible playbook and role testing.
 
