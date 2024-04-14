@@ -77,6 +77,7 @@
 - [serverless](#serverless)
 - [shell](#shell)
 - [springboot](#springboot)
+- [stable-diffusion](#stable-diffusion)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [terraform](#terraform)
@@ -741,6 +742,10 @@
 ## springboot 
 
 - [Marthym/baywatch](https://github.com/Marthym/baywatch) - Follow your favorite news letters and keep an 👀 on the latest technologies news.
+
+## stable-diffusion 
+
+- [rupeshs/diffusionmagic](https://github.com/rupeshs/diffusionmagic) - Easy to use Stable diffusion workflows using diffusers
 
 ## tensorflow 
 
