@@ -541,6 +541,7 @@
 
 ## others 
 
+- [comworkio/pulumi-university](https://github.com/comworkio/pulumi-university) - 
 - [PixiBixi/pixibixi.github.io](https://github.com/PixiBixi/pixibixi.github.io) - 
 - [littlejo/awesome-french-cilium](https://github.com/littlejo/awesome-french-cilium) - Together all French contents
 - [benjilegnard/jetez-vos-souris-a-la-poubelle](https://github.com/benjilegnard/jetez-vos-souris-a-la-poubelle) - 
