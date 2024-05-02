@@ -544,6 +544,7 @@
 
 ## others 
 
+- [littlejo/provider-github](https://github.com/littlejo/provider-github) - 
 - [tf-cilium/terraform-kind-cilium](https://github.com/tf-cilium/terraform-kind-cilium) - Deploy Kind and Cilium
 - [tf-cilium/terraform-kind-cilium-clustermesh](https://github.com/tf-cilium/terraform-kind-cilium-clustermesh) - Deploy Kind and Cilium Cluster Mesh
 - [comworkio/pulumi-university](https://github.com/comworkio/pulumi-university) - 
