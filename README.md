@@ -62,6 +62,7 @@
 - [open-source](#open-source)
 - [others](#others)
 - [p2p](#p2p)
+- [package-manager](#package-manager)
 - [php](#php)
 - [privacy](#privacy)
 - [programming](#programming)
@@ -234,6 +235,7 @@
 
 ## devops 
 
+- [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [undergroundwires/Azure-in-bullet-points](https://github.com/undergroundwires/Azure-in-bullet-points) - ☁️ Azure summary in bullet points
@@ -309,6 +311,7 @@
 
 ## go 
 
+- [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [jplanckeel/scope](https://github.com/jplanckeel/scope) - Syncronize Chart On Private Registry
 - [alex1989hu/kubelet-serving-cert-approver](https://github.com/alex1989hu/kubelet-serving-cert-approver) - Kubelet Serving TLS Certificate Signing Request Approver
@@ -325,6 +328,7 @@
 
 ## golang 
 
+- [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [jplanckeel/scope](https://github.com/jplanckeel/scope) - Syncronize Chart On Private Registry
 - [alex1989hu/kubelet-serving-cert-approver](https://github.com/alex1989hu/kubelet-serving-cert-approver) - Kubelet Serving TLS Certificate Signing Request Approver
 - [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and O
@@ -400,6 +404,7 @@
 
 ## kubernetes 
 
+- [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick) - Connect Falco to your ecosystem
 - [replicatedhq/outdated](https://github.com/replicatedhq/outdated) - Kubectl plugin to find and report outdated images running in a Kubernetes cluster
 - [littlejo/terraform-provider-cilium](https://github.com/littlejo/terraform-provider-cilium) - Terraform provider to install and manage Kubernetes clusters running Cilium. It mainly uses cilium-cli libraries
@@ -646,6 +651,10 @@
 ## p2p 
 
 - [kairos-io/kairos](https://github.com/kairos-io/kairos) - :penguin: The immutable Linux meta-distribution for edge Kubernetes.
+
+## package-manager 
+
+- [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 
 ## php 
 
