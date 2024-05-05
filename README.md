@@ -267,6 +267,7 @@
 - [nufailtd/terraform-budget-gcp](https://github.com/nufailtd/terraform-budget-gcp) - Terraform Manifests to create resources on Google Cloud Platform for hobbyists with limited budgets.
 - [pabloromeo/clusterplex](https://github.com/pabloromeo/clusterplex) - ClusterPlex is an extended version of Plex, which supports distributed Workers across a cluster to handle transcoding requests.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
+- [brettinternet/homelab](https://github.com/brettinternet/homelab) - Resources for my self-hosted homelab
 - [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images.
 - [pyouroboros/ouroboros](https://github.com/pyouroboros/ouroboros) - Automatically update running docker containers with newest available image
 - [mrhavens/Dedockify](https://github.com/mrhavens/Dedockify) - Reverse engineer Docker images into Dockerfiles.
@@ -459,7 +460,6 @@
 - [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris) - Validation of best practices in your Kubernetes clusters
 - [FairwindsOps/nova](https://github.com/FairwindsOps/nova) - Find outdated or deprecated Helm charts running in your cluster.
 - [szinn/k8s-homelab](https://github.com/szinn/k8s-homelab) - My home operations repository using k8s/gitops
-- [brettinternet/homelab](https://github.com/brettinternet/homelab) - Resources for my self-hosted homelab
 - [toboshii/hajimari](https://github.com/toboshii/hajimari) - Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.
 - [carpenike/k8s-gitops](https://github.com/carpenike/k8s-gitops) - My k8s cluster built with talos and managed by Flux-v2
 - [xunholy/k8s-gitops](https://github.com/xunholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
@@ -549,6 +549,7 @@
 
 ## others 
 
+- [Akanoa/GateKeeper](https://github.com/Akanoa/GateKeeper) - 
 - [littlejo/provider-github](https://github.com/littlejo/provider-github) - 
 - [tf-cilium/terraform-kind-cilium](https://github.com/tf-cilium/terraform-kind-cilium) - Deploy Kind and Cilium
 - [tf-cilium/terraform-kind-cilium-clustermesh](https://github.com/tf-cilium/terraform-kind-cilium-clustermesh) - Deploy Kind and Cilium Cluster Mesh
@@ -684,7 +685,7 @@
 - [ceph/ceph-ansible](https://github.com/ceph/ceph-ansible) - Ansible playbooks to deploy Ceph, the distributed filesystem.
 - [mrhavens/Dedockify](https://github.com/mrhavens/Dedockify) - Reverse engineer Docker images into Dockerfiles.
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
-- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns your Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fas
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and
 - [Nriver/trilium-py](https://github.com/Nriver/trilium-py) - Python client for ETAPI of Trilium Note. Trilium 的 Python版 ETAPI 客户端
 
 ## python3 
