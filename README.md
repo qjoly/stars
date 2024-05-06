@@ -631,7 +631,7 @@
 - [rverchere/ovh-mks-exporter](https://github.com/rverchere/ovh-mks-exporter) - OVH Managed Kubernetes Service Prometheus Exporter
 - [PAPAMICA/insta2wp](https://github.com/PAPAMICA/insta2wp) - Create a new WordPress post with your instagram post automatically
 - [PAPAMICA/OpenCraft.cloud](https://github.com/PAPAMICA/OpenCraft.cloud) - Generate a diagram of your Openstack's project
-- [lipanski/docker-static-website](https://github.com/lipanski/docker-static-website) - A very small Docker image (~154KB) to run any static website
+- [lipanski/docker-static-website](https://github.com/lipanski/docker-static-website) - A very small Docker image (~80KB) to run any static website
 - [QJoly/GitOps](https://github.com/QJoly/GitOps) - WIP - Déploiement complet d'un cluster Kubernetes
 - [szinn/renovate-config](https://github.com/szinn/renovate-config) - Useful Renovate Configurations
 - [codespaces-lab/kubernetes-in-codespaces](https://github.com/codespaces-lab/kubernetes-in-codespaces) - Inner loop Kubernetes development using Codespaces
