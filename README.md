@@ -562,6 +562,7 @@
 
 ## others 
 
+- [littlejo/pulumi-aws-eks](https://github.com/littlejo/pulumi-aws-eks) - A simple example to deploy AWS EKS
 - [Akanoa/GateKeeper](https://github.com/Akanoa/GateKeeper) - 
 - [littlejo/provider-github](https://github.com/littlejo/provider-github) - 
 - [tf-cilium/terraform-kind-cilium](https://github.com/tf-cilium/terraform-kind-cilium) - Deploy Kind and Cilium
