@@ -31,9 +31,11 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
+- [dotnet](#dotnet)
 - [electron](#electron)
 - [emacs](#emacs)
 - [firefox](#firefox)
+- [game](#game)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -73,6 +75,7 @@
 - [pytorch](#pytorch)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
+- [react-native](#react-native)
 - [reverse-engineering](#reverse-engineering)
 - [rust](#rust)
 - [security](#security)
@@ -88,6 +91,7 @@
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [vim](#vim)
+- [vue](#vue)
 - [web](#web)
 - [web-development](#web-development)
 - [windows](#windows)
@@ -237,6 +241,9 @@
 
 ## devops 
 
+- [flux-subsystem-argo/flamingo](https://github.com/flux-subsystem-argo/flamingo) - Flux Subsystem for Argo
+- [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee:
+- [KusionStack/kusion](https://github.com/KusionStack/kusion) - Deliver intentions to Kubernetes and Clouds
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -259,6 +266,7 @@
 
 ## docker 
 
+- [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick) - Connect Falco to your ecosystem
 - [gimlet-io/onechart](https://github.com/gimlet-io/onechart) - A generic Helm chart for your application deployments
 - [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
@@ -292,6 +300,10 @@
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
 
+## dotnet 
+
+- [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
+
 ## electron 
 
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
@@ -303,6 +315,10 @@
 ## firefox 
 
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - The most of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
+
+## game 
+
+- [lucky-sideburn/kubeinvaders](https://github.com/lucky-sideburn/kubeinvaders) - Gamified Chaos Engineering Tool for Kubernetes
 
 ## git 
 
@@ -319,6 +335,8 @@
 
 ## go 
 
+- [iximiuz/kexp](https://github.com/iximiuz/kexp) - k'exp - Kubernetes Explorer
+- [KusionStack/kusion](https://github.com/KusionStack/kusion) - Deliver intentions to Kubernetes and Clouds
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
@@ -336,6 +354,9 @@
 
 ## golang 
 
+- [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee:
+- [KusionStack/kusion](https://github.com/KusionStack/kusion) - Deliver intentions to Kubernetes and Clouds
+- [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [jplanckeel/scope](https://github.com/jplanckeel/scope) - Syncronize Chart On Private Registry
 - [alex1989hu/kubelet-serving-cert-approver](https://github.com/alex1989hu/kubelet-serving-cert-approver) - Kubelet Serving TLS Certificate Signing Request Approver
@@ -411,6 +432,11 @@
 
 ## kubernetes 
 
+- [flux-subsystem-argo/flamingo](https://github.com/flux-subsystem-argo/flamingo) - Flux Subsystem for Argo
+- [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee:
+- [iximiuz/kexp](https://github.com/iximiuz/kexp) - k'exp - Kubernetes Explorer
+- [lucky-sideburn/kubeinvaders](https://github.com/lucky-sideburn/kubeinvaders) - Gamified Chaos Engineering Tool for Kubernetes
+- [KusionStack/kusion](https://github.com/KusionStack/kusion) - Deliver intentions to Kubernetes and Clouds
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick) - Connect Falco to your ecosystem
@@ -685,6 +711,7 @@
 
 ## python 
 
+- [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [rupeshs/diffusionmagic](https://github.com/rupeshs/diffusionmagic) - Easy to use Stable diffusion workflows using diffusers
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
@@ -722,6 +749,10 @@
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 
+## react-native 
+
+- [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
+
 ## reverse-engineering 
 
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
@@ -753,6 +784,7 @@
 
 ## self-hosted 
 
+- [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [gruberdev/homelab](https://github.com/gruberdev/homelab) - A self-managed ArgoCD homelab kubernetes cluster using Talos
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
@@ -834,6 +866,10 @@
 ## vim 
 
 - [badele/vide](https://github.com/badele/vide) - Neovim custom configuration, oriented for DevOps role (bash, go, json, python, terraform, typescript, etc ...). not empty code :)
+
+## vue 
+
+- [iximiuz/kexp](https://github.com/iximiuz/kexp) - k'exp - Kubernetes Explorer
 
 ## web 
 
