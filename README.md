@@ -586,6 +586,7 @@
 
 ## others 
 
+- [littlejo/provider-cilium](https://github.com/littlejo/provider-cilium) - Deploy Cilium with crossplane
 - [littlejo/pulumi-aws-eks](https://github.com/littlejo/pulumi-aws-eks) - A simple example to deploy AWS EKS
 - [Akanoa/GateKeeper](https://github.com/Akanoa/GateKeeper) - 
 - [littlejo/provider-github](https://github.com/littlejo/provider-github) - 
