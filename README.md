@@ -585,6 +585,7 @@
 
 ## others 
 
+- [littlejo/littlejo](https://github.com/littlejo/littlejo) - My personal repository
 - [littlejo/certifications-notes](https://github.com/littlejo/certifications-notes) - 
 - [littlejo/provider-cilium](https://github.com/littlejo/provider-cilium) - Deploy Cilium with crossplane
 - [littlejo/pulumi-aws-eks](https://github.com/littlejo/pulumi-aws-eks) - A simple example to deploy AWS EKS
