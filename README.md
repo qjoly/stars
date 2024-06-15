@@ -610,7 +610,6 @@
 - [iam-veeramalla/aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero) - AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.
 - [QJoly/BurntCoffee](https://github.com/QJoly/BurntCoffee) - Burntcoffee is a project that aims to provide a simple and efficient solution for managing and configuring firecracker instances
 - [jseguillon/graftool](https://github.com/jseguillon/graftool) - 
-- [julienhmmt/homelab](https://github.com/julienhmmt/homelab) - 
 - [damiafuentes/DJITelloPy](https://github.com/damiafuentes/DJITelloPy) - DJI Tello drone python interface using the official Tello SDK. Feel free to contribute!
 - [onedr0p/JBOPS](https://github.com/onedr0p/JBOPS) - Just a Bunch Of Plex Scripts
 - [Fabienjulio/l-art-de-la-ligne-de-commande](https://github.com/Fabienjulio/l-art-de-la-ligne-de-commande) - Maitriser la ligne de commande, en une seule page
