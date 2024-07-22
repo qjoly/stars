@@ -613,6 +613,7 @@
 
 ## others 
 
+- [zwindler/sidecar-container-example](https://github.com/zwindler/sidecar-container-example) - 
 - [idrissneumann/quickwit-talk-fr](https://github.com/idrissneumann/quickwit-talk-fr) - 
 - [joplin/web-app](https://github.com/joplin/web-app) - Joplin web app
 - [xaitax/TotalRecall](https://github.com/xaitax/TotalRecall) - This tool extracts and displays data from the Recall feature in Windows 11, providing an easy way to access information about your PC's activity snapshots.
