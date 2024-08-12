@@ -36,6 +36,7 @@
 - [electron](#electron)
 - [emacs](#emacs)
 - [firefox](#firefox)
+- [framework](#framework)
 - [game](#game)
 - [git](#git)
 - [github](#github)
@@ -333,6 +334,10 @@
 
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 
+## framework 
+
+- [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
+
 ## game 
 
 - [lucky-sideburn/kubeinvaders](https://github.com/lucky-sideburn/kubeinvaders) - Gamified Chaos Engineering Tool for Kubernetes
@@ -454,6 +459,8 @@
 
 ## kubernetes 
 
+- [kubermatic/kubeone](https://github.com/kubermatic/kubeone) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.
+- [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - A cross-platform system tray application for managing multiple kubectl port-forward commands, with support for UDP and proxy connections through k8s clusters
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [flux-subsystem-argo/flamingo](https://github.com/flux-subsystem-argo/flamingo) - Flux Subsystem for Argo
@@ -761,6 +768,7 @@
 
 ## python 
 
+- [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [rupeshs/diffusionmagic](https://github.com/rupeshs/diffusionmagic) - Easy to use Stable diffusion workflows using diffusers
@@ -780,6 +788,7 @@
 
 ## python3 
 
+- [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
 - [pyouroboros/ouroboros](https://github.com/pyouroboros/ouroboros) - Automatically update running docker containers with newest available image
 - [Nriver/trilium-py](https://github.com/Nriver/trilium-py) - Python client for ETAPI of Trilium Note. Trilium 的 Python版 ETAPI 客户端
 
