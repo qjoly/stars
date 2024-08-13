@@ -628,6 +628,7 @@
 
 ## others 
 
+- [cornelinux/yubikey-luks](https://github.com/cornelinux/yubikey-luks) - Two factor authentication for harddisk encryption
 - [asdeed/proxmox_gk](https://github.com/asdeed/proxmox_gk) - Third-party Proxmox bash utility to automate deployment of LXC and QEMU/KVM guests, individually or in batches, via Cloud-init.
 - [zwindler/sidecar-container-example](https://github.com/zwindler/sidecar-container-example) - 
 - [idrissneumann/quickwit-talk-fr](https://github.com/idrissneumann/quickwit-talk-fr) - 
