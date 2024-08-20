@@ -644,7 +644,6 @@
 - [k8svisual/vpk](https://github.com/k8svisual/vpk) - View k8s in graphical fashion
 - [zwindler/50ndk](https://github.com/zwindler/50ndk) - 
 - [devantler/ksail](https://github.com/devantler/ksail) - CLI tool for provisioning GitOps enabled K8s clusters in Docker.
-- [littlejo/littlejo](https://github.com/littlejo/littlejo) - My personal repository
 - [littlejo/certifications-notes](https://github.com/littlejo/certifications-notes) - 
 - [littlejo/provider-cilium](https://github.com/littlejo/provider-cilium) - Deploy Cilium with crossplane
 - [littlejo/pulumi-aws-eks](https://github.com/littlejo/pulumi-aws-eks) - A simple example to deploy AWS EKS
@@ -656,7 +655,6 @@
 - [PixiBixi/pixibixi.github.io](https://github.com/PixiBixi/pixibixi.github.io) - 
 - [littlejo/awesome-french-cilium](https://github.com/littlejo/awesome-french-cilium) - Together all French contents
 - [benjilegnard/jetez-vos-souris-a-la-poubelle](https://github.com/benjilegnard/jetez-vos-souris-a-la-poubelle) - 
-- [jpetazzo/2024-03-meetup](https://github.com/jpetazzo/2024-03-meetup) - 
 - [PAPAMICA/talos_k8s_openstack](https://github.com/PAPAMICA/talos_k8s_openstack) - Deploy K8S with Talos on Infomaniak Public Cloud !
 - [siderolabs/omni](https://github.com/siderolabs/omni) - SaaS-simple deployment of Kubernetes - on your own hardware.
 - [deggja/serpent](https://github.com/deggja/serpent) - Chaos snake for Kubernetes. Chaos engineering combined with a classic snake game.
@@ -928,7 +926,6 @@
 - [poseidon/typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform
 - [QJoly/QJoly](https://github.com/QJoly/QJoly) - Lisez-moi
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
 
 ## testing 
 
