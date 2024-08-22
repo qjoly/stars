@@ -633,6 +633,7 @@
 
 ## others 
 
+- [Evidlo/remarkable_mouse](https://github.com/Evidlo/remarkable_mouse) - use your reMarkable as a graphics tablet
 - [EOSC-synergy/ssh-oidc](https://github.com/EOSC-synergy/ssh-oidc) - Documentation for SSH with OIDC
 - [cornelinux/yubikey-luks](https://github.com/cornelinux/yubikey-luks) - Two factor authentication for harddisk encryption
 - [asdeed/proxmox_gk](https://github.com/asdeed/proxmox_gk) - Third-party Proxmox bash utility to automate deployment of LXC and QEMU/KVM guests, individually or in batches, via Cloud-init.
