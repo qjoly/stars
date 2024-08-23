@@ -297,9 +297,9 @@
 - [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images.
 - [pyouroboros/ouroboros](https://github.com/pyouroboros/ouroboros) - Automatically update running docker containers with newest available image
 - [mrhavens/Dedockify](https://github.com/mrhavens/Dedockify) - Reverse engineer Docker images into Dockerfiles.
-- [QJoly/TheBidouilleur.xyz](https://github.com/QJoly/TheBidouilleur.xyz) - Blog autour de mes découvertes techniques (ou pas)
+- [qjoly/TheBidouilleur.xyz](https://github.com/qjoly/TheBidouilleur.xyz) - Blog autour de mes découvertes techniques (ou pas)
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
-- [QJoly/PrezDocker](https://github.com/QJoly/PrezDocker) - Présentation ludique pour montrer les différentes notions autour de Docker aux débutants
+- [qjoly/PrezDocker](https://github.com/qjoly/PrezDocker) - Présentation ludique pour montrer les différentes notions autour de Docker aux débutants
 - [geerlingguy/docker-debian11-ansible](https://github.com/geerlingguy/docker-debian11-ansible) - Debian 11 (Bullseye) Docker container for Ansible playbook and role testing.
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
@@ -537,12 +537,12 @@
 - [bjw-s/home-ops](https://github.com/bjw-s/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices
 - [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering
 - [poseidon/typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform
-- [QJoly/TheBidouilleur.xyz](https://github.com/QJoly/TheBidouilleur.xyz) - Blog autour de mes découvertes techniques (ou pas)
-- [QJoly/helm-charts](https://github.com/QJoly/helm-charts) - Dépot Helm Personnel (CI activé)
+- [qjoly/TheBidouilleur.xyz](https://github.com/qjoly/TheBidouilleur.xyz) - Blog autour de mes découvertes techniques (ou pas)
+- [qjoly/helm-charts](https://github.com/qjoly/helm-charts) - Dépot Helm Personnel (CI activé)
 - [dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises) - A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it off
-- [QJoly/QJoly](https://github.com/QJoly/QJoly) - Lisez-moi
+- [qjoly/QJoly](https://github.com/qjoly/QJoly) - Lisez-moi
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 
 ## learning 
@@ -663,7 +663,7 @@
 - [juhnny5/TouraineTech2024-Pulumi](https://github.com/juhnny5/TouraineTech2024-Pulumi) - TouraineTech 2024 | Pulumi : Gérer son infra avec son langage de programmation préféré
 - [azrod/golink](https://github.com/azrod/golink) - Private shortlink service
 - [iam-veeramalla/aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero) - AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.
-- [QJoly/BurntCoffee](https://github.com/QJoly/BurntCoffee) - Burntcoffee is a project that aims to provide a simple and efficient solution for managing and configuring firecracker instances
+- [qjoly/BurntCoffee](https://github.com/qjoly/BurntCoffee) - Burntcoffee is a project that aims to provide a simple and efficient solution for managing and configuring firecracker instances
 - [jseguillon/graftool](https://github.com/jseguillon/graftool) - 
 - [damiafuentes/DJITelloPy](https://github.com/damiafuentes/DJITelloPy) - DJI Tello drone python interface using the official Tello SDK. Feel free to contribute!
 - [onedr0p/JBOPS](https://github.com/onedr0p/JBOPS) - Just a Bunch Of Plex Scripts
@@ -703,7 +703,7 @@
 - [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) - A tool for automatically generating markdown documentation for helm charts
 - [DeekshithSN/Helm_charts](https://github.com/DeekshithSN/Helm_charts) - 
 - [k3s-io/k3s-ansible](https://github.com/k3s-io/k3s-ansible) - 
-- [QJoly/Debian-Template-Proxmox](https://github.com/QJoly/Debian-Template-Proxmox) - Création d'une template Debian 12 sur un hyperviseur Proxmox
+- [qjoly/Debian-Template-Proxmox](https://github.com/qjoly/Debian-Template-Proxmox) - Création d'une template Debian 12 sur un hyperviseur Proxmox
 - [Rolix44/Kubestroyer](https://github.com/Rolix44/Kubestroyer) - Kubernetes  exploitation tool
 - [alexphelps/server-error-pages](https://github.com/alexphelps/server-error-pages) - Easy to use, professional error pages to replace the plaintext error pages that come with any server software like Nginx or Apache
 - [perrymanuk/hashi-homelab](https://github.com/perrymanuk/hashi-homelab) - small lightweight homelab based on nomad and consul from hashicorp
@@ -718,17 +718,17 @@
 - [HexxedBitHeadz/FlipperZeroWallpaper](https://github.com/HexxedBitHeadz/FlipperZeroWallpaper) - Wallpapers for Flipper Zero
 - [jsclayton/prometheus-plex-exporter](https://github.com/jsclayton/prometheus-plex-exporter) - Export metrics from your Plex Media Server
 - [juhnny5/DevoxxFR2023-OctoDNS](https://github.com/juhnny5/DevoxxFR2023-OctoDNS) - DevoxxFR 2023 | Infra : Donnez de l’autonomie à vos développeurs avec OctoDNS
-- [QJoly/kubeconfig-merger](https://github.com/QJoly/kubeconfig-merger) - Simple program that merges two kubeconfig files
+- [qjoly/kubeconfig-merger](https://github.com/qjoly/kubeconfig-merger) - Simple program that merges two kubeconfig files
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [badele/nix-apps](https://github.com/badele/nix-apps) - Some nix applications packages
 - [stephrobert/ansible-aisnippet](https://github.com/stephrobert/ansible-aisnippet) - Generate ansible tasks with chatGPT
 - [Gioman101/FlipperAmiibo](https://github.com/Gioman101/FlipperAmiibo) - Made to be used with Flipper just drag the folder into NFC
-- [QJoly/DebianRepository](https://github.com/QJoly/DebianRepository) - Simple Debian Repository
+- [qjoly/DebianRepository](https://github.com/qjoly/DebianRepository) - Simple Debian Repository
 - [rverchere/ovh-mks-exporter](https://github.com/rverchere/ovh-mks-exporter) - OVH Managed Kubernetes Service Prometheus Exporter
 - [PAPAMICA/insta2wp](https://github.com/PAPAMICA/insta2wp) - Create a new WordPress post with your instagram post automatically
 - [PAPAMICA/OpenCraft.cloud](https://github.com/PAPAMICA/OpenCraft.cloud) - Generate a diagram of your Openstack's project
 - [lipanski/docker-static-website](https://github.com/lipanski/docker-static-website) - A very small Docker image (~80KB) to run any static website
-- [QJoly/GitOps](https://github.com/QJoly/GitOps) - WIP - Déploiement complet d'un cluster Kubernetes
+- [qjoly/GitOps](https://github.com/qjoly/GitOps) - WIP - Déploiement complet d'un cluster Kubernetes
 - [szinn/renovate-config](https://github.com/szinn/renovate-config) - Useful Renovate Configurations
 - [codespaces-lab/kubernetes-in-codespaces](https://github.com/codespaces-lab/kubernetes-in-codespaces) - Inner loop Kubernetes development using Codespaces
 - [yuvipanda/pre-commit-hook-ensure-sops](https://github.com/yuvipanda/pre-commit-hook-ensure-sops) - pre-commit hook to ensure that files that should be encrypted with sops are
@@ -739,7 +739,7 @@
 - [zwindler/demystifions-kubernetes](https://github.com/zwindler/demystifions-kubernetes) - 
 - [cse-labs/kubernetes-in-codespaces](https://github.com/cse-labs/kubernetes-in-codespaces) - Kubernetes development cluster in GitHub Codespaces
 - [Nrosa01/pmd-quiz-online](https://github.com/Nrosa01/pmd-quiz-online) - Web recreation of the PMD EoS personality test
-- [QJoly/molecule-os-autobuild](https://github.com/QJoly/molecule-os-autobuild) - Collections d'images Docker pour Molecule
+- [qjoly/molecule-os-autobuild](https://github.com/qjoly/molecule-os-autobuild) - Collections d'images Docker pour Molecule
 - [zwindler/ansible-scaleway](https://github.com/zwindler/ansible-scaleway) - 
 - [fgonz666/Debian_Full_Disk_Encryption](https://github.com/fgonz666/Debian_Full_Disk_Encryption) - This french documentated repo explains the steps to follow to build manually a debian system, with or without efi system running, not using the official debian installer and putting all partitions, ev
 - [ddvk/rmfakecloud](https://github.com/ddvk/rmfakecloud) - host your own cloud for the remarkable
@@ -925,7 +925,7 @@
 - [xunholy/k8s-gitops](https://github.com/xunholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
 - [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering
 - [poseidon/typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform
-- [QJoly/QJoly](https://github.com/QJoly/QJoly) - Lisez-moi
+- [qjoly/QJoly](https://github.com/qjoly/QJoly) - Lisez-moi
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 
 ## testing 
@@ -975,5 +975,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [QJoly](https://github.com/QJoly) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [qjoly](https://github.com/qjoly) has waived all copyright and related or neighboring rights to this work.
 
