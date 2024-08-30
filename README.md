@@ -76,6 +76,7 @@
 - [postgresql](#postgresql)
 - [privacy](#privacy)
 - [programming](#programming)
+- [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
@@ -640,13 +641,14 @@
 
 ## others 
 
+- [kraudcloud/mailshuttle](https://github.com/kraudcloud/mailshuttle) - receive emails locally, proxy them
+- [sachac/.emacs.d](https://github.com/sachac/.emacs.d) - Emacs configuration
 - [Evidlo/remarkable_mouse](https://github.com/Evidlo/remarkable_mouse) - use your reMarkable as a graphics tablet
 - [EOSC-synergy/ssh-oidc](https://github.com/EOSC-synergy/ssh-oidc) - Documentation for SSH with OIDC
 - [cornelinux/yubikey-luks](https://github.com/cornelinux/yubikey-luks) - Two factor authentication for harddisk encryption
 - [asdeed/proxmox_gk](https://github.com/asdeed/proxmox_gk) - Third-party Proxmox bash utility to automate deployment of LXC and QEMU/KVM guests, individually or in batches, via Cloud-init.
 - [zwindler/sidecar-container-example](https://github.com/zwindler/sidecar-container-example) - 
 - [idrissneumann/quickwit-talk-fr](https://github.com/idrissneumann/quickwit-talk-fr) - 
-- [joplin/web-app](https://github.com/joplin/web-app) - Joplin web app (beta)
 - [xaitax/TotalRecall](https://github.com/xaitax/TotalRecall) - This tool extracts and displays data from the Recall feature in Windows 11, providing an easy way to access information about your PC's activity snapshots.
 - [Yelp/clusterman](https://github.com/Yelp/clusterman) - Cluster Autoscaler for Kubernetes and Mesos
 - [k8svisual/vpk](https://github.com/k8svisual/vpk) - View k8s in graphical fashion
@@ -778,6 +780,10 @@
 ## programming 
 
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+
+## pwa 
+
+- [joplin/web-app](https://github.com/joplin/web-app) - Joplin web app (beta)
 
 ## python 
 
