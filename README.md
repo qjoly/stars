@@ -21,6 +21,7 @@
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
+- [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [computer-science](#computer-science)
 - [continuous-integration](#continuous-integration)
@@ -28,6 +29,7 @@
 - [database](#database)
 - [deep-learning](#deep-learning)
 - [deployment](#deployment)
+- [design](#design)
 - [devops](#devops)
 - [discord](#discord)
 - [docker](#docker)
@@ -52,6 +54,7 @@
 - [iot](#iot)
 - [ipfs](#ipfs)
 - [java](#java)
+- [javascript](#javascript)
 - [json](#json)
 - [kubernetes](#kubernetes)
 - [learning](#learning)
@@ -220,6 +223,10 @@
 
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 
+## chrome-extension 
+
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
+
 ## cli 
 
 - [homeport/termshot](https://github.com/homeport/termshot) - Creates screenshots based on terminal command output
@@ -258,6 +265,10 @@
 
 - [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
+
+## design 
+
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 
 ## devops 
 
@@ -464,6 +475,10 @@
 ## java 
 
 - [Marthym/baywatch](https://github.com/Marthym/baywatch) - Follow your favorite news letters and keep an 👀 on the latest technologies news.
+
+## javascript 
+
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 
 ## json 
 
@@ -909,6 +924,7 @@
 
 ## tensorflow 
 
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [autorope/donkeycar](https://github.com/autorope/donkeycar) - Open source hardware and software platform to build a small scale self driving car.
 
 ## terminal 
