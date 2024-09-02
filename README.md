@@ -486,6 +486,7 @@
 
 ## kubernetes 
 
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
@@ -615,6 +616,7 @@
 
 ## monitoring 
 
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [sshlog/agent](https://github.com/sshlog/agent) - SSH Session Monitoring Daemon
@@ -656,6 +658,7 @@
 
 ## others 
 
+- [ContainerCraft/Konductor](https://github.com/ContainerCraft/Konductor) - DevOps Template Repository
 - [kraudcloud/mailshuttle](https://github.com/kraudcloud/mailshuttle) - receive emails locally, proxy them
 - [sachac/.emacs.d](https://github.com/sachac/.emacs.d) - Emacs configuration
 - [Evidlo/remarkable_mouse](https://github.com/Evidlo/remarkable_mouse) - use your reMarkable as a graphics tablet
@@ -874,6 +877,7 @@
 
 ## security 
 
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [moul/sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
