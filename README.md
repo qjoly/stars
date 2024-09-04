@@ -35,7 +35,6 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
-- [dotnet](#dotnet)
 - [electron](#electron)
 - [emacs](#emacs)
 - [firefox](#firefox)
@@ -334,10 +333,6 @@
 - [hrs/dotfiles](https://github.com/hrs/dotfiles) - Let's be honest: mostly Emacs.
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
-
-## dotnet 
-
-- [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 
 ## electron 
 
@@ -659,6 +654,7 @@
 
 ## others 
 
+- [samwho/visualisations](https://github.com/samwho/visualisations) - Code behind my visualisation blog posts
 - [ContainerCraft/Konductor](https://github.com/ContainerCraft/Konductor) - DevOps Template Repository
 - [kraudcloud/mailshuttle](https://github.com/kraudcloud/mailshuttle) - receive emails locally, proxy them
 - [sachac/.emacs.d](https://github.com/sachac/.emacs.d) - Emacs configuration
