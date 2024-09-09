@@ -653,6 +653,7 @@
 
 ## others 
 
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [samwho/visualisations](https://github.com/samwho/visualisations) - Code behind my visualisation blog posts
 - [ContainerCraft/Konductor](https://github.com/ContainerCraft/Konductor) - DevOps Template Repository
 - [kraudcloud/mailshuttle](https://github.com/kraudcloud/mailshuttle) - receive emails locally, proxy them
