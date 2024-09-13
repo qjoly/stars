@@ -653,6 +653,7 @@
 
 ## others 
 
+- [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector) - This is a place for various problem detectors running on the Kubernetes nodes.
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [samwho/visualisations](https://github.com/samwho/visualisations) - Code behind my visualisation blog posts
 - [ContainerCraft/Konductor](https://github.com/ContainerCraft/Konductor) - DevOps Template Repository
