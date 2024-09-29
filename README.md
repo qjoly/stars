@@ -661,6 +661,7 @@
 
 ## others 
 
+- [PlakarLabs/plakar](https://github.com/PlakarLabs/plakar) - plakar is a backup solution
 - [littlejo/podcast-cilium](https://github.com/littlejo/podcast-cilium) - 
 - [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector) - This is a place for various problem detectors running on the Kubernetes nodes.
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
