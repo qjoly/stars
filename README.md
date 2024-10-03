@@ -273,7 +273,7 @@
 
 ## devops 
 
-- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager written in Rust 🦀
+- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward on steroids  🦀 ⚡  kftray makes it easy for you to manage and share multiple k8s port forwards right from your menu bar (or terminal)
 - [moul/sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [flux-subsystem-argo/flamingo](https://github.com/flux-subsystem-argo/flamingo) - Flux Subsystem for Argo
 - [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee:
@@ -491,7 +491,7 @@
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
-- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager written in Rust 🦀
+- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward on steroids  🦀 ⚡  kftray makes it easy for you to manage and share multiple k8s port forwards right from your menu bar (or terminal)
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [flux-subsystem-argo/flamingo](https://github.com/flux-subsystem-argo/flamingo) - Flux Subsystem for Argo
 - [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee:
@@ -881,7 +881,7 @@
 
 ## rust 
 
-- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager written in Rust 🦀
+- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward on steroids  🦀 ⚡  kftray makes it easy for you to manage and share multiple k8s port forwards right from your menu bar (or terminal)
 - [bpfman/bpfman](https://github.com/bpfman/bpfman) - An eBPF Manager for Linux and Kubernetes
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 - [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets.
@@ -987,7 +987,7 @@
 
 ## typescript 
 
-- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager written in Rust 🦀
+- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward on steroids  🦀 ⚡  kftray makes it easy for you to manage and share multiple k8s port forwards right from your menu bar (or terminal)
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [badele/vide](https://github.com/badele/vide) - Neovim custom configuration, oriented for DevOps role (bash, go, json, python, terraform, typescript, etc ...). not empty code :)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
