@@ -444,6 +444,7 @@
 - [Mic92/nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - Review pull-requests on https://github.com/NixOS/nixpkgs
 - [slidesk/slidesk](https://github.com/slidesk/slidesk) - Speaker companion
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS for Kubernetes
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [updatecli/updatecli](https://github.com/updatecli/updatecli) - A Declarative Dependency Management tool
 - [collabnix/kubelabs](https://github.com/collabnix/kubelabs) - Get Started with Kubernetes
@@ -492,6 +493,7 @@
 
 ## kubernetes 
 
+- [rothgar/bashScheduler](https://github.com/rothgar/bashScheduler) - Kubernetes scheduler written in less than 100 lines of bash :grimacing: :laughing:
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes.
 - [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
@@ -677,6 +679,8 @@
 
 ## others 
 
+- [littlejo/results-cilium-clustermesh](https://github.com/littlejo/results-cilium-clustermesh) - 
+- [scraly/DuchessFrance.github.io](https://github.com/scraly/DuchessFrance.github.io) - 
 - [tumido/crd-snippets](https://github.com/tumido/crd-snippets) - 
 - [PlakarLabs/plakar](https://github.com/PlakarLabs/plakar) - plakar is a backup solution
 - [littlejo/podcast-cilium](https://github.com/littlejo/podcast-cilium) - 
