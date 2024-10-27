@@ -680,6 +680,7 @@
 
 ## others 
 
+- [sago35/keyboards](https://github.com/sago35/keyboards) - 
 - [littlejo/results-cilium-clustermesh](https://github.com/littlejo/results-cilium-clustermesh) - 
 - [scraly/DuchessFrance.github.io](https://github.com/scraly/DuchessFrance.github.io) - 
 - [tumido/crd-snippets](https://github.com/tumido/crd-snippets) - 
