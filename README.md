@@ -35,6 +35,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
+- [education](#education)
 - [electron](#electron)
 - [emacs](#emacs)
 - [firefox](#firefox)
@@ -342,6 +343,10 @@
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
 
+## education 
+
+- [f1ko/demystifying-cni](https://github.com/f1ko/demystifying-cni) - Explanation on what a CNI (Container Network Interface) is and how to write it from scratch.
+
 ## electron 
 
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
@@ -500,6 +505,7 @@
 
 ## kubernetes 
 
+- [f1ko/demystifying-cni](https://github.com/f1ko/demystifying-cni) - Explanation on what a CNI (Container Network Interface) is and how to write it from scratch.
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration
 - [kumahq/kuma](https://github.com/kumahq/kuma) - 🐻 The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project.
 - [rothgar/bashScheduler](https://github.com/rothgar/bashScheduler) - Kubernetes scheduler written in less than 100 lines of bash :grimacing: :laughing:
@@ -590,11 +596,13 @@
 
 ## learning 
 
+- [f1ko/demystifying-cni](https://github.com/f1ko/demystifying-cni) - Explanation on what a CNI (Container Network Interface) is and how to write it from scratch.
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 
 ## linux 
 
+- [f1ko/demystifying-cni](https://github.com/f1ko/demystifying-cni) - Explanation on what a CNI (Container Network Interface) is and how to write it from scratch.
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
