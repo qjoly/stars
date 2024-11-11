@@ -406,6 +406,7 @@
 
 ## golang 
 
+- [openziti-test-kitchen/kubeztl](https://github.com/openziti-test-kitchen/kubeztl) - A zitified kubernetes client
 - [kumahq/kuma](https://github.com/kumahq/kuma) - 🐻 The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project.
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
@@ -504,6 +505,7 @@
 
 ## kubernetes 
 
+- [openziti-test-kitchen/kubeztl](https://github.com/openziti-test-kitchen/kubeztl) - A zitified kubernetes client
 - [f1ko/demystifying-cni](https://github.com/f1ko/demystifying-cni) - Explanation on what a CNI (Container Network Interface) is and how to write it from scratch.
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration
 - [kumahq/kuma](https://github.com/kumahq/kuma) - 🐻 The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project.
@@ -704,7 +706,7 @@
 - [littlejo/results-cilium-clustermesh](https://github.com/littlejo/results-cilium-clustermesh) - 
 - [scraly/DuchessFrance.github.io](https://github.com/scraly/DuchessFrance.github.io) - 
 - [tumido/crd-snippets](https://github.com/tumido/crd-snippets) - 
-- [PlakarLabs/plakar](https://github.com/PlakarLabs/plakar) - plakar is a backup solution
+- [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution
 - [littlejo/podcast-cilium](https://github.com/littlejo/podcast-cilium) - 
 - [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector) - This is a place for various problem detectors running on the Kubernetes nodes.
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
