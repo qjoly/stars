@@ -60,6 +60,7 @@
 - [learning](#learning)
 - [linux](#linux)
 - [llm](#llm)
+- [login](#login)
 - [low-code](#low-code)
 - [lua](#lua)
 - [mac](#mac)
@@ -505,6 +506,7 @@
 
 ## kubernetes 
 
+- [vmware-tanzu/pinniped](https://github.com/vmware-tanzu/pinniped) - Pinniped is the easy, secure way to log in to your Kubernetes clusters.
 - [openziti-test-kitchen/kubeztl](https://github.com/openziti-test-kitchen/kubeztl) - A zitified kubernetes client
 - [f1ko/demystifying-cni](https://github.com/f1ko/demystifying-cni) - Explanation on what a CNI (Container Network Interface) is and how to write it from scratch.
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration
@@ -616,6 +618,10 @@
 
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
 - [joone/loz](https://github.com/joone/loz) - Loz is a command-line tool that enables your preferred LLM to execute system commands and utilize Unix pipes, integrating AI capabilities with other Unix tools.
+
+## login 
+
+- [vmware-tanzu/pinniped](https://github.com/vmware-tanzu/pinniped) - Pinniped is the easy, secure way to log in to your Kubernetes clusters.
 
 ## low-code 
 
