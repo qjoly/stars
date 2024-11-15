@@ -707,6 +707,7 @@
 
 ## others 
 
+- [tperelle/managed-k8s-offer-comparison](https://github.com/tperelle/managed-k8s-offer-comparison) - This project aims to compare the cloud providers providing managed Kubernetes services.
 - [isometry/vault-ssh-plus](https://github.com/isometry/vault-ssh-plus) - Automatically use HashiCorp Vault SSH Client Key Signing with ssh(1)
 - [sago35/keyboards](https://github.com/sago35/keyboards) - 
 - [littlejo/results-cilium-clustermesh](https://github.com/littlejo/results-cilium-clustermesh) - 
