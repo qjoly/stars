@@ -720,6 +720,7 @@
 
 ## others 
 
+- [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross) - Docker image for Golang cross-compiling with CGO
 - [Gabriella439/nixos-in-production](https://github.com/Gabriella439/nixos-in-production) - Source files for the book "NixOS in Production"
 - [tperelle/managed-k8s-offer-comparison](https://github.com/tperelle/managed-k8s-offer-comparison) - This project aims to compare the cloud providers providing managed Kubernetes services.
 - [isometry/vault-ssh-plus](https://github.com/isometry/vault-ssh-plus) - Automatically use HashiCorp Vault SSH Client Key Signing with ssh(1)
