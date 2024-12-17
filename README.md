@@ -732,6 +732,7 @@
 
 ## others 
 
+- [whazor/k8s-at-home-search](https://github.com/whazor/k8s-at-home-search) - Your Gateway Drug to Kubernetes at Home!
 - [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross) - Docker image for Golang cross-compiling with CGO
 - [Gabriella439/nixos-in-production](https://github.com/Gabriella439/nixos-in-production) - Source files for the book "NixOS in Production"
 - [tperelle/managed-k8s-offer-comparison](https://github.com/tperelle/managed-k8s-offer-comparison) - This project aims to compare the cloud providers providing managed Kubernetes services.
