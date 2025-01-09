@@ -764,6 +764,7 @@
 
 ## others 
 
+- [didactiklabs/nixbook](https://github.com/didactiklabs/nixbook) - Laptop NixOS Configuration
 - [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate) - InGate - an Ingress & Gateway API Controller
 - [minad/org-modern](https://github.com/minad/org-modern) - :unicorn: Modern Org Style
 - [mmalyska/argocd-secret-replacer](https://github.com/mmalyska/argocd-secret-replacer) - Replace placeholders with this ArgoCD plugin stored in sops encrypted file
