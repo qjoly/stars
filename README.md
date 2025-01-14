@@ -768,6 +768,8 @@
 
 ## others 
 
+- [badele/blog.jesuislibre.org](https://github.com/badele/blog.jesuislibre.org) - source du blog jesuislibre.org
+- [flapili/blog](https://github.com/flapili/blog) - flapili.fr
 - [didactiklabs/nixbook](https://github.com/didactiklabs/nixbook) - Laptop NixOS Configuration
 - [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate) - InGate - an Ingress & Gateway API Controller
 - [minad/org-modern](https://github.com/minad/org-modern) - :unicorn: Modern Org Style
