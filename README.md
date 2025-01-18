@@ -813,7 +813,7 @@
 - [benjilegnard/jetez-vos-souris-a-la-poubelle](https://github.com/benjilegnard/jetez-vos-souris-a-la-poubelle) - 
 - [PAPAMICA/talos_k8s_openstack](https://github.com/PAPAMICA/talos_k8s_openstack) - Deploy K8S with Talos on Infomaniak Public Cloud !
 - [siderolabs/omni](https://github.com/siderolabs/omni) - SaaS-simple deployment of Kubernetes - on your own hardware.
-- [deggja/serpent](https://github.com/deggja/serpent) - Chaos snake for Kubernetes. Chaos engineering combined with a classic snake game.
+- [deggja/chaossnake](https://github.com/deggja/chaossnake) - Chaos snake for Kubernetes. Chaos engineering combined with a classic snake game.
 - [juhnny5/TouraineTech2024-Pulumi](https://github.com/juhnny5/TouraineTech2024-Pulumi) - TouraineTech 2024 | Pulumi : Gérer son infra avec son langage de programmation préféré
 - [azrod/golink](https://github.com/azrod/golink) - Private shortlink service
 - [iam-veeramalla/aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero) - AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.
