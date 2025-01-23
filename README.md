@@ -767,6 +767,7 @@
 
 ## others 
 
+- [laem/politix](https://github.com/laem/politix) - Quels élus de la République (députés, ministres, maires) utilisent toujours x.com ?
 - [badele/blog.jesuislibre.org](https://github.com/badele/blog.jesuislibre.org) - source du blog jesuislibre.org
 - [flapili/blog](https://github.com/flapili/blog) - flapili.fr
 - [didactiklabs/nixbook](https://github.com/didactiklabs/nixbook) - Laptop NixOS Configuration
