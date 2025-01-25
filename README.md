@@ -808,7 +808,7 @@
 - [littlejo/provider-github](https://github.com/littlejo/provider-github) - 
 - [tf-cilium/terraform-kind-cilium](https://github.com/tf-cilium/terraform-kind-cilium) - Deploy Kind and Cilium
 - [tf-cilium/terraform-kind-cilium-clustermesh](https://github.com/tf-cilium/terraform-kind-cilium-clustermesh) - Deploy Kind and Cilium Cluster Mesh
-- [comworkio/pulumi-university](https://github.com/comworkio/pulumi-university) - 
+- [cwcloudtech/pulumi-university](https://github.com/cwcloudtech/pulumi-university) - 
 - [PixiBixi/pixibixi.github.io](https://github.com/PixiBixi/pixibixi.github.io) - 
 - [littlejo/awesome-french-cilium](https://github.com/littlejo/awesome-french-cilium) - Together all French contents
 - [benjilegnard/jetez-vos-souris-a-la-poubelle](https://github.com/benjilegnard/jetez-vos-souris-a-la-poubelle) - 
