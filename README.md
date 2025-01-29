@@ -85,6 +85,7 @@
 - [package-manager](#package-manager)
 - [php](#php)
 - [postgresql](#postgresql)
+- [powershell](#powershell)
 - [privacy](#privacy)
 - [programming](#programming)
 - [pwa](#pwa)
@@ -223,6 +224,7 @@
 
 ## bash 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [hrs/dotfiles](https://github.com/hrs/dotfiles) - Let's be honest: mostly Emacs.
 - [NayamAmarshe/please](https://github.com/NayamAmarshe/please) - 🙏 Please CLI - Minimalistic New Tab Page CLI Tool with a greeting, date and time, inspirational quotes and your personal tasks and to-do list
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
@@ -251,6 +253,7 @@
 
 ## cli 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [carvel-dev/kapp](https://github.com/carvel-dev/kapp) - kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
 - [homeport/termshot](https://github.com/homeport/termshot) - Creates screenshots based on terminal command output
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
@@ -298,6 +301,8 @@
 
 ## devops 
 
+- [k8tz/k8tz](https://github.com/k8tz/k8tz) - Kubernetes admission controller and a CLI tool to inject timezones into Pods and CronJobs
+- [digitalis-io/vals-operator](https://github.com/digitalis-io/vals-operator) - Kubernetes Operator to sync secrets between different secret backends and Kubernetes
 - [kubeshop/botkube](https://github.com/kubeshop/botkube) - An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices
 - [carvel-dev/kapp](https://github.com/carvel-dev/kapp) - kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
@@ -328,6 +333,7 @@
 
 ## docker 
 
+- [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a Docker container.
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server's error pages in the docker image & git repository (for traefik, k8s, nginx and so on)
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -414,6 +420,8 @@
 
 ## go 
 
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
+- [k8tz/k8tz](https://github.com/k8tz/k8tz) - Kubernetes admission controller and a CLI tool to inject timezones into Pods and CronJobs
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [kashalls/kromgo](https://github.com/kashalls/kromgo) - Easily expose preconfigured prometheus metrics to the outside using badges.
 - [kaikaew13/manganato-cli](https://github.com/kaikaew13/manganato-cli) - Manganato's manga downloader CUI and CLI written in Go
@@ -440,6 +448,8 @@
 
 ## golang 
 
+- [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)
+- [k8tz/k8tz](https://github.com/k8tz/k8tz) - Kubernetes admission controller and a CLI tool to inject timezones into Pods and CronJobs
 - [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required!
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [kaikaew13/manganato-cli](https://github.com/kaikaew13/manganato-cli) - Manganato's manga downloader CUI and CLI written in Go
@@ -477,6 +487,7 @@
 
 ## hacktoberfest 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [powerfulseal/powerfulseal](https://github.com/powerfulseal/powerfulseal) - A powerful testing tool for Kubernetes clusters.
 - [carvel-dev/kapp](https://github.com/carvel-dev/kapp) - kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
@@ -552,6 +563,13 @@
 
 ## kubernetes 
 
+- [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)
+- [jodevsa/wireguard-operator](https://github.com/jodevsa/wireguard-operator) - Painless deployment of wireguard on kubernetes
+- [k8tz/k8tz](https://github.com/k8tz/k8tz) - Kubernetes admission controller and a CLI tool to inject timezones into Pods and CronJobs
+- [digitalis-io/vals-operator](https://github.com/digitalis-io/vals-operator) - Kubernetes Operator to sync secrets between different secret backends and Kubernetes
+- [openebs/zfs-localpv](https://github.com/openebs/zfs-localpv) - Dynamically provision Stateful Persistent Node-Local Volumes & Filesystems for Kubernetes that is integrated with a backend ZFS data storage stack.
+- [routernetes/routernetes](https://github.com/routernetes/routernetes) - Use Kubernetes to make a home router!
+- [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing
 - [cubefs/cubefs](https://github.com/cubefs/cubefs) - cloud-native distributed storage
 - [powerfulseal/powerfulseal](https://github.com/powerfulseal/powerfulseal) - A powerful testing tool for Kubernetes clusters.
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere
@@ -719,6 +737,7 @@
 
 ## monitoring 
 
+- [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus/Tempo - more data sources to come!
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [DrDroidLab/PlayBooks](https://github.com/DrDroidLab/PlayBooks) - Runbook automation platform with deep observability integrations for SRE & On-Call Teams
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes.
@@ -774,6 +793,13 @@
 
 ## others 
 
+- [rapi3/pfsense-is-closed-source](https://github.com/rapi3/pfsense-is-closed-source) - The only purpose of this repository is to document the false advertising of the so-called "open-source" pfSense®™ project. Brought to you courtesy of Netgate/Rubicon Communications LLC/ Electric Sheep
+- [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
+- [ccremer/kubernetes-zfs-provisioner](https://github.com/ccremer/kubernetes-zfs-provisioner) - Dynamic ZFS persistent volume provisioner for Kubernetes
+- [aamoyel/vault-unsealer-operator](https://github.com/aamoyel/vault-unsealer-operator) - A Kubernetes Operator wrote in Go to auto unseal Vault instance or cluster.
+- [ublue-os/bluefin](https://github.com/ublue-os/bluefin) - The next generation Linux workstation, designed for reliability, performance, and sustainability.
+- [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
+- [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [laem/politix](https://github.com/laem/politix) - Quels élus de la République (députés, ministres, maires) utilisent toujours x.com ?
 - [badele/blog.jesuislibre.org](https://github.com/badele/blog.jesuislibre.org) - source du blog jesuislibre.org
 - [flapili/blog](https://github.com/flapili/blog) - flapili.fr
@@ -826,7 +852,6 @@
 - [azrod/golink](https://github.com/azrod/golink) - Private shortlink service
 - [iam-veeramalla/aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero) - AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.
 - [qjoly/BurntCoffee](https://github.com/qjoly/BurntCoffee) - Burntcoffee is a project that aims to provide a simple and efficient solution for managing and configuring firecracker instances
-- [jseguillon/graftool](https://github.com/jseguillon/graftool) - 
 - [damiafuentes/DJITelloPy](https://github.com/damiafuentes/DJITelloPy) - DJI Tello drone python interface using the official Tello SDK. Feel free to contribute!
 - [onedr0p/JBOPS](https://github.com/onedr0p/JBOPS) - Just a Bunch Of Plex Scripts
 - [Fabienjulio/l-art-de-la-ligne-de-commande](https://github.com/Fabienjulio/l-art-de-la-ligne-de-commande) - Maitriser la ligne de commande, en une seule page
@@ -836,7 +861,6 @@
 - [ddvk/kickstart.nvim](https://github.com/ddvk/kickstart.nvim) - A launch point for your personal nvim configuration
 - [redhat-cop/vault-config-operator](https://github.com/redhat-cop/vault-config-operator) - An operator to support Haschicorp Vault configuration workflows from within Kubernetes
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
-- [juhnny5/octodns-fix](https://github.com/juhnny5/octodns-fix) - Fix malformed records
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [pulumi/pulumi-terraform-bridge](https://github.com/pulumi/pulumi-terraform-bridge) - A library allowing Terraform providers to be bridged into Pulumi.
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
@@ -922,6 +946,10 @@
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 
+## powershell 
+
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+
 ## privacy 
 
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
@@ -1000,6 +1028,7 @@
 
 ## rust 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - 🦀 ⚡ kubectl port forward manager, with support for UDP and proxy connections through k8s clusters
 - [bpfman/bpfman](https://github.com/bpfman/bpfman) - An eBPF Manager for Linux and Kubernetes
@@ -1013,6 +1042,7 @@
 
 ## security 
 
+- [digitalis-io/vals-operator](https://github.com/digitalis-io/vals-operator) - Kubernetes Operator to sync secrets between different secret backends and Kubernetes
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [moul/sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
@@ -1050,6 +1080,7 @@
 
 ## shell 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [homeport/termshot](https://github.com/homeport/termshot) - Creates screenshots based on terminal command output
 - [NayamAmarshe/please](https://github.com/NayamAmarshe/please) - 🙏 Please CLI - Minimalistic New Tab Page CLI Tool with a greeting, date and time, inspirational quotes and your personal tasks and to-do list
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
@@ -1134,6 +1165,7 @@
 
 ## vpn 
 
+- [jodevsa/wireguard-operator](https://github.com/jodevsa/wireguard-operator) - Painless deployment of wireguard on kubernetes
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [kairos-io/kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
 - [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
