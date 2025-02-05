@@ -577,6 +577,7 @@
 
 ## kubernetes 
 
+- [cloud-bulldozer/benchmark-operator](https://github.com/cloud-bulldozer/benchmark-operator) - The Chuck Norris of cloud benchmarks
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)
