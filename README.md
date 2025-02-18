@@ -817,6 +817,7 @@
 
 ## others 
 
+- [pulumiverse/pulumi-talos](https://github.com/pulumiverse/pulumi-talos) - Pulumi provider for Talos
 - [enix/pvecontrol](https://github.com/enix/pvecontrol) - Proxmox VE control CLI
 - [rapi3/pfsense-is-closed-source](https://github.com/rapi3/pfsense-is-closed-source) - The only purpose of this repository is to document the false advertising of the so-called "open-source" pfSense®™ project. Brought to you courtesy of Netgate/Rubicon Communications LLC/ Electric Sheep
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
