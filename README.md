@@ -899,7 +899,7 @@
 - [PierreAdams/HackRF-One-French](https://github.com/PierreAdams/HackRF-One-French) - Présentation et démonstration des fonctionnalitées du HackRF One
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
 - [Linus2punkt0/bluesky-crossposter](https://github.com/Linus2punkt0/bluesky-crossposter) - An app for crossposting your posts from bluesky to twitter and mastodon
-- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) - k0smotron
+- [k0smotron/k0smotron](https://github.com/k0smotron/k0smotron) - k0smotron
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [webofmars/ansible-teleport](https://github.com/webofmars/ansible-teleport) - Ansible module for teleport installation (goteleport.com)
 - [isindir/sops-secrets-operator](https://github.com/isindir/sops-secrets-operator) - Kubernetes SOPS secrets operator
