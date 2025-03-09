@@ -819,6 +819,7 @@
 
 ## others 
 
+- [brahmkshatriya/echo](https://github.com/brahmkshatriya/echo) - An extension based Android Music Player.
 - [k0rdent/k0rdent](https://github.com/k0rdent/k0rdent) - 
 - [pulumiverse/pulumi-talos](https://github.com/pulumiverse/pulumi-talos) - Pulumi provider for Talos
 - [enix/pvecontrol](https://github.com/enix/pvecontrol) - Proxmox VE control CLI
