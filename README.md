@@ -262,6 +262,7 @@
 
 ## cli 
 
+- [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [znscli/zns](https://github.com/znscli/zns) - CLI tool for querying DNS records with readable, colored output.
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
@@ -822,6 +823,8 @@
 
 ## others 
 
+- [littlejo/blog](https://github.com/littlejo/blog) - 
+- [kaniuse/kaniuse](https://github.com/kaniuse/kaniuse) - caniuse.com, but for kubernetes
 - [siderolabs/omni-infra-provider-kubevirt](https://github.com/siderolabs/omni-infra-provider-kubevirt) - Omni Infrastructure provider that automatically creates VMs in a KubeVirt cluster
 - [brahmkshatriya/echo](https://github.com/brahmkshatriya/echo) - An extension based Android Music Player.
 - [k0rdent/k0rdent](https://github.com/k0rdent/k0rdent) - 
@@ -1112,6 +1115,7 @@
 
 ## serverless 
 
+- [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
 - [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 
