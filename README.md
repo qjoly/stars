@@ -526,7 +526,6 @@
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you're using it!
-- [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering,
 - [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -823,6 +822,7 @@
 
 ## others 
 
+- [batleforc/weebo-si](https://github.com/batleforc/weebo-si) - L'env de Dev Presque Parfait
 - [littlejo/blog](https://github.com/littlejo/blog) - 
 - [kaniuse/kaniuse](https://github.com/kaniuse/kaniuse) - caniuse.com, but for kubernetes
 - [siderolabs/omni-infra-provider-kubevirt](https://github.com/siderolabs/omni-infra-provider-kubevirt) - Omni Infrastructure provider that automatically creates VMs in a KubeVirt cluster
