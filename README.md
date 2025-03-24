@@ -822,6 +822,7 @@
 
 ## others 
 
+- [tieong/awesome-guix](https://github.com/tieong/awesome-guix) - Awesome list for GNU Guix
 - [batleforc/weebo-si](https://github.com/batleforc/weebo-si) - L'env de Dev Presque Parfait
 - [littlejo/blog](https://github.com/littlejo/blog) - 
 - [kaniuse/kaniuse](https://github.com/kaniuse/kaniuse) - caniuse.com, but for kubernetes
