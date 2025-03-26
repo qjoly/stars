@@ -822,6 +822,7 @@
 
 ## others 
 
+- [Sairyss/system-design-patterns](https://github.com/Sairyss/system-design-patterns) - Resources related to distributed systems, system design, microservices, scalability and performance, etc
 - [tieong/awesome-guix](https://github.com/tieong/awesome-guix) - Awesome list for GNU Guix
 - [batleforc/weebo-si](https://github.com/batleforc/weebo-si) - L'env de Dev Presque Parfait
 - [littlejo/blog](https://github.com/littlejo/blog) - 
@@ -967,6 +968,7 @@
 
 ## p2p 
 
+- [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 - [kairos-io/kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
 
