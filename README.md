@@ -822,7 +822,6 @@
 
 ## others 
 
-- [julienhmmt/homelab](https://github.com/julienhmmt/homelab) - 
 - [Sairyss/system-design-patterns](https://github.com/Sairyss/system-design-patterns) - Resources related to distributed systems, system design, microservices, scalability and performance, etc
 - [tieong/awesome-guix](https://github.com/tieong/awesome-guix) - Awesome list for GNU Guix
 - [batleforc/weebo-si](https://github.com/batleforc/weebo-si) - L'env de Dev Presque Parfait
