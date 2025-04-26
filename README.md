@@ -847,6 +847,7 @@
 
 ## others 
 
+- [siderolabs/awesome-talos](https://github.com/siderolabs/awesome-talos) - Collection of awesome talos resource from the community
 - [ToborWinner/toborwinner.github.io](https://github.com/ToborWinner/toborwinner.github.io) - My Github Pages blog
 - [Sairyss/system-design-patterns](https://github.com/Sairyss/system-design-patterns) - Resources related to distributed systems, system design, microservices, scalability and performance, etc
 - [tieong/awesome-guix](https://github.com/tieong/awesome-guix) - Awesome list for GNU Guix
