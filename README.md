@@ -725,7 +725,7 @@
 
 ## learning 
 
-- [danmanners/home-enterprise-labops](https://github.com/danmanners/home-enterprise-labops) - HELO: Test Big Ideas in Small Spaces.
+- [GoodMannersHosting/home-enterprise-labops](https://github.com/GoodMannersHosting/home-enterprise-labops) - HELO: Test Big Ideas in Small Spaces.
 - [f1ko/demystifying-cni](https://github.com/f1ko/demystifying-cni) - Explanation on what a CNI (Container Network Interface) is and how to write it from scratch.
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
