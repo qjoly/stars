@@ -852,6 +852,7 @@
 
 ## others 
 
+- [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [bl-solutions/argo-incident-remediation](https://github.com/bl-solutions/argo-incident-remediation) - 
 - [pfnet-research/alertmanager-to-github](https://github.com/pfnet-research/alertmanager-to-github) - This receives webhook requests from Alertmanager and creates GitHub issues.
 - [siderolabs/awesome-talos](https://github.com/siderolabs/awesome-talos) - Collection of awesome talos resource from the community
