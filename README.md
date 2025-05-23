@@ -852,7 +852,9 @@
 
 ## others 
 
-- [cloudducoeur/documentation](https://github.com/cloudducoeur/documentation) - 
+- [OpenUnison/openunison-k8s](https://github.com/OpenUnison/openunison-k8s) - Access portal for Kubernetes
+- [mark3labs/mcphost](https://github.com/mark3labs/mcphost) - A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).
+- [cloudducoeur/documentation](https://github.com/cloudducoeur/documentation) - Documentation publique du Cloud du Coeur
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [bl-solutions/argo-incident-remediation](https://github.com/bl-solutions/argo-incident-remediation) - 
 - [pfnet-research/alertmanager-to-github](https://github.com/pfnet-research/alertmanager-to-github) - This receives webhook requests from Alertmanager and creates GitHub issues.
