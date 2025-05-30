@@ -640,7 +640,7 @@
 - [carvel-dev/kapp](https://github.com/carvel-dev/kapp) - kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch) - The kubectx  for operators.
-- [vmware-tanzu/pinniped](https://github.com/vmware-tanzu/pinniped) - Pinniped is the easy, secure way to log in to your Kubernetes clusters.
+- [vmware/pinniped](https://github.com/vmware/pinniped) - Pinniped is the easy, secure way to log in to your Kubernetes clusters.
 - [openziti-test-kitchen/kubeztl](https://github.com/openziti-test-kitchen/kubeztl) - A zitified kubernetes client
 - [f1ko/demystifying-cni](https://github.com/f1ko/demystifying-cni) - Explanation on what a CNI (Container Network Interface) is and how to write it from scratch.
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration
@@ -764,7 +764,7 @@
 
 ## login 
 
-- [vmware-tanzu/pinniped](https://github.com/vmware-tanzu/pinniped) - Pinniped is the easy, secure way to log in to your Kubernetes clusters.
+- [vmware/pinniped](https://github.com/vmware/pinniped) - Pinniped is the easy, secure way to log in to your Kubernetes clusters.
 
 ## low-code 
 
@@ -862,6 +862,7 @@
 
 ## others 
 
+- [Courtcircuits/polycloud-lechaton](https://github.com/Courtcircuits/polycloud-lechaton) - Benchmarks and implementation of an end to end encrypted chat
 - [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
 - [418-Error/zerg-project](https://github.com/418-Error/zerg-project) - The very secret zerg project
 - [OpenUnison/openunison-k8s](https://github.com/OpenUnison/openunison-k8s) - Access portal for Kubernetes
