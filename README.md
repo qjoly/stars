@@ -51,7 +51,6 @@
 - [github](#github)
 - [go](#go)
 - [golang](#golang)
-- [good-first-issue](#good-first-issue)
 - [google-cloud](#google-cloud)
 - [graphql](#graphql)
 - [hacktoberfest](#hacktoberfest)
@@ -133,6 +132,7 @@
 
 ## ai 
 
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
@@ -156,7 +156,6 @@
 - [ceph/ceph-ansible](https://github.com/ceph/ceph-ansible) - Ansible playbooks to deploy Ceph, the distributed filesystem.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 - [geerlingguy/docker-debian11-ansible](https://github.com/geerlingguy/docker-debian11-ansible) - Debian 11 (Bullseye) Docker container for Ansible playbook and role testing.
-- [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 
 ## api 
 
@@ -196,7 +195,6 @@
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
 - [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
 - [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering Tools
-- [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 
 ## awesome-list 
 
@@ -215,7 +213,6 @@
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
 - [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
 - [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering Tools
-- [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 
 ## aws 
 
@@ -355,7 +352,6 @@
 - [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering Tools
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
-- [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 
 ## discord 
 
@@ -368,6 +364,8 @@
 
 ## docker 
 
+- [bruj0/ProxmoxIPv6](https://github.com/bruj0/ProxmoxIPv6) - Fully routed IPv6 on Promox and Docker with WireGuard as IPv4to6 tunnel
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [rainmanjam/jobspy-api](https://github.com/rainmanjam/jobspy-api) - Dockerized version of JobSpy job search utility with API key auth, rate limiting, and proxy support.
 - [nishanb/CK-X](https://github.com/nishanb/CK-X) - A realistic exam simulator for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters.
 - [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
@@ -398,7 +396,6 @@
 - [qjoly/PrezDocker](https://github.com/qjoly/PrezDocker) - Présentation ludique pour montrer les différentes notions autour de Docker aux débutants
 - [geerlingguy/docker-debian11-ansible](https://github.com/geerlingguy/docker-debian11-ansible) - Debian 11 (Bullseye) Docker container for Ansible playbook and role testing.
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
-- [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 - [containrrr/shepherd](https://github.com/containrrr/shepherd) - Docker swarm service for automatically updating your services whenever their image is refreshed
 - [PAPAMICA/docker-compose-collection](https://github.com/PAPAMICA/docker-compose-collection) - These docker-compose allow you to deploy multiple services easily and quickly.  You can use them with Portainer directly or via docker-compose commands.
 
@@ -459,7 +456,6 @@
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [Spazzy757/paul](https://github.com/Spazzy757/paul) - The Alien Github Bot
 - [ldez/prm](https://github.com/ldez/prm) - Pull Request Manager for Maintainers
-- [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 
 ## go 
 
@@ -524,10 +520,6 @@
 - [inoxlang/inox](https://github.com/inoxlang/inox) - 🛡️ A secure web development platform and programming language.
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 
-## good-first-issue 
-
-- [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
-
 ## google-cloud 
 
 - [poseidon/typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform
@@ -570,7 +562,6 @@
 - [FairwindsOps/nova](https://github.com/FairwindsOps/nova) - Find outdated or deprecated Helm charts running in your cluster.
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsor
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
-- [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 - [containrrr/shepherd](https://github.com/containrrr/shepherd) - Docker swarm service for automatically updating your services whenever their image is refreshed
 
 ## home-assistant 
@@ -730,7 +721,6 @@
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it off
 - [qjoly/QJoly](https://github.com/qjoly/QJoly) - Lisez-moi
-- [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 
 ## learning 
 
@@ -745,6 +735,7 @@
 
 ## linux 
 
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [ddddddO/packemon](https://github.com/ddddddO/packemon) - Packet monster (っ‘-’)╮=͟͟͞͞◒  ヽ( '-'ヽ)  TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0). Windows/macOS/Linux
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!
@@ -786,6 +777,7 @@
 
 ## macos 
 
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [ddddddO/packemon](https://github.com/ddddddO/packemon) - Packet monster (っ‘-’)╮=͟͟͞͞◒  ヽ( '-'ヽ)  TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0). Windows/macOS/Linux
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
@@ -862,6 +854,7 @@
 
 ## others 
 
+- [SaumonNet/proxmox-nixos](https://github.com/SaumonNet/proxmox-nixos) - The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @julienmalka]
 - [Courtcircuits/polycloud-lechaton](https://github.com/Courtcircuits/polycloud-lechaton) - Benchmarks and implementation of an end to end encrypted chat
 - [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
 - [418-Error/zerg-project](https://github.com/418-Error/zerg-project) - The very secret zerg project
@@ -1063,6 +1056,7 @@
 
 ## python 
 
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints throug
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [piebro/factorio-blueprint-visualizer](https://github.com/piebro/factorio-blueprint-visualizer) - A python library to artfully visualize Factorio Blueprints and an interactive web demo for using it.
@@ -1144,6 +1138,7 @@
 
 ## security 
 
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [ddddddO/packemon](https://github.com/ddddddO/packemon) - Packet monster (っ‘-’)╮=͟͟͞͞◒  ヽ( '-'ヽ)  TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0). Windows/macOS/Linux
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [laluka/skillarch](https://github.com/laluka/skillarch) - SkillArch
@@ -1168,6 +1163,7 @@
 
 ## self-hosted 
 
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [wiredoor/wiredoor](https://github.com/wiredoor/wiredoor) - Self hosted ingress-as-a-service platform that allows you to expose applications and services running in private or local networks to the internet
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [tristcoil/hanabira.org](https://github.com/tristcoil/hanabira.org) - Free Open-Source Japanese and Korean language learning portal. Allows for Self-Hosting. MIT License.
@@ -1245,7 +1241,6 @@
 - [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering
 - [poseidon/typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform
 - [qjoly/QJoly](https://github.com/qjoly/QJoly) - Lisez-moi
-- [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 
 ## testing 
 
