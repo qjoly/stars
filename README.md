@@ -882,6 +882,7 @@
 
 ## others 
 
+- [axinorm/rss-to-podcast](https://github.com/axinorm/rss-to-podcast) - Transform your RSS feeds into a comprehensive audio extracts!
 - [project-akri/akri](https://github.com/project-akri/akri) - A Kubernetes Resource Interface for the Edge
 - [sipeed/NanoCluster](https://github.com/sipeed/NanoCluster) - NanoCluster: Compact & Affordable Cluster for Everyone
 - [latchset/tang](https://github.com/latchset/tang) - Tang binding daemon
