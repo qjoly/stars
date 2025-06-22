@@ -903,6 +903,7 @@
 
 ## others 
 
+- [solidDoWant/pod-webhook-tracker](https://github.com/solidDoWant/pod-webhook-tracker) - Prevent pod eviction when jobs are running
 - [kubernetes-sigs/karpenter-provider-cluster-api](https://github.com/kubernetes-sigs/karpenter-provider-cluster-api) - An implementation of Karpenter that uses Cluster API as the infrastructure provider.
 - [idrissneumann/voxxedlu-quickwit](https://github.com/idrissneumann/voxxedlu-quickwit) - 
 - [adityachandelgit/BookLore](https://github.com/adityachandelgit/BookLore) - BookLore is a web app for hosting, managing, and exploring books, with support for PDFs, eBooks, reading progress, metadata, and stats.
