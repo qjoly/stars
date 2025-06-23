@@ -639,6 +639,7 @@
 
 ## kubernetes 
 
+- [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [projectsveltos/addon-controller](https://github.com/projectsveltos/addon-controller) - Sveltos Kubernetes add-on controller programmatically deploys add-ons and applications in tens of clusters. Support for ClusterAPI powered clusters, Helm charts, kustomize ,YAMLs. Sveltos has built-in
 - [clastix/cluster-api-control-plane-provider-kamaji](https://github.com/clastix/cluster-api-control-plane-provider-kamaji) - The Kamaji Control Plane provider implementation of the Cluster Management API
@@ -903,6 +904,8 @@
 
 ## others 
 
+- [beezy-dev/kleidi](https://github.com/beezy-dev/kleidi) - Kubernetes KMS Provider Plugin
+- [ArmDeveloperEcosystem/kubearchinspect](https://github.com/ArmDeveloperEcosystem/kubearchinspect) - Check if container images in a Kubernetes cluster have arm architecture support.
 - [solidDoWant/pod-webhook-tracker](https://github.com/solidDoWant/pod-webhook-tracker) - Prevent pod eviction when jobs are running
 - [kubernetes-sigs/karpenter-provider-cluster-api](https://github.com/kubernetes-sigs/karpenter-provider-cluster-api) - An implementation of Karpenter that uses Cluster API as the infrastructure provider.
 - [idrissneumann/voxxedlu-quickwit](https://github.com/idrissneumann/voxxedlu-quickwit) - 
@@ -1249,6 +1252,7 @@
 
 ## serverless 
 
+- [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
 - [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
