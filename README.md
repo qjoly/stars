@@ -907,6 +907,8 @@
 
 ## others 
 
+- [talk-littlejo/sunnytech-2025](https://github.com/talk-littlejo/sunnytech-2025) - 
+- [jseguillon/dapr-bzhcamp](https://github.com/jseguillon/dapr-bzhcamp) - 
 - [ublue-os/image-template](https://github.com/ublue-os/image-template) - Build your own custom Universal Blue Image!
 - [bketelsen/homer](https://github.com/bketelsen/homer) - Homelab & Self-hosting OCI based OS based on uCore
 - [beezy-dev/kleidi](https://github.com/beezy-dev/kleidi) - Kubernetes KMS Provider Plugin
