@@ -907,6 +907,7 @@
 
 ## others 
 
+- [Pankajtanwarbanna/scream-to-unlock](https://github.com/Pankajtanwarbanna/scream-to-unlock) - Scream those magic words "I'm a looser" to unlock browsing social media
 - [talk-littlejo/sunnytech-2025](https://github.com/talk-littlejo/sunnytech-2025) - 
 - [jseguillon/dapr-bzhcamp](https://github.com/jseguillon/dapr-bzhcamp) - 
 - [ublue-os/image-template](https://github.com/ublue-os/image-template) - Build your own custom Universal Blue Image!
