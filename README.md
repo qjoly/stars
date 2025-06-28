@@ -658,6 +658,7 @@
 
 ## kubernetes 
 
+- [stashed/stash](https://github.com/stashed/stash) - 🛅 Backup your Kubernetes Stateful Applications
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that makes deployment simple and efficient. Instantly set up development environments for any programming language or framework, deploy high-availa
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
@@ -926,8 +927,10 @@
 
 ## others 
 
+- [openstack/openstack-helm](https://github.com/openstack/openstack-helm) - Helm charts for deploying OpenStack on Kubernetes. Mirror of code maintained at opendev.org.
+- [LEGO/kube-tf-reconciler](https://github.com/LEGO/kube-tf-reconciler) - Kubernetes Operator for reconciling terraform resources
 - [plumber-cd/argocd-autoscaler](https://github.com/plumber-cd/argocd-autoscaler) - Autoscaling ArgoCD
-- [Pankajtanwarbanna/scream-to-unlock](https://github.com/Pankajtanwarbanna/scream-to-unlock) - A chrome extension that blocks social media sites (Facebook, Instagram, Twitter) until you scream `I'm a loser`. The louder you scream, the more time you get to browse
+- [Pankajtanwarbanna/scream-to-unlock](https://github.com/Pankajtanwarbanna/scream-to-unlock) - A tool that blocks social media sites (Facebook, Instagram, Twitter) until you scream `I'm a loser`. The louder you scream, the more time you get to browse
 - [talk-littlejo/sunnytech-2025](https://github.com/talk-littlejo/sunnytech-2025) - 
 - [jseguillon/dapr-bzhcamp](https://github.com/jseguillon/dapr-bzhcamp) - 
 - [ublue-os/image-template](https://github.com/ublue-os/image-template) - Build your own custom Universal Blue Image!
@@ -1012,7 +1015,6 @@
 - [littlejo/certifications-notes](https://github.com/littlejo/certifications-notes) - 
 - [littlejo/provider-cilium](https://github.com/littlejo/provider-cilium) - Deploy Cilium with crossplane
 - [littlejo/pulumi-aws-eks](https://github.com/littlejo/pulumi-aws-eks) - A simple example to deploy AWS EKS
-- [Akanoa/GateKeeper](https://github.com/Akanoa/GateKeeper) - 
 - [littlejo/provider-github](https://github.com/littlejo/provider-github) - 
 - [tf-cilium/terraform-kind-cilium](https://github.com/tf-cilium/terraform-kind-cilium) - Deploy Kind and Cilium
 - [tf-cilium/terraform-kind-cilium-clustermesh](https://github.com/tf-cilium/terraform-kind-cilium-clustermesh) - Deploy Kind and Cilium Cluster Mesh
