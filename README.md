@@ -159,6 +159,7 @@
 
 ## android 
 
+- [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 
@@ -928,6 +929,7 @@
 
 ## others 
 
+- [KotatsuApp/kotatsu-dl](https://github.com/KotatsuApp/kotatsu-dl) - Easy-to-use cli manga downloader with a 1k+ sources supported
 - [openstack/openstack-helm](https://github.com/openstack/openstack-helm) - Helm charts for deploying OpenStack on Kubernetes. Mirror of code maintained at opendev.org.
 - [LEGO/kube-tf-reconciler](https://github.com/LEGO/kube-tf-reconciler) - Kubernetes Operator for reconciling terraform resources
 - [plumber-cd/argocd-autoscaler](https://github.com/plumber-cd/argocd-autoscaler) - Autoscaling ArgoCD
@@ -1012,7 +1014,7 @@
 - [Yelp/clusterman](https://github.com/Yelp/clusterman) - Cluster Autoscaler for Kubernetes and Mesos
 - [k8svisual/vpk](https://github.com/k8svisual/vpk) - View k8s in graphical fashion
 - [zwindler/50ndk](https://github.com/zwindler/50ndk) - 
-- [devantler-tech/ksail](https://github.com/devantler-tech/ksail) - An SDK for Kubernetes ☸️
+- [devantler-tech/ksail](https://github.com/devantler-tech/ksail) - 🛥️🐳 KSail is your all-in-one SDK for spinning up clusters and managing workloads—right from your own machine. Instead of juggling a dozen CLI tools, KSail streamlines your workflow with a single, decl
 - [littlejo/certifications-notes](https://github.com/littlejo/certifications-notes) - 
 - [littlejo/provider-cilium](https://github.com/littlejo/provider-cilium) - Deploy Cilium with crossplane
 - [littlejo/pulumi-aws-eks](https://github.com/littlejo/pulumi-aws-eks) - A simple example to deploy AWS EKS
@@ -1186,6 +1188,7 @@
 
 ## python3 
 
+- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "We
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
 - [pyouroboros/ouroboros](https://github.com/pyouroboros/ouroboros) - Automatically update running docker containers with newest available image
 - [Nriver/trilium-py](https://github.com/Nriver/trilium-py) - Feature-rich Python client for interacting with the API and ETAPI of Trilium Notes. 用于与Trilium Notes的API和ETAPI交互的Python多功能客户端
@@ -1398,6 +1401,7 @@
 
 ## vpn 
 
+- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "We
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [wiredoor/wiredoor](https://github.com/wiredoor/wiredoor) - Self hosted ingress-as-a-service platform that allows you to expose applications and services running in private or local networks to the internet
 - [jodevsa/wireguard-operator](https://github.com/jodevsa/wireguard-operator) - Painless deployment of wireguard on kubernetes
