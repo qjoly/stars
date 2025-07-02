@@ -930,6 +930,7 @@
 
 ## others 
 
+- [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [mendableai/fireplexity](https://github.com/mendableai/fireplexity) - 🔥 Blazing-fast AI search engine with real-time citations, streaming responses, and live data powered by Firecrawl
 - [KotatsuApp/kotatsu-dl](https://github.com/KotatsuApp/kotatsu-dl) - Easy-to-use cli manga downloader with a 1k+ sources supported
 - [openstack/openstack-helm](https://github.com/openstack/openstack-helm) - Helm charts for deploying OpenStack on Kubernetes. Mirror of code maintained at opendev.org.
