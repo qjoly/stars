@@ -276,6 +276,7 @@
 
 ## chrome-extension 
 
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 
 ## cli 
@@ -350,6 +351,7 @@
 
 ## devops 
 
+- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [projectsveltos/addon-controller](https://github.com/projectsveltos/addon-controller) - Sveltos Kubernetes add-on controller programmatically deploys add-ons and applications in tens of clusters. Support for ClusterAPI powered clusters, Helm charts, kustomize ,YAMLs. Sveltos has built-in
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [k8tz/k8tz](https://github.com/k8tz/k8tz) - Kubernetes admission controller and a CLI tool to inject timezones into Pods and CronJobs
@@ -480,6 +482,7 @@
 
 ## github 
 
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [Spazzy757/paul](https://github.com/Spazzy757/paul) - The Alien Github Bot
 - [ldez/prm](https://github.com/ldez/prm) - Pull Request Manager for Maintainers
@@ -930,6 +933,7 @@
 
 ## others 
 
+- [David-VTUK/KubePlumber](https://github.com/David-VTUK/KubePlumber) - 
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [mendableai/fireplexity](https://github.com/mendableai/fireplexity) - 🔥 Blazing-fast AI search engine with real-time citations, streaming responses, and live data powered by Firecrawl
 - [KotatsuApp/kotatsu-dl](https://github.com/KotatsuApp/kotatsu-dl) - Easy-to-use cli manga downloader with a 1k+ sources supported
