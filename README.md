@@ -49,6 +49,7 @@
 - [firefox](#firefox)
 - [framework](#framework)
 - [game](#game)
+- [games](#games)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -315,6 +316,7 @@
 
 ## cpp 
 
+- [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 
 ## css 
@@ -389,6 +391,7 @@
 
 ## docker 
 
+- [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that makes deployment simple and efficient. Instantly set up development environments for any programming language or framework, deploy high-availa
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [bruj0/ProxmoxIPv6](https://github.com/bruj0/ProxmoxIPv6) - Fully routed IPv6 on Promox and Docker with WireGuard as IPv4to6 tunnel
@@ -469,6 +472,10 @@
 ## game 
 
 - [lucky-sideburn/kubeinvaders](https://github.com/lucky-sideburn/kubeinvaders) - Gamified Chaos Engineering Tool for Kubernetes
+
+## games 
+
+- [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
 
 ## git 
 
@@ -934,6 +941,7 @@
 
 ## others 
 
+- [harishsg993010/damn-vulnerable-MCP-server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) - Damn Vulnerable MCP Server
 - [David-VTUK/KubePlumber](https://github.com/David-VTUK/KubePlumber) - 
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [mendableai/fireplexity](https://github.com/mendableai/fireplexity) - 🔥 Blazing-fast AI search engine with real-time citations, streaming responses, and live data powered by Firecrawl
