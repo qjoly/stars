@@ -943,6 +943,7 @@
 
 ## others 
 
+- [flomesh-io/ztm](https://github.com/flomesh-io/ztm) - ZTM (Zero Trust Mesh) is a privacy-first open-source decentralized end-to-end encrypted software defined network, based on HTTP/2 tunnels. Experience boundless connectivity and mesh the globe!
 - [harishsg993010/damn-vulnerable-MCP-server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) - Damn Vulnerable MCP Server
 - [David-VTUK/KubePlumber](https://github.com/David-VTUK/KubePlumber) - 
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
@@ -1014,7 +1015,7 @@
 - [sago35/keyboards](https://github.com/sago35/keyboards) - 
 - [littlejo/results-cilium-clustermesh](https://github.com/littlejo/results-cilium-clustermesh) - 
 - [tumido/crd-snippets](https://github.com/tumido/crd-snippets) - 
-- [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution
+- [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
 - [littlejo/podcast-cilium](https://github.com/littlejo/podcast-cilium) - 
 - [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector) - This is a place for various problem detectors running on the Kubernetes nodes.
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
