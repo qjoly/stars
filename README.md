@@ -250,6 +250,7 @@
 
 ## bash 
 
+- [markusressel/zfs-inplace-rebalancing](https://github.com/markusressel/zfs-inplace-rebalancing) - Simple bash script to rebalance pool data between all mirrors when adding vdevs to a pool.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [hrs/dotfiles](https://github.com/hrs/dotfiles) - Let's be honest: mostly Emacs.
 - [NayamAmarshe/please](https://github.com/NayamAmarshe/please) - 🙏 Please CLI - Minimalistic New Tab Page CLI Tool with a greeting, date and time, inspirational quotes and your personal tasks and to-do list
@@ -284,6 +285,7 @@
 
 ## cli 
 
+- [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing *arr servers. Built with 🤎 in Rust
 - [ddddddO/gtree](https://github.com/ddddddO/gtree) - Using either Markdown or Programmatically to generate trees🌳 and directories📁, and to verify directories🔍. Provide CLI, Go package and Web.
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
@@ -498,6 +500,7 @@
 
 ## go 
 
+- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [ddddddO/gtree](https://github.com/ddddddO/gtree) - Using either Markdown or Programmatically to generate trees🌳 and directories📁, and to verify directories🔍. Provide CLI, Go package and Web.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [applejag/kubectl-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
@@ -531,6 +534,7 @@
 
 ## golang 
 
+- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that makes deployment simple and efficient. Instantly set up development environments for any programming language or framework, deploy high-availa
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
@@ -623,6 +627,7 @@
 
 ## http 
 
+- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server's error pages in the docker image & git repository (for traefik, k8s, nginx and so on)
 
 ## https 
@@ -1250,6 +1255,7 @@
 
 ## rust 
 
+- [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing *arr servers. Built with 🤎 in Rust
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
@@ -1317,6 +1323,7 @@
 
 ## shell 
 
+- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [homeport/termshot](https://github.com/homeport/termshot) - Creates screenshots based on terminal command output
 - [NayamAmarshe/please](https://github.com/NayamAmarshe/please) - 🙏 Please CLI - Minimalistic New Tab Page CLI Tool with a greeting, date and time, inspirational quotes and your personal tasks and to-do list
@@ -1346,6 +1353,7 @@
 
 ## terminal 
 
+- [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing *arr servers. Built with 🤎 in Rust
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints throug
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
