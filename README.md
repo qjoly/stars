@@ -293,6 +293,8 @@
 
 ## cli 
 
+- [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
+- [blob42/gosuki](https://github.com/blob42/gosuki) - extension-free, multi-browser, real time, cloudless bookmark manager
 - [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing *arr servers. Built with 🤎 in Rust
 - [ddddddO/gtree](https://github.com/ddddddO/gtree) - Using either Markdown or Programmatically to generate trees🌳 and directories📁, and to verify directories🔍. Provide CLI, Go package and Web.
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
@@ -374,7 +376,7 @@
 - [kubeshop/botkube](https://github.com/kubeshop/botkube) - An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices
 - [carvel-dev/kapp](https://github.com/carvel-dev/kapp) - kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
-- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - 🦀 ⚡ kubectl port forward manager, with support for UDP and proxy connections through k8s clusters
+- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - 🦀 ⚡ kubectl port-forward manager | enables traffic inspection, udp support, proxy connections through k8s clusters and handles state via local files or git repos
 - [moul/sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [flux-subsystem-argo/flamingo](https://github.com/flux-subsystem-argo/flamingo) - Flux Subsystem for Argo
 - [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee:
@@ -548,6 +550,7 @@
 
 ## golang 
 
+- [blob42/gosuki](https://github.com/blob42/gosuki) - extension-free, multi-browser, real time, cloudless bookmark manager
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
@@ -748,7 +751,7 @@
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
-- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - 🦀 ⚡ kubectl port forward manager, with support for UDP and proxy connections through k8s clusters
+- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - 🦀 ⚡ kubectl port-forward manager | enables traffic inspection, udp support, proxy connections through k8s clusters and handles state via local files or git repos
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [flux-subsystem-argo/flamingo](https://github.com/flux-subsystem-argo/flamingo) - Flux Subsystem for Argo
 - [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee:
@@ -970,6 +973,7 @@
 
 ## others 
 
+- [PlakarKorp/go-cdc-chunkers](https://github.com/PlakarKorp/go-cdc-chunkers) - A Golang package that implements CDC chunkers with a generic interface
 - [tinkerbell/smee](https://github.com/tinkerbell/smee) - DHCP and iPXE Server
 - [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 - [lraton/FlopperZiro](https://github.com/lraton/FlopperZiro) - A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE
@@ -1291,7 +1295,7 @@
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
-- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - 🦀 ⚡ kubectl port forward manager, with support for UDP and proxy connections through k8s clusters
+- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - 🦀 ⚡ kubectl port-forward manager | enables traffic inspection, udp support, proxy connections through k8s clusters and handles state via local files or git repos
 - [bpfman/bpfman](https://github.com/bpfman/bpfman) - An eBPF Manager for Linux and Kubernetes
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 - [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets.
@@ -1383,6 +1387,7 @@
 
 ## terminal 
 
+- [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing *arr servers. Built with 🤎 in Rust
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints throug
@@ -1438,7 +1443,7 @@
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
-- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - 🦀 ⚡ kubectl port forward manager, with support for UDP and proxy connections through k8s clusters
+- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - 🦀 ⚡ kubectl port-forward manager | enables traffic inspection, udp support, proxy connections through k8s clusters and handles state via local files or git repos
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [badele/vide](https://github.com/badele/vide) - Neovim custom configuration, oriented for DevOps role (bash, go, json, python, terraform, typescript, etc ...). not empty code :)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
