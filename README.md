@@ -421,7 +421,7 @@
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server's error pages in the docker image & git repository (for traefik, k8s, nginx and so on)
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1107+ languages!
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-- [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - DevSecOps for Airgap & Limited-Connection Systems. https://zarf.dev/
+- [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - The Airgap Native Packager Manager for Kubernetes
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
@@ -743,7 +743,7 @@
 - [kashalls/kromgo](https://github.com/kashalls/kromgo) - Easily expose preconfigured prometheus metrics to the outside using badges.
 - [kubeshop/botkube](https://github.com/kubeshop/botkube) - An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices
 - [aptakube/kubespec.dev](https://github.com/aptakube/kubespec.dev) - Kubernetes Spec Explorer
-- [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - DevSecOps for Airgap & Limited-Connection Systems. https://zarf.dev/
+- [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - The Airgap Native Packager Manager for Kubernetes
 - [carvel-dev/kapp](https://github.com/carvel-dev/kapp) - kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch) - The kubectx  for operators.
@@ -1077,7 +1077,6 @@
 - [zwindler/sidecar-container-example](https://github.com/zwindler/sidecar-container-example) - 
 - [idrissneumann/bdx-quickwit](https://github.com/idrissneumann/bdx-quickwit) - 
 - [xaitax/TotalRecall](https://github.com/xaitax/TotalRecall) - This tool extracts and displays data from the Recall feature in Windows 11, providing an easy way to access information about your PC's activity snapshots.
-- [Yelp/clusterman](https://github.com/Yelp/clusterman) - Cluster Autoscaler for Kubernetes and Mesos
 - [k8svisual/vpk](https://github.com/k8svisual/vpk) - View k8s in graphical fashion
 - [zwindler/50ndk](https://github.com/zwindler/50ndk) - 
 - [devantler-tech/ksail](https://github.com/devantler-tech/ksail) - 🛥️🐳 KSail is your all-in-one SDK for spinning up clusters and managing workloads—right from your own machine. Instead of juggling a dozen CLI tools, KSail streamlines your workflow with a single, decl
