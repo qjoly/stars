@@ -1009,6 +1009,7 @@
 
 ## others 
 
+- [Nutlope/self.so](https://github.com/Nutlope/self.so) - LinkedIn -&gt; personal site generator
 - [howardjohn/gateway-api-bench](https://github.com/howardjohn/gateway-api-bench) - Gateway API Benchmarks provides a common set of tests to evaluate a Gateway API implementation.
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [envoyproxy/data-plane-api](https://github.com/envoyproxy/data-plane-api) - [READ ONLY MIRROR] Envoy REST/proto API definitions and documentation.
