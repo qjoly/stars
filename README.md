@@ -124,6 +124,7 @@
 - [self-hosted](#self-hosted)
 - [serverless](#serverless)
 - [shell](#shell)
+- [spring-boot](#spring-boot)
 - [springboot](#springboot)
 - [stable-diffusion](#stable-diffusion)
 - [svelte](#svelte)
@@ -175,6 +176,7 @@
 ## angular 
 
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+- [booklore-app/BookLore](https://github.com/booklore-app/BookLore) - BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
 
 ## ansible 
 
@@ -426,7 +428,7 @@
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI native super application platform, Application-centric Intelligent Cloud Operating System. Set up development environments for any programming language or framework, deploy high-availa
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native, application-centric cloud operating system that powers intelligent super applications. Set up development environments for any programming language or framework, deploy high-av
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [bruj0/ProxmoxIPv6](https://github.com/bruj0/ProxmoxIPv6) - Fully routed IPv6 on Promox and Docker with WireGuard as IPv4to6 tunnel
 - [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
@@ -540,6 +542,7 @@
 
 ## go 
 
+- [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [ebogdum/callfs](https://github.com/ebogdum/callfs) - CallFS is an ultra-lightweight, high-performance REST API filesystem that provides precise Linux filesystem semantics over various backends including local filesystem, Amazon S3, and distributed peer 
@@ -578,6 +581,7 @@
 
 ## golang 
 
+- [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [ebogdum/callfs](https://github.com/ebogdum/callfs) - CallFS is an ultra-lightweight, high-performance REST API filesystem that provides precise Linux filesystem semantics over various backends including local filesystem, Amazon S3, and distributed peer 
 - [PlakarKorp/go-cdc-chunkers](https://github.com/PlakarKorp/go-cdc-chunkers) - A Golang package that implements CDC chunkers with a generic interface
 - [blob42/gosuki](https://github.com/blob42/gosuki) - extension-free, multi-browser, real time, cloudless bookmark manager
@@ -586,7 +590,7 @@
 - [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI native super application platform, Application-centric Intelligent Cloud Operating System. Set up development environments for any programming language or framework, deploy high-availa
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native, application-centric cloud operating system that powers intelligent super applications. Set up development environments for any programming language or framework, deploy high-av
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [ddddddO/gtree](https://github.com/ddddddO/gtree) - Using either Markdown or Programmatically to generate trees🌳 and directories📁, and to verify directories🔍. Provide CLI, Go package and Web.
@@ -629,6 +633,7 @@
 
 ## hacktoberfest 
 
+- [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
@@ -710,6 +715,7 @@
 
 ## java 
 
+- [booklore-app/BookLore](https://github.com/booklore-app/BookLore) - BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.
 - [Marthym/baywatch](https://github.com/Marthym/baywatch) - Follow your favorite news letters and keep an 👀 on the latest technologies news.
 
@@ -731,6 +737,7 @@
 
 ## kubernetes 
 
+- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and 
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replicatio
@@ -738,7 +745,7 @@
 - [cubefs/cubefs-csi](https://github.com/cubefs/cubefs-csi) - CubeFS Container Storage Interface (CSI) plugins.
 - [crumbhole/argocd-vault-replacer](https://github.com/crumbhole/argocd-vault-replacer) - An Argo CD plugin to replace placeholders in Kubernetes manifests with secrets stored in Hashicorp Vault.
 - [stashed/stash](https://github.com/stashed/stash) - 🛅 Backup your Kubernetes Stateful Applications
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI native super application platform, Application-centric Intelligent Cloud Operating System. Set up development environments for any programming language or framework, deploy high-availa
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native, application-centric cloud operating system that powers intelligent super applications. Set up development environments for any programming language or framework, deploy high-av
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [projectsveltos/addon-controller](https://github.com/projectsveltos/addon-controller) - Sveltos Kubernetes add-on controller programmatically deploys add-ons and applications in tens of clusters. Support for ClusterAPI powered clusters, Helm charts, kustomize ,YAMLs. Sveltos has built-in
@@ -1042,7 +1049,6 @@
 - [solidDoWant/pod-webhook-tracker](https://github.com/solidDoWant/pod-webhook-tracker) - Prevent pod eviction when jobs are running
 - [kubernetes-sigs/karpenter-provider-cluster-api](https://github.com/kubernetes-sigs/karpenter-provider-cluster-api) - An implementation of Karpenter that uses Cluster API as the infrastructure provider.
 - [idrissneumann/voxxedlu-quickwit](https://github.com/idrissneumann/voxxedlu-quickwit) - 
-- [adityachandelgit/BookLore](https://github.com/adityachandelgit/BookLore) - BookLore is a web app for hosting, managing, and exploring books, with support for PDFs, eBooks, reading progress, metadata, and stats.
 - [craigmbooth/nix-visualize](https://github.com/craigmbooth/nix-visualize) - Uses the Nix package manager to visualize the dependencies of a given package
 - [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [v3rmine/void](https://github.com/v3rmine/void) - Monorepo with tools, pending projects, ideas, poc, research everything WIP
@@ -1203,6 +1209,7 @@
 
 ## p2p 
 
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 - [kairos-io/kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
@@ -1258,6 +1265,7 @@
 
 ## python 
 
+- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state
 - [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints throug
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
@@ -1331,6 +1339,7 @@
 
 ## rust 
 
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
 - [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing *arr servers. Built with 🤎 in Rust
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
@@ -1379,6 +1388,7 @@
 
 - [blob42/gosuki](https://github.com/blob42/gosuki) - extension-free, multi-browser, real time, cloudless bookmark manager
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
+- [booklore-app/BookLore](https://github.com/booklore-app/BookLore) - BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [wiredoor/wiredoor](https://github.com/wiredoor/wiredoor) - Self hosted ingress-as-a-service platform that allows you to expose applications and services running in private or local networks to the internet
@@ -1409,6 +1419,10 @@
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [containrrr/shepherd](https://github.com/containrrr/shepherd) - Docker swarm service for automatically updating your services whenever their image is refreshed
+
+## spring-boot 
+
+- [booklore-app/BookLore](https://github.com/booklore-app/BookLore) - BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
 
 ## springboot 
 
@@ -1506,6 +1520,7 @@
 
 ## vim 
 
+- [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [badele/vide](https://github.com/badele/vide) - Neovim custom configuration, oriented for DevOps role (bash, go, json, python, terraform, typescript, etc ...). not empty code :)
 
