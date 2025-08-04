@@ -1017,6 +1017,8 @@
 
 ## others 
 
+- [cozystack/boot-to-talos](https://github.com/cozystack/boot-to-talos) - Convert any OS to Talos Linux
+- [davidB/kubectl-view-allocations](https://github.com/davidB/kubectl-view-allocations) - kubectl plugin to list allocations (cpu, memory, gpu,... X utilization, requested, limit, allocatable,...)
 - [kubevirt/csi-driver](https://github.com/kubevirt/csi-driver) - KubeVirt CSI driver
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [Nutlope/self.so](https://github.com/Nutlope/self.so) - LinkedIn -&gt; personal site generator
