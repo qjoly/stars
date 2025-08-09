@@ -1018,6 +1018,8 @@
 
 ## others 
 
+- [Berg-it/Kwatcher](https://github.com/Berg-it/Kwatcher) - 
+- [opsmate-ai/opsmate](https://github.com/opsmate-ai/opsmate) - AI SRE Assistant
 - [cozystack/boot-to-talos](https://github.com/cozystack/boot-to-talos) - Convert any OS to Talos Linux
 - [davidB/kubectl-view-allocations](https://github.com/davidB/kubectl-view-allocations) - kubectl plugin to list allocations (cpu, memory, gpu,... X utilization, requested, limit, allocatable,...)
 - [kubevirt/csi-driver](https://github.com/kubevirt/csi-driver) - KubeVirt CSI driver
