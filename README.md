@@ -1020,6 +1020,7 @@
 
 ## others 
 
+- [truefoundry/KubeElasti](https://github.com/truefoundry/KubeElasti) - 
 - [Berg-it/Kwatcher](https://github.com/Berg-it/Kwatcher) - 
 - [opsmate-ai/opsmate](https://github.com/opsmate-ai/opsmate) - AI SRE Assistant
 - [cozystack/boot-to-talos](https://github.com/cozystack/boot-to-talos) - Convert any OS to Talos Linux
