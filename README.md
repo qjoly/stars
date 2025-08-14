@@ -1020,6 +1020,7 @@
 
 ## others 
 
+- [darksworm/argonaut](https://github.com/darksworm/argonaut) - 
 - [truefoundry/KubeElasti](https://github.com/truefoundry/KubeElasti) - 
 - [Berg-it/Kwatcher](https://github.com/Berg-it/Kwatcher) - 
 - [opsmate-ai/opsmate](https://github.com/opsmate-ai/opsmate) - AI SRE Assistant
@@ -1157,7 +1158,7 @@
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [jseguillon/kubechat-poc](https://github.com/jseguillon/kubechat-poc) - POC for a Kubernetes chat power by OpenAI's GPTs
-- [ericvolp12/bsky-experiments](https://github.com/ericvolp12/bsky-experiments) - A handful of Go-based tools for poking around with BlueSky using the AT Protocol
+- [jazware/bsky-experiments](https://github.com/jazware/bsky-experiments) - A handful of Go-based tools for poking around with BlueSky using the AT Protocol
 - [orange-cloudavenue/terraform-resource-templates](https://github.com/orange-cloudavenue/terraform-resource-templates) - 
 - [juhnny5/pulumi-maas](https://github.com/juhnny5/pulumi-maas) - 
 - [juhnny5/pulumi-maas-python](https://github.com/juhnny5/pulumi-maas-python) - A Pulumi package for creating and managing Canonical Metal-As-A-Service (MAAS) resources
