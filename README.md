@@ -533,7 +533,6 @@
 ## git 
 
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
-- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [hrs/dotfiles](https://github.com/hrs/dotfiles) - Let's be honest: mostly Emacs.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -1031,6 +1030,7 @@
 
 ## others 
 
+- [isovalent/CKS-Study-Guide](https://github.com/isovalent/CKS-Study-Guide) - Certified Kubernetes Security Specialist (CKS) Study Guide
 - [stillya/wg-relay](https://github.com/stillya/wg-relay) - An eBPF-based traffic obfuscation system that try to disguises WireGuard protocol traffic to bypass DPI and government censorship
 - [cdown/sshrc](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you ssh
 - [Banh-Canh/songbird](https://github.com/Banh-Canh/songbird) - Evaluate network policies configuration to check for connectivity
