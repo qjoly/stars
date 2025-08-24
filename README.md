@@ -1030,6 +1030,7 @@
 
 ## others 
 
+- [joel0-truenas/truenas-on-arm](https://github.com/joel0-truenas/truenas-on-arm) - 
 - [isovalent/CKS-Study-Guide](https://github.com/isovalent/CKS-Study-Guide) - Certified Kubernetes Security Specialist (CKS) Study Guide
 - [stillya/wg-relay](https://github.com/stillya/wg-relay) - An eBPF-based traffic obfuscation system that try to disguises WireGuard protocol traffic to bypass DPI and government censorship
 - [cdown/sshrc](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you ssh
