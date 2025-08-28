@@ -309,6 +309,7 @@
 ## cli 
 
 - [carvel-dev/kbld](https://github.com/carvel-dev/kbld) - kbld seamlessly incorporates image building and image pushing into your development and deployment workflows
+- [darksworm/argonaut](https://github.com/darksworm/argonaut) - Argo CD Terminal User Interface (TUI)
 - [kagent-dev/kmcp](https://github.com/kagent-dev/kmcp) - CLI tool and Kubernetes Controller for building, testing and deploying MCP servers
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [blob42/gosuki](https://github.com/blob42/gosuki) - extension-free, multi-browser, real time, cloudless bookmark manager
@@ -396,6 +397,7 @@
 ## devops 
 
 - [carvel-dev/kbld](https://github.com/carvel-dev/kbld) - kbld seamlessly incorporates image building and image pushing into your development and deployment workflows
+- [darksworm/argonaut](https://github.com/darksworm/argonaut) - Argo CD Terminal User Interface (TUI)
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [projectsveltos/addon-controller](https://github.com/projectsveltos/addon-controller) - Sveltos Kubernetes add-on controller programmatically deploys add-ons and applications in tens of clusters. Support for ClusterAPI powered clusters, Helm charts, kustomize ,YAMLs. Sveltos has built-in
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
@@ -1043,7 +1045,6 @@
 - [cdown/sshrc](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you ssh
 - [Banh-Canh/songbird](https://github.com/Banh-Canh/songbird) - Evaluate network policies configuration to check for connectivity
 - [Adyen/kubectl-rexec](https://github.com/Adyen/kubectl-rexec) - tooling to make audited kubectl exec easy
-- [darksworm/argonaut](https://github.com/darksworm/argonaut) - 
 - [truefoundry/KubeElasti](https://github.com/truefoundry/KubeElasti) - 
 - [Berg-it/Kwatcher](https://github.com/Berg-it/Kwatcher) - 
 - [opsmate-ai/opsmate](https://github.com/opsmate-ai/opsmate) - AI SRE Assistant
@@ -1499,6 +1500,7 @@
 
 ## terminal 
 
+- [darksworm/argonaut](https://github.com/darksworm/argonaut) - Argo CD Terminal User Interface (TUI)
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing *arr servers. Built with 🤎 in Rust
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
