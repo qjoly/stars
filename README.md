@@ -753,6 +753,7 @@
 
 ## kubernetes 
 
+- [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [s3gw-tech/s3gw](https://github.com/s3gw-tech/s3gw) - Container able to run on a Kubernetes cluster, providing S3-compatible endpoints to applications.
 - [carvel-dev/kbld](https://github.com/carvel-dev/kbld) - kbld seamlessly incorporates image building and image pushing into your development and deployment workflows
 - [kagent-dev/kmcp](https://github.com/kagent-dev/kmcp) - CLI tool and Kubernetes Controller for building, testing and deploying MCP servers
@@ -1042,6 +1043,8 @@
 
 ## others 
 
+- [containers/podman-bootc](https://github.com/containers/podman-bootc) - 
+- [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
 - [joel0-truenas/truenas-on-arm](https://github.com/joel0-truenas/truenas-on-arm) - 
 - [isovalent/CKS-Study-Guide](https://github.com/isovalent/CKS-Study-Guide) - Certified Kubernetes Security Specialist (CKS) Study Guide
 - [stillya/wg-relay](https://github.com/stillya/wg-relay) - An eBPF-based traffic obfuscation system that try to disguises WireGuard protocol traffic to bypass DPI and government censorship
