@@ -1043,6 +1043,7 @@
 
 ## others 
 
+- [moabukar/k8s-in-a-box](https://github.com/moabukar/k8s-in-a-box) - 
 - [containers/podman-bootc](https://github.com/containers/podman-bootc) - 
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
 - [joel0-truenas/truenas-on-arm](https://github.com/joel0-truenas/truenas-on-arm) - 
