@@ -1048,6 +1048,7 @@
 
 ## others 
 
+- [siderolabs/omni-inspector](https://github.com/siderolabs/omni-inspector) - Omni resources inspector
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
 - [stb-tester/apt2ostree](https://github.com/stb-tester/apt2ostree) - Build ostree images based on Debian/Ubuntu
 - [uptane/meta-updater](https://github.com/uptane/meta-updater) - Yocto layer supporting Uptane updates via aktualizr and OSTree
