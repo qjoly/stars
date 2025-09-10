@@ -1053,6 +1053,7 @@
 
 ## others 
 
+- [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS - The Filesystem That Makes S3 your Primary Storage. ZeroFS is 9P/NFS/NBD on top of S3.
 - [leahneukirchen/nitro](https://github.com/leahneukirchen/nitro) - tiny but flexible init system and process supervisor
 - [xelab04/KRaft](https://github.com/xelab04/KRaft) - Run a serverless cloud on your own infrastructure.
 - [siderolabs/omni-inspector](https://github.com/siderolabs/omni-inspector) - Omni resources inspector
