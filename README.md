@@ -566,6 +566,7 @@
 
 ## go 
 
+- [alperencelik/talos-operator](https://github.com/alperencelik/talos-operator) - Talos Linux Operator to bootstrap Talos clusters via Kubernetes.
 - [FollowTheProcess/spok](https://github.com/FollowTheProcess/spok) - It's a build system Jim, but not as we know it 🖖
 - [carvel-dev/kbld](https://github.com/carvel-dev/kbld) - kbld seamlessly incorporates image building and image pushing into your development and deployment workflows
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
@@ -762,6 +763,7 @@
 
 ## kubernetes 
 
+- [alperencelik/talos-operator](https://github.com/alperencelik/talos-operator) - Talos Linux Operator to bootstrap Talos clusters via Kubernetes.
 - [sergelogvinov/proxmox-cloud-controller-manager](https://github.com/sergelogvinov/proxmox-cloud-controller-manager) - Kubernetes cloud controller manager for Proxmox
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [s3gw-tech/s3gw](https://github.com/s3gw-tech/s3gw) - Container able to run on a Kubernetes cluster, providing S3-compatible endpoints to applications.
