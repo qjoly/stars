@@ -796,7 +796,7 @@
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)
-- [jodevsa/wireguard-operator](https://github.com/jodevsa/wireguard-operator) - Painless deployment of wireguard on kubernetes
+- [k8s-essentials/wireguard-operator](https://github.com/k8s-essentials/wireguard-operator) - Painless deployment of wireguard on kubernetes
 - [k8tz/k8tz](https://github.com/k8tz/k8tz) - Kubernetes admission controller and a CLI tool to inject timezones into Pods and CronJobs
 - [digitalis-io/vals-operator](https://github.com/digitalis-io/vals-operator) - Kubernetes Operator to sync secrets between different secret backends and Kubernetes
 - [openebs/zfs-localpv](https://github.com/openebs/zfs-localpv) - Dynamically provision Stateful Persistent Node-Local Volumes & Filesystems for Kubernetes that is integrated with a backend ZFS data storage stack.
@@ -1621,7 +1621,7 @@
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "We
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [wiredoor/wiredoor](https://github.com/wiredoor/wiredoor) - Self hosted ingress-as-a-service platform that allows you to expose applications and services running in private or local networks to the internet
-- [jodevsa/wireguard-operator](https://github.com/jodevsa/wireguard-operator) - Painless deployment of wireguard on kubernetes
+- [k8s-essentials/wireguard-operator](https://github.com/k8s-essentials/wireguard-operator) - Painless deployment of wireguard on kubernetes
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [kairos-io/kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
 - [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
