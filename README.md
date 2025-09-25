@@ -27,6 +27,7 @@
 - [chatgpt-api](#chatgpt-api)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [cloud](#cloud)
 - [computer-science](#computer-science)
 - [config](#config)
 - [continuous-integration](#continuous-integration)
@@ -343,6 +344,20 @@
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily.
 
+## cloud 
+
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
+- [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
+- [PierreBeucher/cloudypad](https://github.com/PierreBeucher/cloudypad) - Free, Open Source alternative to GeForce Now, Blacknut and similar Cloud Gaming platforms. Deploy your own gaming gear in the Cloud ! 🎮 ⛅
+- [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
+- [PacoVK/tapir](https://github.com/PacoVK/tapir) - A Private Terraform Registry
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+- [kairos-io/kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
+- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
+- [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) - bootstrap HashiCorp Consul, Nomad, or Vault over SSH &lt; 1 minute
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+
 ## computer-science 
 
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -611,6 +626,7 @@
 
 ## golang 
 
+- [strandnerd/tunn](https://github.com/strandnerd/tunn) - SSH tunnels made simple: Launch and monitor SSH tunnels from a single YAML config and your existing OpenSSH setup.
 - [knadh/koanf](https://github.com/knadh/koanf) - Simple, extremely lightweight, extensible, configuration management library for Go. Supports JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [ebogdum/callfs](https://github.com/ebogdum/callfs) - CallFS is an ultra-lightweight, high-performance REST API filesystem that provides precise Linux filesystem semantics over various backends including local filesystem, Amazon S3, and distributed peer 
