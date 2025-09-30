@@ -1086,6 +1086,7 @@
 
 ## others 
 
+- [kianblakley/niri-land](https://github.com/kianblakley/niri-land) - Simple dots for niri.
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [batleforc/cuistops-capi](https://github.com/batleforc/cuistops-capi) - KubeVirt m'entraine jusqu'au bout de la CAPI !
 - [teutonet/cluster-api-provider-hosted-control-plane](https://github.com/teutonet/cluster-api-provider-hosted-control-plane) - A control plane provider that manages Kubernetes control planes hosted on the management cluster.
