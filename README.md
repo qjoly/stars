@@ -694,6 +694,7 @@
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [applejag/kubectl-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
+- [sailor-sh/CK-X](https://github.com/sailor-sh/CK-X) - A realistic exam simulator for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [powerfulseal/powerfulseal](https://github.com/powerfulseal/powerfulseal) - A powerful testing tool for Kubernetes clusters.
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - The Airgap Native Packager Manager for Kubernetes
