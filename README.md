@@ -801,6 +801,7 @@
 
 ## kubernetes 
 
+- [agoda-com/macOS-vz-kubelet](https://github.com/agoda-com/macOS-vz-kubelet) - Run native macOS workloads on Kubernetes
 - [batleforc/ProxyAuthK8S](https://github.com/batleforc/ProxyAuthK8S) - Kubernetes api server reverse proxy and agregator
 - [alperencelik/talos-operator](https://github.com/alperencelik/talos-operator) - Talos Linux Operator to bootstrap Talos clusters via Kubernetes.
 - [sergelogvinov/proxmox-cloud-controller-manager](https://github.com/sergelogvinov/proxmox-cloud-controller-manager) - Kubernetes cloud controller manager for Proxmox
@@ -1007,6 +1008,7 @@
 
 ## macos 
 
+- [agoda-com/macOS-vz-kubelet](https://github.com/agoda-com/macOS-vz-kubelet) - Run native macOS workloads on Kubernetes
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [ryan4yin/nix-darwin-kickstarter](https://github.com/ryan4yin/nix-darwin-kickstarter) - macOS as Code! A beginner-friendly nix-darwin + home-manager + flakes startup configuration. 一份易于理解的 nix-darwin 初始配置模板，专为新手制作.
@@ -1099,6 +1101,10 @@
 
 ## others 
 
+- [thebsdbox/smesh](https://github.com/thebsdbox/smesh) - 
+- [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
+- [atx/wlay](https://github.com/atx/wlay) - Graphical output management for Wayland
+- [SoulKyu/talos-kms-vault](https://github.com/SoulKyu/talos-kms-vault) - Proxy between a Talos node and a Hashicorp Vault instance to enable KMS disk encryption
 - [eastlondoner/mineflare](https://github.com/eastlondoner/mineflare) - 
 - [siderolabs/omni-infra-provider-proxmox](https://github.com/siderolabs/omni-infra-provider-proxmox) - Proxmox infrastructure provider for Omni
 - [intelligentcode-ai/intelligent-claude-code](https://github.com/intelligentcode-ai/intelligent-claude-code) - Make Claude Code truly intelligent and way more autonomous!
