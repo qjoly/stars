@@ -282,6 +282,7 @@
 
 ## bash 
 
+- [navahas/tmux-grimoire](https://github.com/navahas/tmux-grimoire) - Lightweight tmux plugin for customizable floating shells (“shpells”) — fast, scriptable, aesthetic.
 - [markusressel/zfs-inplace-rebalancing](https://github.com/markusressel/zfs-inplace-rebalancing) - Simple bash script to rebalance pool data between all mirrors when adding vdevs to a pool.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [hrs/dotfiles](https://github.com/hrs/dotfiles) - Let's be honest: mostly Emacs.
@@ -810,6 +811,8 @@
 
 ## kubernetes 
 
+- [philippemerle/Awesome-Kubernetes-Architecture-Diagrams](https://github.com/philippemerle/Awesome-Kubernetes-Architecture-Diagrams) - Awesome Kubernetes Architecture Diagrams
+- [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) - Heterogeneous AI Computing Virtualization Middleware(Project under CNCF)
 - [agoda-com/macOS-vz-kubelet](https://github.com/agoda-com/macOS-vz-kubelet) - Run native macOS workloads on Kubernetes
 - [batleforc/ProxyAuthK8S](https://github.com/batleforc/ProxyAuthK8S) - Kubernetes api server reverse proxy and agregator
 - [alperencelik/talos-operator](https://github.com/alperencelik/talos-operator) - Talos Linux Operator to bootstrap Talos clusters via Kubernetes.
@@ -1119,6 +1122,10 @@
 
 ## others 
 
+- [Sheridan/cephos](https://github.com/Sheridan/cephos) - CephOS is a Debian Live-based distribution designed for lightweight NAS and SOHO environments. It boots from a USB flash drive, provisions local disks for Ceph.
+- [gvolpe/nfsm](https://github.com/gvolpe/nfsm) - Niri FullScreen Manager
+- [isaksamsten/niriswitcher](https://github.com/isaksamsten/niriswitcher) - An application switcher for niri
+- [janpfischer/zmk-dongle-screen](https://github.com/janpfischer/zmk-dongle-screen) - YADS  - Yet another Dongle Screen for ZMK
 - [panphora/overtype](https://github.com/panphora/overtype) - The markdown editor that's just a textarea https://overtype.dev
 - [sergelogvinov/karpenter-provider-proxmox](https://github.com/sergelogvinov/karpenter-provider-proxmox) - Karpenter provider for Proxmox
 - [thebsdbox/smesh](https://github.com/thebsdbox/smesh) - 
@@ -1176,7 +1183,7 @@
 - [harishsg993010/damn-vulnerable-MCP-server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) - Damn Vulnerable MCP Server
 - [David-VTUK/KubePlumber](https://github.com/David-VTUK/KubePlumber) - 
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
-- [firecrawl/fireplexity](https://github.com/firecrawl/fireplexity) - Open Source Perplexity like AI search engine with real-time citations, streaming responses, and live data powered by Firecrawl
+- [firecrawl/fireplexity](https://github.com/firecrawl/fireplexity) - 🔥 Open Source Perplexity like AI search engine with real-time citations, streaming responses, and live data powered by Firecrawl
 - [KotatsuApp/kotatsu-dl](https://github.com/KotatsuApp/kotatsu-dl) - Easy-to-use cli manga downloader with a 1k+ sources supported
 - [openstack/openstack-helm](https://github.com/openstack/openstack-helm) - Helm charts for deploying OpenStack on Kubernetes. Mirror of code maintained at opendev.org.
 - [LEGO/kube-tf-reconciler](https://github.com/LEGO/kube-tf-reconciler) - Kubernetes Operator for reconciling terraform resources
