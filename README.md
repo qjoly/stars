@@ -1208,7 +1208,7 @@
 - [idrissneumann/voxxedlu-quickwit](https://github.com/idrissneumann/voxxedlu-quickwit) - 
 - [craigmbooth/nix-visualize](https://github.com/craigmbooth/nix-visualize) - Uses the Nix package manager to visualize the dependencies of a given package
 - [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
-- [v3rmine/void](https://github.com/v3rmine/void) - Monorepo with tools, pending projects, ideas, poc, research everything WIP
+- [v3rmine/void](https://github.com/v3rmine/void) - Monorepo with tools, pending projects, ideas, poc, research everything is WIP and not production ready
 - [axinorm/rss-to-podcast](https://github.com/axinorm/rss-to-podcast) - Transform your RSS feeds into a comprehensive audio extracts!
 - [project-akri/akri](https://github.com/project-akri/akri) - A Kubernetes Resource Interface for the Edge
 - [sipeed/NanoCluster](https://github.com/sipeed/NanoCluster) - NanoCluster: Compact & Affordable Cluster for Everyone
