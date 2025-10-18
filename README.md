@@ -481,6 +481,7 @@
 
 ## docker 
 
+- [julienhmmt/pvmss](https://github.com/julienhmmt/pvmss) - PVMSS is a lightweight, self-service web portal for Proxmox Virtual Environment. It allows users to create and manage virtual machines without needing direct access to the Proxmox web UI.
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [carvel-dev/kbld](https://github.com/carvel-dev/kbld) - kbld seamlessly incorporates image building and image pushing into your development and deployment workflows
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
@@ -717,6 +718,7 @@
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
+- [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
@@ -822,6 +824,7 @@
 ## kubernetes 
 
 - [knight42/krelay](https://github.com/knight42/krelay) - A better alternative to `kubectl port-forward` that can forward TCP or UDP traffic to IP/Host which is accessible inside the cluster.
+- [julienhmmt/pvmss](https://github.com/julienhmmt/pvmss) - PVMSS is a lightweight, self-service web portal for Proxmox Virtual Environment. It allows users to create and manage virtual machines without needing direct access to the Proxmox web UI.
 - [philippemerle/Awesome-Kubernetes-Architecture-Diagrams](https://github.com/philippemerle/Awesome-Kubernetes-Architecture-Diagrams) - Awesome Kubernetes Architecture Diagrams
 - [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) - Heterogeneous AI Computing Virtualization Middleware(Project under CNCF)
 - [agoda-com/macOS-vz-kubelet](https://github.com/agoda-com/macOS-vz-kubelet) - Run native macOS workloads on Kubernetes
@@ -1135,7 +1138,6 @@
 
 ## others 
 
-- [julienhmmt/pvmss](https://github.com/julienhmmt/pvmss) - 
 - [Sheridan/cephos](https://github.com/Sheridan/cephos) - CephOS is a Debian Live-based distribution designed for lightweight NAS and SOHO environments. It boots from a USB flash drive, provisions local disks for Ceph.
 - [gvolpe/nfsm](https://github.com/gvolpe/nfsm) - Niri FullScreen Manager
 - [isaksamsten/niriswitcher](https://github.com/isaksamsten/niriswitcher) - An application switcher for niri
