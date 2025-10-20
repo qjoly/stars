@@ -1138,6 +1138,8 @@
 
 ## others 
 
+- [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
+- [thiagokokada/nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS
 - [Sheridan/cephos](https://github.com/Sheridan/cephos) - CephOS is a Debian Live-based distribution designed for lightweight NAS and SOHO environments. It boots from a USB flash drive, provisions local disks for Ceph.
 - [gvolpe/nfsm](https://github.com/gvolpe/nfsm) - Niri FullScreen Manager
 - [isaksamsten/niriswitcher](https://github.com/isaksamsten/niriswitcher) - An application switcher for niri
@@ -1224,7 +1226,6 @@
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [agersant/polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
 - [SaumonNet/proxmox-nixos](https://github.com/SaumonNet/proxmox-nixos) - The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @julienmalka]
-- [Courtcircuits/polycloud-lechaton](https://github.com/Courtcircuits/polycloud-lechaton) - Benchmarks and implementation of an end to end encrypted chat
 - [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
 - [418-Error/zerg-project](https://github.com/418-Error/zerg-project) - The very secret zerg project
 - [OpenUnison/openunison-k8s](https://github.com/OpenUnison/openunison-k8s) - Access portal for Kubernetes
@@ -1238,7 +1239,6 @@
 - [Sairyss/system-design-patterns](https://github.com/Sairyss/system-design-patterns) - Resources related to distributed systems, system design, microservices, scalability and performance, etc
 - [tieong/awesome-guix](https://github.com/tieong/awesome-guix) - Awesome list for GNU Guix
 - [batleforc/weebo-si](https://github.com/batleforc/weebo-si) - L'env de Dev Presque Parfait
-- [littlejo/blog](https://github.com/littlejo/blog) - 
 - [siderolabs/omni-infra-provider-kubevirt](https://github.com/siderolabs/omni-infra-provider-kubevirt) - Omni Infrastructure provider that automatically creates VMs in a KubeVirt cluster
 - [brahmkshatriya/echo](https://github.com/brahmkshatriya/echo) - Just a music player.
 - [k0rdent/k0rdent](https://github.com/k0rdent/k0rdent) - 
