@@ -619,7 +619,7 @@
 
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
-- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri & hyprland. Check out the niri community Discord below.
+- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, and dwl (MangoWC). Check out the niri community Discord below.
 - [knadh/koanf](https://github.com/knadh/koanf) - Simple, extremely lightweight, extensible, configuration management library for Go. Supports JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
 - [alperencelik/talos-operator](https://github.com/alperencelik/talos-operator) - Talos Linux Operator to bootstrap Talos clusters via Kubernetes.
 - [FollowTheProcess/spok](https://github.com/FollowTheProcess/spok) - It's a build system Jim, but not as we know it 🖖
@@ -663,6 +663,7 @@
 
 ## golang 
 
+- [wpnpeiris/nats-s3](https://github.com/wpnpeiris/nats-s3) - S3 API compatible NATS Object Store
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
 - [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
@@ -1155,6 +1156,7 @@
 
 ## others 
 
+- [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [pcuzner/rgw-exporter](https://github.com/pcuzner/rgw-exporter) - Prometheus exporter for ceph radosgw
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [blake/external-mdns](https://github.com/blake/external-mdns) - A service to advertise records for Kubernetes resources on a LAN over multicast DNS.
