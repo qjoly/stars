@@ -1155,6 +1155,9 @@
 
 ## others 
 
+- [minisforum-docs/MS-R1-Docs](https://github.com/minisforum-docs/MS-R1-Docs) - Docs and play book for Minisforum MS-R1
+- [target/goalert](https://github.com/target/goalert) - Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert
+- [inguardians/peirates](https://github.com/inguardians/peirates) - Peirates - Kubernetes Penetration Testing tool
 - [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [pcuzner/rgw-exporter](https://github.com/pcuzner/rgw-exporter) - Prometheus exporter for ceph radosgw
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
