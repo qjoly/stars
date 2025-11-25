@@ -733,6 +733,7 @@
 
 ## hacktoberfest 
 
+- [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is an open-source internal developer platform (IDP)
 - [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg
 - [Skarlso/crd-to-sample-yaml](https://github.com/Skarlso/crd-to-sample-yaml) - Generate a sample YAML file from a CRD and view it rendered on a nice website
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
