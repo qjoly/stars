@@ -31,6 +31,7 @@
 - [cli](#cli)
 - [cloud](#cloud)
 - [code](#code)
+- [command-line](#command-line)
 - [computer-science](#computer-science)
 - [config](#config)
 - [continuous-integration](#continuous-integration)
@@ -386,6 +387,14 @@
 ## code 
 
 - [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
+
+## command-line 
+
+- [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [NayamAmarshe/please](https://github.com/NayamAmarshe/please) - 🙏 Please CLI - Minimalistic New Tab Page CLI Tool with a greeting, date and time, inspirational quotes and your personal tasks and to-do list
+- [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
 
 ## computer-science 
 
