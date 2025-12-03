@@ -33,6 +33,7 @@
 - [code](#code)
 - [command-line](#command-line)
 - [computer-science](#computer-science)
+- [computer-vision](#computer-vision)
 - [config](#config)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
@@ -399,6 +400,10 @@
 ## computer-science 
 
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+
+## computer-vision 
+
+- [mayocream/koharu](https://github.com/mayocream/koharu) - AI-powered manga translator, written in Rust.
 
 ## config 
 
@@ -1039,6 +1044,7 @@
 
 ## linux 
 
+- [ublue-os/ucore](https://github.com/ublue-os/ucore) - An OCI base image of Fedora CoreOS with batteries included
 - [89luca89/lilipod](https://github.com/89luca89/lilipod) - Lilipod is a simple container manager, able to download, unpack and use OCI images from various container registries.
 - [ekzhang/ssh-hypervisor](https://github.com/ekzhang/ssh-hypervisor) - 🏠 SSH, but each user gets their own microVM
 - [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu) - Checkpoint/Restore tool
@@ -1192,6 +1198,7 @@
 
 ## others 
 
+- [coreos/zincati](https://github.com/coreos/zincati) - Agent for Fedora CoreOS auto-updates
 - [zwin-project/zwin](https://github.com/zwin-project/zwin) - XR Windowing System on top of Wayland
 - [veloxpack/csi-driver-rclone](https://github.com/veloxpack/csi-driver-rclone) - CSI driver built on top of rclone bringing cloud storage mounts to your pods with ease.
 - [KiKaraage/cosmoneer](https://github.com/KiKaraage/cosmoneer) - proof-of-concept to bring COSMIC + Niri + Bluefin goodies together into a scroller desktop OS
