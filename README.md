@@ -218,7 +218,6 @@
 
 ## ansible 
 
-- [haraldkoch/kochhaus-home](https://github.com/haraldkoch/kochhaus-home) - Experimental homelab configuration for running things on kubernetes
 - [ceph/ceph-ansible](https://github.com/ceph/ceph-ansible) - Ansible playbooks to deploy Ceph, the distributed filesystem.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 - [geerlingguy/docker-debian11-ansible](https://github.com/geerlingguy/docker-debian11-ansible) - Debian 11 (Bullseye) Docker container for Ansible playbook and role testing.
@@ -1376,7 +1375,7 @@
 - [xaitax/TotalRecall](https://github.com/xaitax/TotalRecall) - This tool extracts and displays data from the Recall feature in Windows 11, providing an easy way to access information about your PC's activity snapshots.
 - [k8svisual/vpk](https://github.com/k8svisual/vpk) - View k8s in graphical fashion
 - [zwindler/50ndk](https://github.com/zwindler/50ndk) - 
-- [devantler-tech/ksail](https://github.com/devantler-tech/ksail) - 🛥️🐳 KSail is your all-in-one SDK for spinning up clusters and managing workloads—right from your own machine. Instead of juggling a dozen CLI tools, KSail streamlines your workflow with a single, decl
+- [devantler-tech/ksail](https://github.com/devantler-tech/ksail) - KSail is a CLI tool for creating and maintaining local Kubernetes clusters.
 - [littlejo/certifications-notes](https://github.com/littlejo/certifications-notes) - 
 - [littlejo/provider-cilium](https://github.com/littlejo/provider-cilium) - Deploy Cilium with crossplane
 - [littlejo/pulumi-aws-eks](https://github.com/littlejo/pulumi-aws-eks) - A simple example to deploy AWS EKS
