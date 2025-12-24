@@ -1231,6 +1231,7 @@
 
 ## others 
 
+- [zwindler/101-ways-to-deploy-kubernetes](https://github.com/zwindler/101-ways-to-deploy-kubernetes) - A list of all the different methods I found to deploy Kubernetes
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [coreos/zincati](https://github.com/coreos/zincati) - Agent for Fedora CoreOS auto-updates
 - [zwin-project/zwin](https://github.com/zwin-project/zwin) - XR Windowing System on top of Wayland
