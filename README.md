@@ -1239,7 +1239,8 @@
 
 ## others 
 
-- [bschaatsbergen/cek](https://github.com/bschaatsbergen/cek) - Explore the (overlay) filesystem and layers of OCI container images.
+- [juhnny5/resumectl](https://github.com/juhnny5/resumectl) - resumectl - Your Resume as Code
+- [bschaatsbergen/cek](https://github.com/bschaatsbergen/cek) - Explore the (overlay) filesystem and layers of OCI container images, without running them.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [neo773/macgamingdb](https://github.com/neo773/macgamingdb) - MacGamingDB | Apple Silicon Mac Games – Compatibility & Benchmarks
 - [zwindler/101-ways-to-deploy-kubernetes](https://github.com/zwindler/101-ways-to-deploy-kubernetes) - A list of all the different methods I found to deploy Kubernetes
@@ -1363,7 +1364,7 @@
 - [rapi3/pfsense-is-closed-source](https://github.com/rapi3/pfsense-is-closed-source) - The only purpose of this repository is to document the false advertising of the so-called "open-source" pfSense®™ project. Brought to you courtesy of Netgate/Rubicon Communications LLC/ Electric Sheep
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 - [ccremer/kubernetes-zfs-provisioner](https://github.com/ccremer/kubernetes-zfs-provisioner) - Dynamic ZFS persistent volume provisioner for Kubernetes
-- [aamoyel/vault-unsealer-operator](https://github.com/aamoyel/vault-unsealer-operator) - A Kubernetes Operator wrote in Go to auto unseal Vault instance or cluster.
+- [didactiklabs/vault-unseal-controller](https://github.com/didactiklabs/vault-unseal-controller) - A Kubernetes controller that auto unseal Vault instances or cluster.
 - [ublue-os/bluefin](https://github.com/ublue-os/bluefin) - The next generation Linux workstation, designed for reliability, performance, and sustainability.
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
