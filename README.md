@@ -421,7 +421,7 @@
 
 ## computer-vision 
 
-- [mayocream/koharu](https://github.com/mayocream/koharu) - AI-powered manga translator, written in Rust.
+- [mayocream/koharu](https://github.com/mayocream/koharu) - ML-powered manga translator, written in Rust.
 
 ## config 
 
@@ -455,7 +455,7 @@
 
 ## deep-learning 
 
-- [mayocream/koharu](https://github.com/mayocream/koharu) - AI-powered manga translator, written in Rust.
+- [mayocream/koharu](https://github.com/mayocream/koharu) - ML-powered manga translator, written in Rust.
 - [rupeshs/diffusionmagic](https://github.com/rupeshs/diffusionmagic) - Easy to use Stable diffusion workflows using diffusers
 
 ## deployment 
@@ -1431,7 +1431,7 @@
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [jseguillon/kubechat-poc](https://github.com/jseguillon/kubechat-poc) - POC for a Kubernetes chat power by OpenAI's GPTs
-- [jazware/bsky-experiments](https://github.com/jazware/bsky-experiments) - A handful of Go-based tools for poking around with BlueSky using the AT Protocol
+- [jazware/bsky-experiments](https://github.com/jazware/bsky-experiments) - A mirror of my personal monorepo's AT Proto tools
 - [orange-cloudavenue/terraform-resource-templates](https://github.com/orange-cloudavenue/terraform-resource-templates) - 
 - [juhnny5/pulumi-maas](https://github.com/juhnny5/pulumi-maas) - 
 - [juhnny5/pulumi-maas-python](https://github.com/juhnny5/pulumi-maas-python) - A Pulumi package for creating and managing Canonical Metal-As-A-Service (MAAS) resources
@@ -1632,7 +1632,7 @@
 
 ## rust 
 
-- [mayocream/koharu](https://github.com/mayocream/koharu) - AI-powered manga translator, written in Rust.
+- [mayocream/koharu](https://github.com/mayocream/koharu) - ML-powered manga translator, written in Rust.
 - [batleforc/ProxyAuthK8S](https://github.com/batleforc/ProxyAuthK8S) - Kubernetes api server reverse proxy and agregator
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
