@@ -1243,6 +1243,7 @@
 
 ## others 
 
+- [RazgrizHsu/immich-deduper](https://github.com/RazgrizHsu/immich-deduper) - duplicate photo finder for Immich - find and remove similar images
 - [juhnny5/resumectl](https://github.com/juhnny5/resumectl) - resumectl - Your Resume as Code
 - [bschaatsbergen/cek](https://github.com/bschaatsbergen/cek) - Explore the (overlay) filesystem and layers of OCI container images, without running them.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
