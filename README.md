@@ -905,7 +905,7 @@
 
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 - [liqotech/liqo](https://github.com/liqotech/liqo) - Enable dynamic and seamless Kubernetes multi-cluster topologies
-- [fenio/tns-csi](https://github.com/fenio/tns-csi) - Kubernetes CSI driver for TrueNAS (NFS and NVMe-oF support)
+- [fenio/tns-csi](https://github.com/fenio/tns-csi) - Kubernetes CSI driver for TrueNAS (NFS, NVMe-oF and iSCSI support)
 - [Skarlso/crd-to-sample-yaml](https://github.com/Skarlso/crd-to-sample-yaml) - Generate a sample YAML file from a CRD and view it rendered on a nice website
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 - [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
@@ -914,6 +914,7 @@
 - [julienhmmt/pvmss](https://github.com/julienhmmt/pvmss) - PVMSS is a lightweight, self-service web portal for Proxmox Virtual Environment. It allows users to create and manage virtual machines without needing direct access to the Proxmox web UI.
 - [philippemerle/Awesome-Kubernetes-Architecture-Diagrams](https://github.com/philippemerle/Awesome-Kubernetes-Architecture-Diagrams) - Awesome Kubernetes Architecture Diagrams
 - [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) - Heterogeneous AI Computing Virtualization Middleware(Project under CNCF)
+- [sergelogvinov/karpenter-provider-proxmox](https://github.com/sergelogvinov/karpenter-provider-proxmox) - Karpenter provider for Proxmox
 - [agoda-com/macOS-vz-kubelet](https://github.com/agoda-com/macOS-vz-kubelet) - Run native macOS workloads on Kubernetes
 - [batleforc/ProxyAuthK8S](https://github.com/batleforc/ProxyAuthK8S) - Kubernetes api server reverse proxy and agregator
 - [alperencelik/talos-operator](https://github.com/alperencelik/talos-operator) - Talos Linux Operator to bootstrap Talos clusters via Kubernetes.
@@ -1281,7 +1282,6 @@
 - [isaksamsten/niriswitcher](https://github.com/isaksamsten/niriswitcher) - An application switcher for niri
 - [janpfischer/zmk-dongle-screen](https://github.com/janpfischer/zmk-dongle-screen) - YADS  - Yet another Dongle Screen for ZMK
 - [panphora/overtype](https://github.com/panphora/overtype) - The markdown editor that's just a textarea https://overtype.dev
-- [sergelogvinov/karpenter-provider-proxmox](https://github.com/sergelogvinov/karpenter-provider-proxmox) - Karpenter provider for Proxmox
 - [thebsdbox/smesh](https://github.com/thebsdbox/smesh) - 
 - [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
 - [atx/wlay](https://github.com/atx/wlay) - Graphical output management for Wayland
