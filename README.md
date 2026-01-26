@@ -1253,6 +1253,7 @@
 
 ## others 
 
+- [skibidirizzi/Tindarr](https://github.com/skibidirizzi/Tindarr) - WebUI program to allow collaboration between users to decide on movies to add to radarr.
 - [pbchekin/vault-sync](https://github.com/pbchekin/vault-sync) - Replicate secrets from one HashiCorp Vault or OpenBao instance to another
 - [Handfish/talos-pilot](https://github.com/Handfish/talos-pilot) - Talos TUI for real-time node monitoring, log streaming, etcd health, and diagnostics
 - [bank-vaults/vault-operator](https://github.com/bank-vaults/vault-operator) - Kubernetes operator for Hashicorp Vault
