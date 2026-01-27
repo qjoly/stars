@@ -376,6 +376,7 @@
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [carvel-dev/kapp](https://github.com/carvel-dev/kapp) - kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
+- [devantler-tech/ksail](https://github.com/devantler-tech/ksail) - CLI tool for creating, maintaining and operating Kubernetes clusters.
 - [homeport/termshot](https://github.com/homeport/termshot) - Creates screenshots based on terminal command output
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [NayamAmarshe/please](https://github.com/NayamAmarshe/please) - 🙏 Please CLI - Minimalistic New Tab Page CLI Tool with a greeting, date and time, inspirational quotes and your personal tasks and to-do list
@@ -984,6 +985,7 @@
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s 
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
+- [devantler-tech/ksail](https://github.com/devantler-tech/ksail) - CLI tool for creating, maintaining and operating Kubernetes clusters.
 - [flux-subsystem-argo/flamingo](https://github.com/flux-subsystem-argo/flamingo) - Flux Subsystem for Argo
 - [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee:
 - [iximiuz/kexp](https://github.com/iximiuz/kexp) - k'exp - Kubernetes Explorer
@@ -1253,7 +1255,7 @@
 
 ## others 
 
-- [skibidirizzi/Tindarr](https://github.com/skibidirizzi/Tindarr) - WebUI program to allow collaboration between users to decide on movies to add to radarr.
+- [skibidirizzi/TindarrLegacy](https://github.com/skibidirizzi/TindarrLegacy) - WebUI program to allow collaboration between users to decide on movies to add to radarr.
 - [pbchekin/vault-sync](https://github.com/pbchekin/vault-sync) - Replicate secrets from one HashiCorp Vault or OpenBao instance to another
 - [Handfish/talos-pilot](https://github.com/Handfish/talos-pilot) - Talos TUI for real-time node monitoring, log streaming, etcd health, and diagnostics
 - [bank-vaults/vault-operator](https://github.com/bank-vaults/vault-operator) - Kubernetes operator for Hashicorp Vault
@@ -1418,7 +1420,6 @@
 - [xaitax/TotalRecall](https://github.com/xaitax/TotalRecall) - This tool extracts and displays data from the Recall feature in Windows 11, providing an easy way to access information about your PC's activity snapshots.
 - [k8svisual/vpk](https://github.com/k8svisual/vpk) - View k8s in graphical fashion
 - [zwindler/50ndk](https://github.com/zwindler/50ndk) - 
-- [devantler-tech/ksail](https://github.com/devantler-tech/ksail) - CLI tool for creating, maintaining and operating Kubernetes clusters.
 - [littlejo/certifications-notes](https://github.com/littlejo/certifications-notes) - 
 - [littlejo/provider-cilium](https://github.com/littlejo/provider-cilium) - Deploy Cilium with crossplane
 - [littlejo/pulumi-aws-eks](https://github.com/littlejo/pulumi-aws-eks) - A simple example to deploy AWS EKS
