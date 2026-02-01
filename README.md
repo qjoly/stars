@@ -192,7 +192,7 @@
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [taubyte/tau](https://github.com/taubyte/tau) - Fullstack Workspace for Humans & Machines
 - [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
-- [devantler-tech/ksail](https://github.com/devantler-tech/ksail) - CLI tool for creating, maintaining and operating Kubernetes clusters.
+- [devantler-tech/ksail](https://github.com/devantler-tech/ksail) - Tool for creating, maintaining and operating Kubernetes clusters with ease.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
@@ -377,7 +377,7 @@
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [carvel-dev/kapp](https://github.com/carvel-dev/kapp) - kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
-- [devantler-tech/ksail](https://github.com/devantler-tech/ksail) - CLI tool for creating, maintaining and operating Kubernetes clusters.
+- [devantler-tech/ksail](https://github.com/devantler-tech/ksail) - Tool for creating, maintaining and operating Kubernetes clusters with ease.
 - [homeport/termshot](https://github.com/homeport/termshot) - Creates screenshots based on terminal command output
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [NayamAmarshe/please](https://github.com/NayamAmarshe/please) - 🙏 Please CLI - Minimalistic New Tab Page CLI Tool with a greeting, date and time, inspirational quotes and your personal tasks and to-do list
@@ -986,7 +986,7 @@
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s 
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
-- [devantler-tech/ksail](https://github.com/devantler-tech/ksail) - CLI tool for creating, maintaining and operating Kubernetes clusters.
+- [devantler-tech/ksail](https://github.com/devantler-tech/ksail) - Tool for creating, maintaining and operating Kubernetes clusters with ease.
 - [flux-subsystem-argo/flamingo](https://github.com/flux-subsystem-argo/flamingo) - Flux Subsystem for Argo
 - [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee:
 - [iximiuz/kexp](https://github.com/iximiuz/kexp) - k'exp - Kubernetes Explorer
@@ -1256,6 +1256,7 @@
 
 ## others 
 
+- [rebelchris/git-fit](https://github.com/rebelchris/git-fit) - 
 - [AliyunContainerService/kubernetes-cronhpa-controller](https://github.com/AliyunContainerService/kubernetes-cronhpa-controller) - ⏰kubernetes-cronhpa-controller is a HPA controller that allows to scale your workload based on time schedule.
 - [skibidirizzi/TindarrLegacy](https://github.com/skibidirizzi/TindarrLegacy) - WebUI program to allow collaboration between users to decide on movies to add to radarr.
 - [pbchekin/vault-sync](https://github.com/pbchekin/vault-sync) - Replicate secrets from one HashiCorp Vault or OpenBao instance to another
