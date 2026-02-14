@@ -186,6 +186,8 @@
 
 ## ai 
 
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+- [rebound-how/rebound](https://github.com/rebound-how/rebound) - The open source toolbox for resilient operations
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and 
@@ -500,6 +502,7 @@
 
 ## devops 
 
+- [rebound-how/rebound](https://github.com/rebound-how/rebound) - The open source toolbox for resilient operations
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 - [carvel-dev/kbld](https://github.com/carvel-dev/kbld) - kbld seamlessly incorporates image building and image pushing into your development and deployment workflows
 - [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your t
@@ -1186,6 +1189,7 @@
 
 ## monitoring 
 
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and 
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come!
@@ -1247,6 +1251,7 @@
 
 ## open-source 
 
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [tristcoil/hanabira.org](https://github.com/tristcoil/hanabira.org) - Free Open-Source Japanese and Korean language learning portal. Allows for Self-Hosting. MIT License.
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
@@ -1271,6 +1276,7 @@
 
 ## others 
 
+- [unfault/cli](https://github.com/unfault/cli) - A calm reviewer for thoughtful engineers.
 - [niri-wm/niri-wm.github.io](https://github.com/niri-wm/niri-wm.github.io) - 
 - [SoulKyu/vault-db-injector-cnd](https://github.com/SoulKyu/vault-db-injector-cnd) - Cloud Native Days vault-db-injector prez
 - [AsyncFuncAI/AsyncReview](https://github.com/AsyncFuncAI/AsyncReview) - Open-source Agentic code review tool inspired by DevinReview, using Recursive Language Models (RLM)
