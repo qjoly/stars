@@ -234,6 +234,7 @@
 
 ## api 
 
+- [IvanJosipovic/OIDC-Guard](https://github.com/IvanJosipovic/OIDC-Guard) - OpenID Connect (OIDC) & OAuth 2 API Server used to secure Kubernetes Ingress
 - [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀
 - [otiai10/ocrserver](https://github.com/otiai10/ocrserver) - A simple OCR API server, seriously easy to be deployed by Docker, on Heroku as well
 
@@ -917,6 +918,8 @@
 
 ## kubernetes 
 
+- [IvanJosipovic/OIDC-Guard](https://github.com/IvanJosipovic/OIDC-Guard) - OpenID Connect (OIDC) & OAuth 2 API Server used to secure Kubernetes Ingress
+- [Lillecarl/nix-csi](https://github.com/Lillecarl/nix-csi) - CSI driver for Nixxing Kubernetes, see develop branch!
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 - [liqotech/liqo](https://github.com/liqotech/liqo) - Enable dynamic and seamless Kubernetes multi-cluster topologies
 - [fenio/tns-csi](https://github.com/fenio/tns-csi) - Kubernetes CSI driver for TrueNAS (NFS, NVMe-oF and iSCSI support)
@@ -1276,6 +1279,7 @@
 
 ## others 
 
+- [jazwa/rackstack](https://github.com/jazwa/rackstack) - A modular 3d-printable mini rack system.
 - [unfault/cli](https://github.com/unfault/cli) - A calm reviewer for thoughtful engineers.
 - [niri-wm/niri-wm.github.io](https://github.com/niri-wm/niri-wm.github.io) - 
 - [SoulKyu/vault-db-injector-cnd](https://github.com/SoulKyu/vault-db-injector-cnd) - Cloud Native Days vault-db-injector prez
@@ -1964,6 +1968,7 @@
 
 ## webapp 
 
+- [IvanJosipovic/OIDC-Guard](https://github.com/IvanJosipovic/OIDC-Guard) - OpenID Connect (OIDC) & OAuth 2 API Server used to secure Kubernetes Ingress
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
 ## website 
