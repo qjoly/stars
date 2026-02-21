@@ -1284,6 +1284,7 @@
 
 ## others 
 
+- [ktijssen/omni-cd](https://github.com/ktijssen/omni-cd) - A GitOps continuous deployment tool for [Sidero Omni](https://www.siderolabs.com/omni/), written in Go. Automatically synchronizes MachineClasses and Cluster Templates from a Git repository to your Om
 - [jazwa/rackstack](https://github.com/jazwa/rackstack) - A modular 3d-printable mini rack system.
 - [unfault/cli](https://github.com/unfault/cli) - A calm reviewer for thoughtful engineers.
 - [niri-wm/niri-wm.github.io](https://github.com/niri-wm/niri-wm.github.io) - 
