@@ -1283,6 +1283,7 @@
 
 ## others 
 
+- [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - ⚡️ Blazing-fast batch subtitle translation for SRT/ASS/VTT/LRC — 70+ languages, AI-powered 批量字幕翻译
 - [yodamad/easylab](https://github.com/yodamad/easylab) - Make labs setup easy with Pulumi & Coder
 - [ktijssen/omni-cd](https://github.com/ktijssen/omni-cd) - A GitOps continuous deployment tool for [Sidero Omni](https://www.siderolabs.com/omni/), written in Go. Automatically synchronizes MachineClasses and Cluster Templates from a Git repository to your Om
 - [jazwa/rackstack](https://github.com/jazwa/rackstack) - A modular 3d-printable mini rack system.
