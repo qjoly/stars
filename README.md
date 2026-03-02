@@ -917,6 +917,7 @@
 
 ## kubernetes 
 
+- [qjoly/talosctl-oidc](https://github.com/qjoly/talosctl-oidc) - OIDC certificate exchange server and client for Talos Linux. Enables OIDC-based access control for talosctl by issuing ephemeral short-lived client certificates signed by the Talos CA.
 - [IvanJosipovic/OIDC-Guard](https://github.com/IvanJosipovic/OIDC-Guard) - OpenID Connect (OIDC) & OAuth 2 API Server used to secure Kubernetes Ingress
 - [Lillecarl/nix-csi](https://github.com/Lillecarl/nix-csi) - CSI driver for Nixxing Kubernetes, see develop branch!
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
