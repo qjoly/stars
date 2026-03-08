@@ -683,6 +683,7 @@
 
 ## go 
 
+- [taigrr/spank](https://github.com/taigrr/spank) - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.
 - [julienhmmt/vcv](https://github.com/julienhmmt/vcv) - VaultCertsViewer is a Go application to list and manage certs in Vault, the easiest possible for SRE.
 - [89luca89/lilipod](https://github.com/89luca89/lilipod) - Lilipod is a simple container manager, able to download, unpack and use OCI images from various container registries.
 - [gosuda/portal](https://github.com/gosuda/portal) - Public Open Relay To Access Localhost
@@ -1150,6 +1151,7 @@
 
 ## macos 
 
+- [taigrr/spank](https://github.com/taigrr/spank) - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.
 - [steipete/RepoBar](https://github.com/steipete/RepoBar) - Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - An open-source OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
