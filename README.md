@@ -1267,7 +1267,6 @@
 
 ## openai 
 
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [SoulKyu/github-scraping-agent-ai](https://github.com/SoulKyu/github-scraping-agent-ai) - Project that scape all github repositories, read them, analyse with an AI and return you on a discord webhook project that could interest you.
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
@@ -1287,6 +1286,7 @@
 
 ## others 
 
+- [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey) - Perfect Green Screen Keys
 - [briangtn/ScreenAlerts](https://github.com/briangtn/ScreenAlerts) - 
 - [SoulKyu/cpg](https://github.com/SoulKyu/cpg) - Cillium Policy Generator using hubble relay
 - [wayblueorg/wayblue](https://github.com/wayblueorg/wayblue) - Fedora Atomic images for wayland compositors
