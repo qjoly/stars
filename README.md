@@ -1287,6 +1287,7 @@
 
 ## others 
 
+- [fand/ratride](https://github.com/fand/ratride) - A tiny CLI presentation tool
 - [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey) - Perfect Green Screen Keys
 - [briangtn/ScreenAlerts](https://github.com/briangtn/ScreenAlerts) - 
 - [SoulKyu/cpg](https://github.com/SoulKyu/cpg) - Cillium Policy Generator using hubble relay
