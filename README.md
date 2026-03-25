@@ -921,6 +921,7 @@
 
 ## kubernetes 
 
+- [enix/kube-image-keeper](https://github.com/enix/kube-image-keeper) - kuik is a container image caching system for Kubernetes
 - [qjoly/talosctl-oidc](https://github.com/qjoly/talosctl-oidc) - OIDC certificate exchange server and client for Talos Linux. Enables OIDC-based access control for talosctl by issuing ephemeral short-lived client certificates signed by the Talos CA.
 - [IvanJosipovic/OIDC-Guard](https://github.com/IvanJosipovic/OIDC-Guard) - OpenID Connect (OIDC) & OAuth 2 API Server used to secure Kubernetes Ingress
 - [Lillecarl/nix-csi](https://github.com/Lillecarl/nix-csi) - CSI driver for Nixxing Kubernetes, see develop branch!
@@ -1728,6 +1729,7 @@
 
 ## security 
 
+- [Cybereason-Public/owLSM](https://github.com/Cybereason-Public/owLSM) - Sigma Rules Engine inside the Linux Kernel using eBPF. Focusing on prevention capabilities
 - [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
 - [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
