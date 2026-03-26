@@ -1288,6 +1288,7 @@
 
 ## others 
 
+- [jseguillon/kbb](https://github.com/jseguillon/kbb) - Kubernetes Brick Breaker
 - [fand/ratride](https://github.com/fand/ratride) - A tiny CLI presentation tool
 - [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey) - Perfect Green Screen Keys
 - [briangtn/ScreenAlerts](https://github.com/briangtn/ScreenAlerts) - 
