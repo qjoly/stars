@@ -252,6 +252,7 @@
 
 ## automation 
 
+- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [stevius10/Proxmox-GitOps](https://github.com/stevius10/Proxmox-GitOps) - Automation Framework for Linux Containers (LXC) as IaC on Proxmox VE.
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
@@ -370,11 +371,13 @@
 
 ## claude-code 
 
+- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [intelligentcode-ai/intelligent-claude-code](https://github.com/intelligentcode-ai/intelligent-claude-code) - Make Claude Code truly intelligent and way more autonomous!
 - [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management skill system for Agents that uses GitHub Issues and Git worktrees for parallel agent execution.
 
 ## cli 
 
+- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [steipete/imsg](https://github.com/steipete/imsg) - CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.
 - [blue-build/cli](https://github.com/blue-build/cli) - BlueBuild's command line program that builds custom Fedora Atomic images based on your recipe.yml
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
@@ -635,6 +638,7 @@
 
 ## emacs 
 
+- [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
 - [ema2159/centaur-tabs](https://github.com/ema2159/centaur-tabs) - Emacs plugin aiming to become an aesthetic, modern looking tabs plugin
 - [hrs/dotfiles](https://github.com/hrs/dotfiles) - Let's be honest: mostly Emacs.
 - [vlaci/nix-doom-emacs](https://github.com/vlaci/nix-doom-emacs) - doom-emacs packaged for Nix
@@ -751,6 +755,8 @@
 
 ## golang 
 
+- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+- [aragossa/pii-shield](https://github.com/aragossa/pii-shield) - Zero-code K8s sidecar for log sanitization. Detects secrets via Entropy Analysis, preserves JSON integrity, and redacts PII deterministically. 🛡️
 - [julienhmmt/vcv](https://github.com/julienhmmt/vcv) - VaultCertsViewer is a Go application to list and manage certs in Vault, the easiest possible for SRE.
 - [89luca89/lilipod](https://github.com/89luca89/lilipod) - Lilipod is a simple container manager, able to download, unpack and use OCI images from various container registries.
 - [Skarlso/crd-to-sample-yaml](https://github.com/Skarlso/crd-to-sample-yaml) - Generate a sample YAML file from a CRD and view it rendered on a nice website
@@ -935,10 +941,12 @@
 
 ## json 
 
+- [aragossa/pii-shield](https://github.com/aragossa/pii-shield) - Zero-code K8s sidecar for log sanitization. Detects secrets via Entropy Analysis, preserves JSON integrity, and redacts PII deterministically. 🛡️
 - [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
 
 ## kubernetes 
 
+- [aragossa/pii-shield](https://github.com/aragossa/pii-shield) - Zero-code K8s sidecar for log sanitization. Detects secrets via Entropy Analysis, preserves JSON integrity, and redacts PII deterministically. 🛡️
 - [enix/kube-image-keeper](https://github.com/enix/kube-image-keeper) - kuik is a container image caching system for Kubernetes
 - [qjoly/talosctl-oidc](https://github.com/qjoly/talosctl-oidc) - OIDC certificate exchange server and client for Talos Linux. Enables OIDC-based access control for talosctl by issuing ephemeral short-lived client certificates signed by the Talos CA.
 - [IvanJosipovic/OIDC-Guard](https://github.com/IvanJosipovic/OIDC-Guard) - OpenID Connect (OIDC) & OAuth 2 API Server used to secure Kubernetes Ingress
@@ -1280,6 +1288,7 @@
 
 ## open-source 
 
+- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [tristcoil/hanabira.org](https://github.com/tristcoil/hanabira.org) - Free Open-Source Japanese and Korean language learning portal. Allows for Self-Hosting. MIT License.
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
@@ -1311,6 +1320,7 @@
 
 ## others 
 
+- [GitFrog1111/badclaude](https://github.com/GitFrog1111/badclaude) - 
 - [batleforc/Weebo5GitOps](https://github.com/batleforc/Weebo5GitOps) - 
 - [laluka/ssrf-cuistops](https://github.com/laluka/ssrf-cuistops) - ssrf-cuistops
 - [jseguillon/kbb](https://github.com/jseguillon/kbb) - Kubernetes Brick Breaker
@@ -1754,6 +1764,7 @@
 
 ## security 
 
+- [aragossa/pii-shield](https://github.com/aragossa/pii-shield) - Zero-code K8s sidecar for log sanitization. Detects secrets via Entropy Analysis, preserves JSON integrity, and redacts PII deterministically. 🛡️
 - [Cybereason-Public/owLSM](https://github.com/Cybereason-Public/owLSM) - Sigma Rules Engine inside the Linux Kernel using eBPF. Focusing on prevention capabilities
 - [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
 - [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
@@ -1966,6 +1977,7 @@
 
 ## vim 
 
+- [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [badele/vide](https://github.com/badele/vide) - Neovim custom configuration, oriented for DevOps role (bash, go, json, python, terraform, typescript, etc ...). not empty code :)
