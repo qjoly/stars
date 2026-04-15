@@ -1321,9 +1321,11 @@
 
 ## others 
 
+- [dominikmartn/nothing-design-skill](https://github.com/dominikmartn/nothing-design-skill) - A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial.
+- [OpenCloudGaming/OpenNOW](https://github.com/OpenCloudGaming/OpenNOW) - Custom GeForce Now Client Named OpenNOW
 - [PromClick/PromClick](https://github.com/PromClick/PromClick) - 
 - [Moerae-AI/Moerae](https://github.com/Moerae-AI/Moerae) - A queryable hierarchical AI memory system for AI agents.
-- [GitFrog1111/badclaude](https://github.com/GitFrog1111/badclaude) - 
+- [GitFrog1111/OpenWhip](https://github.com/GitFrog1111/OpenWhip) - 
 - [batleforc/Weebo5GitOps](https://github.com/batleforc/Weebo5GitOps) - 
 - [laluka/ssrf-cuistops](https://github.com/laluka/ssrf-cuistops) - ssrf-cuistops
 - [jseguillon/kbb](https://github.com/jseguillon/kbb) - Kubernetes Brick Breaker
