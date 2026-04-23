@@ -395,7 +395,7 @@
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [carvel-dev/kapp](https://github.com/carvel-dev/kapp) - kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
-- [devantler-tech/ksail](https://github.com/devantler-tech/ksail) - All-in-one Kubernetes SDK: create, manage, and operate clusters across distributions (Kind, K3d, Talos, VCluster) with built-in GitOps, secrets, AI assistant, and MCP server. Only requires Docker.
+- [devantler-tech/ksail](https://github.com/devantler-tech/ksail) - All-in-one Kubernetes SDK: create, manage, and operate clusters across distributions (Kind, K3d, Talos, VCluster) with built-in GitOps, secrets, AI assistant, and MCP server. Only requires Docker or a
 - [homeport/termshot](https://github.com/homeport/termshot) - Creates screenshots based on terminal command output
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [NayamAmarshe/please](https://github.com/NayamAmarshe/please) - 🙏 Please CLI - Minimalistic New Tab Page CLI Tool with a greeting, date and time, inspirational quotes and your personal tasks and to-do list
@@ -528,7 +528,7 @@
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s 
 - [moul/sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
-- [devantler-tech/ksail](https://github.com/devantler-tech/ksail) - All-in-one Kubernetes SDK: create, manage, and operate clusters across distributions (Kind, K3d, Talos, VCluster) with built-in GitOps, secrets, AI assistant, and MCP server. Only requires Docker.
+- [devantler-tech/ksail](https://github.com/devantler-tech/ksail) - All-in-one Kubernetes SDK: create, manage, and operate clusters across distributions (Kind, K3d, Talos, VCluster) with built-in GitOps, secrets, AI assistant, and MCP server. Only requires Docker or a
 - [flux-subsystem-argo/flamingo](https://github.com/flux-subsystem-argo/flamingo) - Flux Subsystem for Argo
 - [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee:
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
@@ -589,7 +589,7 @@
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - The Airgap Native Package Manager for Kubernetes
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
-- [devantler-tech/ksail](https://github.com/devantler-tech/ksail) - All-in-one Kubernetes SDK: create, manage, and operate clusters across distributions (Kind, K3d, Talos, VCluster) with built-in GitOps, secrets, AI assistant, and MCP server. Only requires Docker.
+- [devantler-tech/ksail](https://github.com/devantler-tech/ksail) - All-in-one Kubernetes SDK: create, manage, and operate clusters across distributions (Kind, K3d, Talos, VCluster) with built-in GitOps, secrets, AI assistant, and MCP server. Only requires Docker or a
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick) - Connect Falco to your ecosystem
 - [gimlet-io/onechart](https://github.com/gimlet-io/onechart) - A generic Helm chart for your application deployments
@@ -1030,7 +1030,7 @@
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s 
-- [devantler-tech/ksail](https://github.com/devantler-tech/ksail) - All-in-one Kubernetes SDK: create, manage, and operate clusters across distributions (Kind, K3d, Talos, VCluster) with built-in GitOps, secrets, AI assistant, and MCP server. Only requires Docker.
+- [devantler-tech/ksail](https://github.com/devantler-tech/ksail) - All-in-one Kubernetes SDK: create, manage, and operate clusters across distributions (Kind, K3d, Talos, VCluster) with built-in GitOps, secrets, AI assistant, and MCP server. Only requires Docker or a
 - [flux-subsystem-argo/flamingo](https://github.com/flux-subsystem-argo/flamingo) - Flux Subsystem for Argo
 - [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee:
 - [iximiuz/kexp](https://github.com/iximiuz/kexp) - k'exp - Kubernetes Explorer
@@ -1262,7 +1262,7 @@
 ## nextjs 
 
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 
 ## nodejs 
@@ -1290,7 +1290,7 @@
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [tristcoil/hanabira.org](https://github.com/tristcoil/hanabira.org) - Free Open-Source Japanese and Korean language learning portal. Allows for Self-Hosting. MIT License.
-- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 
@@ -1946,7 +1946,7 @@
 - [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your t
 - [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing *arr servers. Built with 🤎 in Rust
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s 
-- [devantler-tech/ksail](https://github.com/devantler-tech/ksail) - All-in-one Kubernetes SDK: create, manage, and operate clusters across distributions (Kind, K3d, Talos, VCluster) with built-in GitOps, secrets, AI assistant, and MCP server. Only requires Docker.
+- [devantler-tech/ksail](https://github.com/devantler-tech/ksail) - All-in-one Kubernetes SDK: create, manage, and operate clusters across distributions (Kind, K3d, Talos, VCluster) with built-in GitOps, secrets, AI assistant, and MCP server. Only requires Docker or a
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 
@@ -1960,7 +1960,7 @@
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
-- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [badele/vide](https://github.com/badele/vide) - Neovim custom configuration, oriented for DevOps role (bash, go, json, python, terraform, typescript, etc ...). not empty code :)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
