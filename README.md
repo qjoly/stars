@@ -1326,6 +1326,7 @@
 
 ## others 
 
+- [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) - A TTS that fits in your CPU (and pocket)
 - [soupglasses/mise-krew](https://github.com/soupglasses/mise-krew) - A mise backend plugin for krew tools
 - [axinorm/kargo-infrastructor-demo](https://github.com/axinorm/kargo-infrastructor-demo) - Kargo demo with GitOps approach and Infrastructor applications
 - [mbatard/talk-talos-opentofu-proxmox](https://github.com/mbatard/talk-talos-opentofu-proxmox) - Talos + OpenTofu + Proxmox : l'infra Kubernetes immutable, automatisée et sécurisée
