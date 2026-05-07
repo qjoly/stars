@@ -1333,6 +1333,7 @@
 
 ## others 
 
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) - A TTS that fits in your CPU (and pocket)
 - [soupglasses/mise-krew](https://github.com/soupglasses/mise-krew) - A mise backend plugin for krew tools
 - [axinorm/kargo-infrastructor-demo](https://github.com/axinorm/kargo-infrastructor-demo) - Kargo demo with GitOps approach and Infrastructor applications
