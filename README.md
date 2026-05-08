@@ -68,6 +68,7 @@
 - [game](#game)
 - [games](#games)
 - [gaming](#gaming)
+- [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -186,6 +187,7 @@
 
 ## agent 
 
+- [stakpak/agent](https://github.com/stakpak/agent) - Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀
 - [SawyerHood/gitclaw](https://github.com/SawyerHood/gitclaw) - OpenClaw but it runs entirely on github actions
 - [SoulKyu/github-scraping-agent-ai](https://github.com/SoulKyu/github-scraping-agent-ai) - Project that scape all github repositories, read them, analyse with an AI and return you on a discord webhook project that could interest you.
 
@@ -524,6 +526,7 @@
 
 ## devops 
 
+- [stakpak/agent](https://github.com/stakpak/agent) - Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀
 - [stevius10/Proxmox-GitOps](https://github.com/stevius10/Proxmox-GitOps) - IaC Automation Framework for Linux Containers (LXC) on Proxmox VE.
 - [rebound-how/rebound](https://github.com/rebound-how/rebound) - The open source toolbox for resilient operations
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
@@ -692,6 +695,10 @@
 
 - [PierreBeucher/cloudypad](https://github.com/PierreBeucher/cloudypad) - Free, Open Source alternative to GeForce Now, Blacknut and similar Cloud Gaming platforms. Deploy your own gaming gear in the Cloud ! 🎮 ⛅
 
+## generative-ai 
+
+- [stakpak/agent](https://github.com/stakpak/agent) - Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀
+
 ## git 
 
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
@@ -720,7 +727,7 @@
 - [taigrr/spank](https://github.com/taigrr/spank) - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.
 - [julienhmmt/vcv](https://github.com/julienhmmt/vcv) - VaultCertsViewer is a Go application to list and manage certs in Vault, the easiest possible for SRE.
 - [89luca89/lilipod](https://github.com/89luca89/lilipod) - Lilipod is a simple container manager, able to download, unpack and use OCI images from various container registries.
-- [gosuda/portal-tunnel](https://github.com/gosuda/portal-tunnel) - A permissionless, self-hosted, e2ee relay network for exposing localhost.
+- [gosuda/portal-tunnel](https://github.com/gosuda/portal-tunnel) - self-hosted, e2ee relay network for exposing localhost
 - [Skarlso/crd-to-sample-yaml](https://github.com/Skarlso/crd-to-sample-yaml) - Generate a sample YAML file from a CRD and view it rendered on a nice website
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
@@ -840,6 +847,7 @@
 
 ## hacktoberfest 
 
+- [stakpak/agent](https://github.com/stakpak/agent) - Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀
 - [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is a developer platform for Kubernetes
 - [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg
 - [Skarlso/crd-to-sample-yaml](https://github.com/Skarlso/crd-to-sample-yaml) - Generate a sample YAML file from a CRD and view it rendered on a nice website
@@ -1825,7 +1833,7 @@
 ## self-hosted 
 
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-- [gosuda/portal-tunnel](https://github.com/gosuda/portal-tunnel) - A permissionless, self-hosted, e2ee relay network for exposing localhost.
+- [gosuda/portal-tunnel](https://github.com/gosuda/portal-tunnel) - self-hosted, e2ee relay network for exposing localhost
 - [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
 - [blob42/gosuki](https://github.com/blob42/gosuki) - A lightweight, open-source, privacy-first bookmark manager that unifies your bookmarks across multiple browsers, syncs them in real time (locally or P2P), requires no extensions, and stores everything
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
