@@ -1246,6 +1246,7 @@
 
 ## monitoring 
 
+- [tracewayapp/traceway](https://github.com/tracewayapp/traceway) - The only tool you need to know what is happening and how to fix it.
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and 
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
@@ -1362,7 +1363,7 @@
 - [fand/ratride](https://github.com/fand/ratride) - A tiny CLI presentation tool
 - [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey) - Perfect Green Screen Keys
 - [briangtn/ScreenAlerts](https://github.com/briangtn/ScreenAlerts) - 
-- [SoulKyu/cpg](https://github.com/SoulKyu/cpg) - Cillium Policy Generator using hubble relay
+- [SoulKyu/cpg](https://github.com/SoulKyu/cpg) - Cilium Policy Generator using hubble relay
 - [wayblueorg/wayblue](https://github.com/wayblueorg/wayblue) - Fedora Atomic images for wayland compositors
 - [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - ⚡️ Blazing-fast batch subtitle translation for SRT/ASS/VTT/LRC — 70+ languages, AI-powered 批量字幕翻译
 - [yodamad/easylab](https://github.com/yodamad/easylab) - Make labs setup easy with Pulumi & Coder
