@@ -1342,6 +1342,7 @@
 
 ## others 
 
+- [Karandash8/make-argocd-fly](https://github.com/Karandash8/make-argocd-fly) - A tool to generate Kubernetes manifests from templates
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) - A TTS that fits in your CPU (and pocket)
 - [soupglasses/mise-krew](https://github.com/soupglasses/mise-krew) - A mise backend plugin for krew tools
