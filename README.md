@@ -144,6 +144,7 @@
 - [react-native](#react-native)
 - [rest-api](#rest-api)
 - [reverse-engineering](#reverse-engineering)
+- [robotics](#robotics)
 - [ruby](#ruby)
 - [rust](#rust)
 - [security](#security)
@@ -193,6 +194,7 @@
 
 ## agents 
 
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - A collection of agent skills for CAD, robotics and hardware design
 - [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
@@ -217,6 +219,7 @@
 
 ## ai-agents 
 
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - A collection of agent skills for CAD, robotics and hardware design
 - [kelos-dev/kelos](https://github.com/kelos-dev/kelos) - Kelos - The Kubernetes-native framework for orchestrating autonomous AI coding agents.
 - [intelligentcode-ai/intelligent-claude-code](https://github.com/intelligentcode-ai/intelligent-claude-code) - Make Claude Code truly intelligent and way more autonomous!
 - [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management skill system for Agents that uses GitHub Issues and Git worktrees for parallel agent execution.
@@ -969,7 +972,7 @@
 - [kelos-dev/kelos](https://github.com/kelos-dev/kelos) - Kelos - The Kubernetes-native framework for orchestrating autonomous AI coding agents.
 - [utkuozdemir/pv-migrate](https://github.com/utkuozdemir/pv-migrate) - CLI tool to easily migrate or backup/restore Kubernetes persistent volumes
 - [pii-shield/pii-shield](https://github.com/pii-shield/pii-shield) - Zero-code K8s sidecar for log sanitization. Detects secrets via Entropy Analysis, preserves JSON integrity, and redacts PII deterministically. 🛡️
-- [enix/kube-image-keeper](https://github.com/enix/kube-image-keeper) - kuik is a container image caching system for Kubernetes
+- [enix/kube-image-keeper](https://github.com/enix/kube-image-keeper) - kuik is a container image routing, mirroring (caching) and replication system for Kubernetes
 - [qjoly/talosctl-oidc](https://github.com/qjoly/talosctl-oidc) - OIDC certificate exchange server and client for Talos Linux. Enables OIDC-based access control for talosctl by issuing ephemeral short-lived client certificates signed by the Talos CA.
 - [IvanJosipovic/OIDC-Guard](https://github.com/IvanJosipovic/OIDC-Guard) - OpenID Connect (OIDC) & OAuth 2 API Server used to secure Kubernetes Ingress
 - [Lillecarl/nix-csi](https://github.com/Lillecarl/nix-csi) - CSI driver for Nixxing Kubernetes, see develop branch!
@@ -1770,6 +1773,10 @@
 
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
+
+## robotics 
+
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - A collection of agent skills for CAD, robotics and hardware design
 
 ## ruby 
 
