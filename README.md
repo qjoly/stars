@@ -513,6 +513,7 @@
 
 ## developer-tools 
 
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s 
@@ -1372,7 +1373,7 @@
 - [briangtn/ScreenAlerts](https://github.com/briangtn/ScreenAlerts) - 
 - [SoulKyu/cpg](https://github.com/SoulKyu/cpg) - Cilium Policy Generator using hubble relay
 - [wayblueorg/wayblue](https://github.com/wayblueorg/wayblue) - Fedora Atomic images for wayland compositors
-- [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - ⚡️ Blazing-fast batch subtitle translation for SRT/ASS/VTT/LRC — 70+ languages, AI-powered 批量字幕翻译
+- [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - ⚡ Blazing-fast batch subtitle translation, .srt/.ass/.vtt/.lrc, 17+ LLM providers ·  批量字幕翻译，支持 70+ 语言
 - [yodamad/easylab](https://github.com/yodamad/easylab) - Make labs setup easy with Pulumi & Coder
 - [jazwa/rackstack](https://github.com/jazwa/rackstack) - A modular 3d-printable mini rack system.
 - [unfault/cli](https://github.com/unfault/cli) - A calm reviewer for thoughtful engineers.
@@ -1623,7 +1624,6 @@
 - [codespaces-lab/kubernetes-in-codespaces](https://github.com/codespaces-lab/kubernetes-in-codespaces) - Inner loop Kubernetes development using Codespaces
 - [yuvipanda/pre-commit-hook-ensure-sops](https://github.com/yuvipanda/pre-commit-hook-ensure-sops) - pre-commit hook to ensure that files that should be encrypted with sops are
 - [ansible-community/ansible-role-boundary](https://github.com/ansible-community/ansible-role-boundary) - 🚧 Ansible role to install HashiCorp Boundary.
-- [cicdteam/simple-reverse-proxy](https://github.com/cicdteam/simple-reverse-proxy) - Sinple reverse http proxy based on HAproxy
 - [saphoooo/impressionnant](https://github.com/saphoooo/impressionnant) - Une liste organisée de toutes les impressionnantes ressources technologiques francophones
 - [MghRepo/pse-mdbook](https://github.com/MghRepo/pse-mdbook) - Fiches de préparation PSE
 - [zwindler/demystifions-kubernetes](https://github.com/zwindler/demystifions-kubernetes) - 
