@@ -272,7 +272,7 @@
 
 ## automation 
 
-- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Stealth Firefox that passes every bot detection test. Drop-in Playwright replacement.
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - AI Browser, Stealth Firefox that passes every bot detection test. Drop-in Playwright replacement.
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [stevius10/Proxmox-GitOps](https://github.com/stevius10/Proxmox-GitOps) - IaC Automation Framework for Linux Containers (LXC) on Proxmox VE.
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
@@ -684,7 +684,7 @@
 
 ## firefox 
 
-- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Stealth Firefox that passes every bot detection test. Drop-in Playwright replacement.
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - AI Browser, Stealth Firefox that passes every bot detection test. Drop-in Playwright replacement.
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of Floorp 12, the most Advanced and Fastest Firefox derivative 🦊
 
