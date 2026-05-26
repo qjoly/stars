@@ -786,6 +786,7 @@
 
 ## golang 
 
+- [jacaudi/cloudflare-operator](https://github.com/jacaudi/cloudflare-operator) - A Kubernetes operator for managing Cloudflare resources. It supports DNS records, zones, zone settings, tunnels (via cloudflared), and WAF rulesets.
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [pii-shield/pii-shield](https://github.com/pii-shield/pii-shield) - Zero-code K8s sidecar for log sanitization. Detects secrets via Entropy Analysis, preserves JSON integrity, and redacts PII deterministically. 🛡️
 - [julienhmmt/vcv](https://github.com/julienhmmt/vcv) - VaultCertsViewer is a Go application to list and manage certs in Vault, the easiest possible for SRE.
@@ -977,6 +978,7 @@
 
 ## kubernetes 
 
+- [jacaudi/cloudflare-operator](https://github.com/jacaudi/cloudflare-operator) - A Kubernetes operator for managing Cloudflare resources. It supports DNS records, zones, zone settings, tunnels (via cloudflared), and WAF rulesets.
 - [FairwindsOps/gemini](https://github.com/FairwindsOps/gemini) - Automated backups of PersistentVolumeClaims in Kubernetes using VolumeSnapshots
 - [dag-andersen/argocd-diff-preview](https://github.com/dag-andersen/argocd-diff-preview) - Tool for rendering manifest changes on pull requests.
 - [spinningfactory/kloak](https://github.com/spinningfactory/kloak) - Cloud native zero trust security for AI agents run environments
