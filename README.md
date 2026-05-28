@@ -1363,6 +1363,9 @@
 
 ## others 
 
+- [vatesfr/cluster-api-provider-vates](https://github.com/vatesfr/cluster-api-provider-vates) - Cluster API provider implementation for Vates VMS (XCP-ng and Xen Orchestra)
+- [ErenAri/Aegis-BPF](https://github.com/ErenAri/Aegis-BPF) - Deterministic Linux runtime enforcement with eBPF LSM: block file/network operations before syscalls complete.
+- [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability
 - [Karandash8/make-argocd-fly](https://github.com/Karandash8/make-argocd-fly) - A tool to generate Kubernetes manifests from templates
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) - A TTS that fits in your CPU (and pocket)
