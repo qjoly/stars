@@ -188,7 +188,7 @@
 
 ## agent 
 
-- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Turn repeat work into running AI work-streams.
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Your super agent fo work：local-first, learn your working context in mins and never forget it.
 - [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
 - [stakpak/agent](https://github.com/stakpak/agent) - Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀
 - [SawyerHood/gitclaw](https://github.com/SawyerHood/gitclaw) - OpenClaw but it runs entirely on github actions
@@ -203,7 +203,7 @@
 
 ## ai 
 
-- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Turn repeat work into running AI work-streams.
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Your super agent fo work：local-first, learn your working context in mins and never forget it.
 - [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
 - [kelos-dev/kelos](https://github.com/kelos-dev/kelos) - Kelos - The Kubernetes-native framework for orchestrating autonomous AI coding agents.
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
@@ -223,7 +223,7 @@
 
 ## ai-agents 
 
-- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Turn repeat work into running AI work-streams.
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Your super agent fo work：local-first, learn your working context in mins and never forget it.
 - [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - A collection of agent skills for CAD, robotics and hardware design
 - [kelos-dev/kelos](https://github.com/kelos-dev/kelos) - Kelos - The Kubernetes-native framework for orchestrating autonomous AI coding agents.
 - [intelligentcode-ai/intelligent-claude-code](https://github.com/intelligentcode-ai/intelligent-claude-code) - Make Claude Code truly intelligent and way more autonomous!
@@ -265,7 +265,7 @@
 
 ## artificial-intelligence 
 
-- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Turn repeat work into running AI work-streams.
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Your super agent fo work：local-first, learn your working context in mins and never forget it.
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
 - [rupeshs/diffusionmagic](https://github.com/rupeshs/diffusionmagic) - Easy to use Stable diffusion workflows using diffusers
@@ -656,7 +656,7 @@
 
 ## electron 
 
-- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Turn repeat work into running AI work-streams.
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Your super agent fo work：local-first, learn your working context in mins and never forget it.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
@@ -1187,7 +1187,7 @@
 
 ## llm 
 
-- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Turn repeat work into running AI work-streams.
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Your super agent fo work：local-first, learn your working context in mins and never forget it.
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
 - [joone/loz](https://github.com/joone/loz) - Loz is a command-line tool that enables your preferred LLM to execute system commands and utilize Unix pipes, integrating AI capabilities with other Unix tools.
 
@@ -1247,7 +1247,7 @@
 
 ## mcp 
 
-- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Turn repeat work into running AI work-streams.
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Your super agent fo work：local-first, learn your working context in mins and never forget it.
 - [yindia/rootcause](https://github.com/yindia/rootcause) - RootCause is a local-first MCP server that turns natural-language requests into evidence-backed incident analysis, Kubernetes diagnostics, and safer operations.
 - [kagent-dev/kmcp](https://github.com/kagent-dev/kmcp) - CLI tool and Kubernetes Controller for building, testing and deploying MCP servers
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
@@ -2018,7 +2018,7 @@
 
 ## typescript 
 
-- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Turn repeat work into running AI work-streams.
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Your super agent fo work：local-first, learn your working context in mins and never forget it.
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
