@@ -188,7 +188,7 @@
 
 ## agent 
 
-- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Your super agent fo work：local-first, learn your working context in mins and never forget it.
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Your super agent for work: local-first, learn your working context in mins and never forget it.
 - [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
 - [stakpak/agent](https://github.com/stakpak/agent) - Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀
 - [SawyerHood/gitclaw](https://github.com/SawyerHood/gitclaw) - OpenClaw but it runs entirely on github actions
@@ -203,7 +203,7 @@
 
 ## ai 
 
-- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Your super agent fo work：local-first, learn your working context in mins and never forget it.
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Your super agent for work: local-first, learn your working context in mins and never forget it.
 - [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
 - [kelos-dev/kelos](https://github.com/kelos-dev/kelos) - Kelos - The Kubernetes-native framework for orchestrating autonomous AI coding agents.
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
@@ -223,7 +223,7 @@
 
 ## ai-agents 
 
-- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Your super agent fo work：local-first, learn your working context in mins and never forget it.
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Your super agent for work: local-first, learn your working context in mins and never forget it.
 - [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - A collection of agent skills for CAD, robotics and hardware design
 - [kelos-dev/kelos](https://github.com/kelos-dev/kelos) - Kelos - The Kubernetes-native framework for orchestrating autonomous AI coding agents.
 - [intelligentcode-ai/intelligent-claude-code](https://github.com/intelligentcode-ai/intelligent-claude-code) - Make Claude Code truly intelligent and way more autonomous!
@@ -265,7 +265,7 @@
 
 ## artificial-intelligence 
 
-- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Your super agent fo work：local-first, learn your working context in mins and never forget it.
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Your super agent for work: local-first, learn your working context in mins and never forget it.
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
 - [rupeshs/diffusionmagic](https://github.com/rupeshs/diffusionmagic) - Easy to use Stable diffusion workflows using diffusers
@@ -633,7 +633,7 @@
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
 - [qjoly/PrezDocker](https://github.com/qjoly/PrezDocker) - Présentation ludique pour montrer les différentes notions autour de Docker aux débutants
 - [geerlingguy/docker-debian11-ansible](https://github.com/geerlingguy/docker-debian11-ansible) - Debian 11 (Bullseye) Docker container for Ansible playbook and role testing.
-- [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
+- [podman-container-tools/buildah](https://github.com/podman-container-tools/buildah) - A tool that facilitates building OCI images.
 - [containrrr/shepherd](https://github.com/containrrr/shepherd) - Docker swarm service for automatically updating your services whenever their image is refreshed
 - [PAPAMICA/docker-compose-collection](https://github.com/PAPAMICA/docker-compose-collection) - These docker-compose allow you to deploy multiple services easily and quickly.  You can use them with Portainer directly or via docker-compose commands.
 
@@ -656,7 +656,7 @@
 
 ## electron 
 
-- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Your super agent fo work：local-first, learn your working context in mins and never forget it.
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Your super agent for work: local-first, learn your working context in mins and never forget it.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
@@ -1187,7 +1187,7 @@
 
 ## llm 
 
-- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Your super agent fo work：local-first, learn your working context in mins and never forget it.
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Your super agent for work: local-first, learn your working context in mins and never forget it.
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
 - [joone/loz](https://github.com/joone/loz) - Loz is a command-line tool that enables your preferred LLM to execute system commands and utilize Unix pipes, integrating AI capabilities with other Unix tools.
 
@@ -1247,7 +1247,7 @@
 
 ## mcp 
 
-- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Your super agent fo work：local-first, learn your working context in mins and never forget it.
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Your super agent for work: local-first, learn your working context in mins and never forget it.
 - [yindia/rootcause](https://github.com/yindia/rootcause) - RootCause is a local-first MCP server that turns natural-language requests into evidence-backed incident analysis, Kubernetes diagnostics, and safer operations.
 - [kagent-dev/kmcp](https://github.com/kagent-dev/kmcp) - CLI tool and Kubernetes Controller for building, testing and deploying MCP servers
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
@@ -1363,6 +1363,8 @@
 
 ## others 
 
+- [Akanoa/Rustviz](https://github.com/Akanoa/Rustviz) - A visual way to learn rust and really understand what's going on at memory level
+- [alexeldeib/inc-cli](https://github.com/alexeldeib/inc-cli) - CLI for interacting with incident.io for batch automation
 - [vatesfr/cluster-api-provider-vates](https://github.com/vatesfr/cluster-api-provider-vates) - Cluster API provider implementation for Vates VMS (XCP-ng and Xen Orchestra)
 - [ErenAri/Aegis-BPF](https://github.com/ErenAri/Aegis-BPF) - Deterministic Linux runtime enforcement with eBPF LSM: block file/network operations before syscalls complete.
 - [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability
@@ -1508,7 +1510,7 @@
 - [sipeed/NanoCluster](https://github.com/sipeed/NanoCluster) - NanoCluster: Compact & Affordable Cluster for Everyone
 - [latchset/tang](https://github.com/latchset/tang) - Tang binding daemon
 - [latchset/clevis](https://github.com/latchset/clevis) - Automated Encryption Framework
-- [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
+- [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [agersant/polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
 - [SaumonNet/proxmox-nixos](https://github.com/SaumonNet/proxmox-nixos) - The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @julienmalka]
 - [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
@@ -1805,6 +1807,7 @@
 
 ## rust 
 
+- [batleforc/batlehub](https://github.com/batleforc/batlehub) - Your package hub. Proxy, cache, and host.
 - [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
 - [Stewart86/hamr](https://github.com/Stewart86/hamr) - Hamr is an extensible launcher for Wayland built with rust and gtk layer shell. Extend it with plugins that can be written in any languages.
 - [mayocream/koharu](https://github.com/mayocream/koharu) - ML-powered manga translator, written in Rust.
@@ -2018,7 +2021,7 @@
 
 ## typescript 
 
-- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Your super agent fo work：local-first, learn your working context in mins and never forget it.
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Your super agent for work: local-first, learn your working context in mins and never forget it.
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
