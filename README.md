@@ -192,6 +192,7 @@
 - [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
 - [stakpak/agent](https://github.com/stakpak/agent) - Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀
 - [SawyerHood/gitclaw](https://github.com/SawyerHood/gitclaw) - OpenClaw but it runs entirely on github actions
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [SoulKyu/github-scraping-agent-ai](https://github.com/SoulKyu/github-scraping-agent-ai) - Project that scape all github repositories, read them, analyse with an AI and return you on a discord webhook project that could interest you.
 
 ## agents 
@@ -379,7 +380,6 @@
 
 ## chatgpt 
 
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 
 ## chatgpt-api 
@@ -1369,6 +1369,7 @@
 
 ## others 
 
+- [falcosecurity/prempti](https://github.com/falcosecurity/prempti) - Falco-powered policy and visibility layer for AI coding agents
 - [Akanoa/Rustviz](https://github.com/Akanoa/Rustviz) - A visual way to learn rust and really understand what's going on at memory level
 - [alexeldeib/inc-cli](https://github.com/alexeldeib/inc-cli) - CLI for interacting with incident.io for batch automation
 - [vatesfr/cluster-api-provider-vates](https://github.com/vatesfr/cluster-api-provider-vates) - Cluster API provider implementation for Vates VMS (XCP-ng and Xen Orchestra)
