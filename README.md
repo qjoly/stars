@@ -273,6 +273,7 @@
 
 ## automation 
 
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Anti-Detect Browser that passes every bot detection test. Drop-in Playwright replacement.
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [stevius10/Proxmox-GitOps](https://github.com/stevius10/Proxmox-GitOps) - IaC Automation Framework for Linux Containers (LXC) on Proxmox VE.
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
@@ -609,7 +610,7 @@
 - [bruj0/ProxmoxIPv6](https://github.com/bruj0/ProxmoxIPv6) - Fully routed IPv6 on Promox and Docker with WireGuard as IPv4to6 tunnel
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local-first and microVM-backed programmable sandboxes for AI agents
 - [rainmanjam/jobspy-api](https://github.com/rainmanjam/jobspy-api) - Dockerized version of JobSpy job search utility with API key auth, rate limiting, and proxy support.
-- [sailor-sh/CK-X](https://github.com/sailor-sh/CK-X) - A realistic exam simulator for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters.
+- [sailor-sh/CK-X](https://github.com/sailor-sh/CK-X) - A mock exams for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters.
 - [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a Docker container.
@@ -688,6 +689,7 @@
 
 ## firefox 
 
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Anti-Detect Browser that passes every bot detection test. Drop-in Playwright replacement.
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of Floorp 12, the most Advanced and Fastest Firefox derivative 🦊
 
@@ -767,7 +769,6 @@
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [k8tz/k8tz](https://github.com/k8tz/k8tz) - Kubernetes admission controller and a CLI tool to inject timezones into Pods and CronJobs
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-- [home-operations/kromgo](https://github.com/home-operations/kromgo) - Expose prometheus metrics to the outside using badges or graphs
 - [kaikaew13/manganato-cli](https://github.com/kaikaew13/manganato-cli) - Manganato's manga downloader CUI and CLI written in Go
 - [kubeshop/botkube](https://github.com/kubeshop/botkube) - An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices
 - [carvel-dev/kapp](https://github.com/carvel-dev/kapp) - kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
@@ -881,7 +882,7 @@
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [applejag/kubectl-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
-- [sailor-sh/CK-X](https://github.com/sailor-sh/CK-X) - A realistic exam simulator for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters.
+- [sailor-sh/CK-X](https://github.com/sailor-sh/CK-X) - A mock exams for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters.
 - [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [powerfulseal/powerfulseal](https://github.com/powerfulseal/powerfulseal) - A powerful testing tool for Kubernetes clusters.
@@ -1038,7 +1039,7 @@
 - [sergelogvinov/proxmox-csi-plugin](https://github.com/sergelogvinov/proxmox-csi-plugin) - Proxmox CSI Plugin
 - [argoproj/gitops-engine](https://github.com/argoproj/gitops-engine) - Democratizing GitOps
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas) - SlimFaas : The slimmest and simplest Function As A Service
-- [sailor-sh/CK-X](https://github.com/sailor-sh/CK-X) - A realistic exam simulator for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters.
+- [sailor-sh/CK-X](https://github.com/sailor-sh/CK-X) - A mock exams for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters.
 - [kmesh-net/kmesh](https://github.com/kmesh-net/kmesh) - High Performance ServiceMesh Data Plane Based on eBPF and Programmable Kernel
 - [cloud-bulldozer/benchmark-operator](https://github.com/cloud-bulldozer/benchmark-operator) - The Chuck Norris of cloud benchmarks
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
@@ -1055,7 +1056,6 @@
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [microcks/microcks](https://github.com/microcks/microcks) - The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation incubating project 🚀
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
-- [home-operations/kromgo](https://github.com/home-operations/kromgo) - Expose prometheus metrics to the outside using badges or graphs
 - [kubeshop/botkube](https://github.com/kubeshop/botkube) - An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices
 - [aptakube/kubespec.dev](https://github.com/aptakube/kubespec.dev) - Kubernetes Spec Explorer
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - The Airgap Native Package Manager for Kubernetes
@@ -1550,6 +1550,7 @@
 - [didactiklabs/nixbook](https://github.com/didactiklabs/nixbook) - Laptop NixOS Configuration
 - [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate) - InGate - an Ingress & Gateway API Controller
 - [minad/org-modern](https://github.com/minad/org-modern) - :unicorn: Modern Org Style
+- [home-operations/kromgo](https://github.com/home-operations/kromgo) - Expose prometheus metrics to the outside using badges or graphs
 - [mmalyska/argocd-secret-replacer](https://github.com/mmalyska/argocd-secret-replacer) - Replace placeholders with this ArgoCD plugin stored in sops encrypted file
 - [whazor/k8s-at-home-search](https://github.com/whazor/k8s-at-home-search) - Your Gateway Drug to Kubernetes at Home!
 - [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross) - Docker image for Golang cross-compiling with CGO
