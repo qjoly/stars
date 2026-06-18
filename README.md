@@ -996,6 +996,7 @@
 
 ## kubernetes 
 
+- [janosmiko/lfk](https://github.com/janosmiko/lfk) - ⚡ LFK is a lightning-fast, keyboard-focused, yazi-inspired terminal user interface for navigating and managing Kubernetes clusters. Built for speed and efficiency, it brings a three-column Miller colu
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open source Kubernetes UI. Topology, event timeline, and service traffic — plus resource browsing and Helm management.
 - [jacaudi/cloudflare-operator](https://github.com/jacaudi/cloudflare-operator) - A Kubernetes operator for managing Cloudflare resources. It supports DNS records, zones, zone settings, tunnels (via cloudflared), and WAF rulesets.
 - [FairwindsOps/gemini](https://github.com/FairwindsOps/gemini) - Automated backups of PersistentVolumeClaims in Kubernetes using VolumeSnapshots
@@ -2034,6 +2035,7 @@
 
 ## tui 
 
+- [janosmiko/lfk](https://github.com/janosmiko/lfk) - ⚡ LFK is a lightning-fast, keyboard-focused, yazi-inspired terminal user interface for navigating and managing Kubernetes clusters. Built for speed and efficiency, it brings a three-column Miller colu
 - [r14dd/patent](https://github.com/r14dd/patent) - A prior-art search for your code ideas. Stop building what already exists.
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
 - [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your t
