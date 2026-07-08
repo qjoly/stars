@@ -1023,6 +1023,7 @@
 
 ## kubernetes 
 
+- [Evariops/SpaceMatters](https://github.com/Evariops/SpaceMatters) - Fast disk usage visualizer for macOS
 - [janosmiko/lfk](https://github.com/janosmiko/lfk) - ⚡ LFK is a lightning-fast, keyboard-focused, yazi-inspired terminal user interface for navigating and managing Kubernetes clusters. Built for speed and efficiency, it brings a three-column Miller colu
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open source Kubernetes UI. Topology, event timeline, and service traffic — plus resource browsing and Helm management.
 - [jacaudi/cloudflare-operator](https://github.com/jacaudi/cloudflare-operator) - A Kubernetes operator for managing Cloudflare resources. It supports DNS records, zones, zone settings, tunnels (via cloudflared), and WAF rulesets.
@@ -1270,6 +1271,7 @@
 
 ## macos 
 
+- [Evariops/SpaceMatters](https://github.com/Evariops/SpaceMatters) - Fast disk usage visualizer for macOS
 - [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
 - [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
 - [taigrr/spank](https://github.com/taigrr/spank) - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.
