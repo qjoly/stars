@@ -1424,6 +1424,7 @@
 
 ## others 
 
+- [PixiBixi/kubectl-klens](https://github.com/PixiBixi/kubectl-klens) - A kubectl plugin for quick, read-only cluster inspection. One dispatcher, thirteen shortcuts.
 - [batleforc/weebo-skills](https://github.com/batleforc/weebo-skills) - 
 - [Jovian-Experiments/Jovian-NixOS](https://github.com/Jovian-Experiments/Jovian-NixOS) - Discussions: https://matrix.to/#/#Jovian-Experiments:matrix.org
 - [falcosecurity/prempti](https://github.com/falcosecurity/prempti) - Falco-powered policy and visibility layer for AI coding agents
