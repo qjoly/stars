@@ -1026,6 +1026,7 @@
 
 ## kubernetes 
 
+- [k8scout/k8scout](https://github.com/k8scout/k8scout) - Drop a single binary into a compromised Kubernetes pod and instantly map every   realistic attack path to cluster-admin, node escape, secret theft, and cloud IAM takeover.
 - [Evariops/SpaceMatters](https://github.com/Evariops/SpaceMatters) - Fast disk usage visualizer for macOS
 - [janosmiko/lfk](https://github.com/janosmiko/lfk) - ⚡ LFK is a lightning-fast, keyboard-focused, yazi-inspired terminal user interface for navigating and managing Kubernetes clusters. Built for speed and efficiency, it brings a three-column Miller colu
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open source Kubernetes UI. Topology, event timeline, and service traffic — plus resource browsing and Helm management.
@@ -1039,7 +1040,7 @@
 - [enix/kube-image-keeper](https://github.com/enix/kube-image-keeper) - kuik is a container image routing, mirroring (caching) and replication system for Kubernetes
 - [qjoly/talosctl-oidc](https://github.com/qjoly/talosctl-oidc) - OIDC certificate exchange server and client for Talos Linux. Enables OIDC-based access control for talosctl by issuing ephemeral short-lived client certificates signed by the Talos CA.
 - [IvanJosipovic/OIDC-Guard](https://github.com/IvanJosipovic/OIDC-Guard) - OpenID Connect (OIDC) & OAuth 2 API Server used to secure Kubernetes Ingress
-- [Lillecarl/nix-csi](https://github.com/Lillecarl/nix-csi) - CSI driver for Nixxing Kubernetes, see develop branch!
+- [Lillecarl/nixkube](https://github.com/Lillecarl/nixkube) - CSI driver for Nixxing Kubernetes, see develop branch!
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 - [liqotech/liqo](https://github.com/liqotech/liqo) - Enable dynamic and seamless Kubernetes multi-cluster topologies
 - [fenio/tns-csi](https://github.com/fenio/tns-csi) - Kubernetes CSI driver for TrueNAS Scale
