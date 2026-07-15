@@ -545,7 +545,7 @@
 ## deployment 
 
 - [carvel-dev/kapp](https://github.com/carvel-dev/kapp) - kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
-- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
+- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Servers and Laptops
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
 - [nix-community/colmena](https://github.com/nix-community/colmena) - A simple, stateless NixOS deployment tool [maintainer=@zhaofengli, @stepbrobd, @NickCao]
@@ -1026,6 +1026,7 @@
 
 ## kubernetes 
 
+- [katl-dev/katl](https://github.com/katl-dev/katl) - KatlOS: an installable, upgradeable, systemd-native Kubernetes node OS.
 - [k8scout/k8scout](https://github.com/k8scout/k8scout) - Drop a single binary into a compromised Kubernetes pod and instantly map every   realistic attack path to cluster-admin, node escape, secret theft, and cloud IAM takeover.
 - [Evariops/SpaceMatters](https://github.com/Evariops/SpaceMatters) - Fast disk usage visualizer for macOS
 - [janosmiko/lfk](https://github.com/janosmiko/lfk) - ⚡ LFK is a lightning-fast, keyboard-focused, yazi-inspired terminal user interface for navigating and managing Kubernetes clusters. Built for speed and efficiency, it brings a three-column Miller colu
@@ -1215,6 +1216,7 @@
 
 ## linux 
 
+- [katl-dev/katl](https://github.com/katl-dev/katl) - KatlOS: an installable, upgradeable, systemd-native Kubernetes node OS.
 - [c0deJedi/nbd-vram](https://github.com/c0deJedi/nbd-vram) - Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD,
 - [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
@@ -1422,6 +1424,7 @@
 
 ## operating-system 
 
+- [katl-dev/katl](https://github.com/katl-dev/katl) - KatlOS: an installable, upgradeable, systemd-native Kubernetes node OS.
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - An open-source OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 
 ## osint 
@@ -1430,6 +1433,7 @@
 
 ## others 
 
+- [lingarr-translate/lingarr](https://github.com/lingarr-translate/lingarr) - Lingarr is an application that supports both local and SaaS translation services to translate subtitle files into a specified target language. With automated translation options, Lingarr simplifies tr
 - [bradautomates/claude-video](https://github.com/bradautomates/claude-video) - Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
 - [PixiBixi/kubectl-klens](https://github.com/PixiBixi/kubectl-klens) - A kubectl plugin for quick, read-only cluster inspection. One dispatcher, thirteen shortcuts.
 - [batleforc/weebo-skills](https://github.com/batleforc/weebo-skills) - 
@@ -1448,7 +1452,7 @@
 - [mbatard/talk-talos-opentofu-proxmox](https://github.com/mbatard/talk-talos-opentofu-proxmox) - Talos + OpenTofu + Proxmox : l'infra Kubernetes immutable, automatisée et sécurisée
 - [sw33tLie/macshot](https://github.com/sw33tLie/macshot) - Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.
 - [jpetazzo/taloprox](https://github.com/jpetazzo/taloprox) - 
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code, codex or pi for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code, codex or pi for free from the terminal, IDE, or you phone like OpenClaw (voice supported)
 - [gravitek-io/mise-demo](https://github.com/gravitek-io/mise-demo) - Mise demonstration
 - [anandprtp/Antra](https://github.com/anandprtp/Antra) - A desktop music library builder that turns Spotify, Youtube Music Apple Music, Amazon Music, Tidal, Qobuz, and Deezer links into fully tagged local library in FLAC, ALAC, AAC, or MP3.
 - [dominikmartn/nothing-design-skill](https://github.com/dominikmartn/nothing-design-skill) - A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial.
