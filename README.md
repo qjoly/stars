@@ -630,6 +630,7 @@
 
 ## docker 
 
+- [containerd/stargz-snapshotter](https://github.com/containerd/stargz-snapshotter) - Fast container image distribution plugin with lazy pulling
 - [not-first/restic-glance-extension](https://github.com/not-first/restic-glance-extension) - A glance dashboard widget to show information about the latest snapshot of a restic repo.
 - [89luca89/lilipod](https://github.com/89luca89/lilipod) - Lilipod is a simple container manager, able to download, unpack and use OCI images from various container registries.
 - [julienhmmt/pvmss](https://github.com/julienhmmt/pvmss) - PVMSS is a lightweight, self-service web portal for Proxmox Virtual Environment. It allows users to create and manage virtual machines without needing direct access to the Proxmox web UI.
