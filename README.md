@@ -286,7 +286,7 @@
 
 ## automation 
 
-- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Undetected Playwright automation on a stealth-patched Firefox. Python, MIT. Fingerprint set in the engine, not injected into the page.
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Undetected Playwright automation in Python. Stealth-patched Firefox, anti-detect browser fingerprint in the engine, not injected. Passes bot detection.
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
 - [stevius10/Proxmox-GitOps](https://github.com/stevius10/Proxmox-GitOps) - IaC Automation Framework for Linux Containers (LXC) on Proxmox VE.
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
@@ -725,7 +725,7 @@
 
 ## firefox 
 
-- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Undetected Playwright automation on a stealth-patched Firefox. Python, MIT. Fingerprint set in the engine, not injected into the page.
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Undetected Playwright automation in Python. Stealth-patched Firefox, anti-detect browser fingerprint in the engine, not injected. Passes bot detection.
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of Floorp 12, the most Advanced and Fastest Firefox derivative 🦊
 
@@ -1810,6 +1810,7 @@
 
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [gyptazy/manpageblog](https://github.com/gyptazy/manpageblog) - manpageblog is a small, lightweight blog engine written in Python and offers several advantages in a look of a man page (Unix like manual page).
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Undetected Playwright automation in Python. Stealth-patched Firefox, anti-detect browser fingerprint in the engine, not injected. Passes bot detection.
 - [hookprobe/hookprobe](https://github.com/hookprobe/hookprobe) - 🛡️ Free AI that blocks hackers while you sleep. Runs on cheap hardware. When someone in Tokyo gets attacked, you're protected in 30 seconds. No fees. No experts needed. Just protection. One node's det
 - [x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy) - A high-speed covert tunnel that disguises TCP traffic as SMTP email communication to bypass Deep Packet Inspection (DPI) firewalls.
 - [SoulKyu/github-scraping-agent-ai](https://github.com/SoulKyu/github-scraping-agent-ai) - Project that scape all github repositories, read them, analyse with an AI and return you on a discord webhook project that could interest you.
