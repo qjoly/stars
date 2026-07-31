@@ -534,7 +534,7 @@
 
 ## database 
 
-- [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
+- [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now faster than Postgres and Clickhouse
 - [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in Go.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 
@@ -912,7 +912,7 @@
 
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 - [stakpak/agent](https://github.com/stakpak/agent) - Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀
-- [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is a developer platform for Kubernetes
+- [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is an internal developer platform for Kubernetes
 - [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg
 - [Skarlso/crd-to-sample-yaml](https://github.com/Skarlso/crd-to-sample-yaml) - Generate a sample YAML file from a CRD and view it rendered on a nice website
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - An open-source OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
@@ -1440,6 +1440,7 @@
 
 ## others 
 
+- [brilliantlabsAR/brilliant_sdk](https://github.com/brilliantlabsAR/brilliant_sdk) - All Brilliant SDKs in one monorepo
 - [axinorm/proxmox-capi-talos](https://github.com/axinorm/proxmox-capi-talos) - A step by step guide for Cluster API with Proxmox and Talos Linux
 - [lingarr-translate/lingarr](https://github.com/lingarr-translate/lingarr) - Lingarr is an application that supports both local and SaaS translation services to translate subtitle files into a specified target language. With automated translation options, Lingarr simplifies tr
 - [bradautomates/claude-video](https://github.com/bradautomates/claude-video) - Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
@@ -1460,7 +1461,7 @@
 - [mbatard/talk-talos-opentofu-proxmox](https://github.com/mbatard/talk-talos-opentofu-proxmox) - Talos + OpenTofu + Proxmox : l'infra Kubernetes immutable, automatisée et sécurisée
 - [sw33tLie/macshot](https://github.com/sw33tLie/macshot) - Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.
 - [jpetazzo/taloprox](https://github.com/jpetazzo/taloprox) - 
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code, codex or pi for free from the terminal, IDE, or your phone like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex and Pi for free from your terminal, IDE, and phone like OpenClaw (voice supported)
 - [gravitek-io/mise-demo](https://github.com/gravitek-io/mise-demo) - Mise demonstration
 - [anandprtp/Antra](https://github.com/anandprtp/Antra) - A desktop music library builder that turns Spotify, Youtube Music Apple Music, Amazon Music, Tidal, Qobuz, and Deezer links into fully tagged local library in FLAC, ALAC, AAC, or MP3.
 - [dominikmartn/nothing-design-skill](https://github.com/dominikmartn/nothing-design-skill) - A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial.
@@ -1766,7 +1767,7 @@
 
 ## postgresql 
 
-- [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
+- [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now faster than Postgres and Clickhouse
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 
@@ -1898,7 +1899,7 @@
 
 ## rust 
 
-- [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
+- [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now faster than Postgres and Clickhouse
 - [r14dd/patent](https://github.com/r14dd/patent) - A prior-art search for your code ideas — has this dev tool already been shipped?
 - [batleforc/batlehub](https://github.com/batleforc/batlehub) - Your package hub. Proxy, cache, and host.
 - [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
