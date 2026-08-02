@@ -1440,6 +1440,7 @@
 
 ## others 
 
+- [mbatard/kareelio](https://github.com/mbatard/kareelio) - Kareelio helps you stay on top of your job search by tracking applications, interviews, follow-ups, contacts, and career opportunities in a simple and intuitive interface
 - [brilliantlabsAR/brilliant_sdk](https://github.com/brilliantlabsAR/brilliant_sdk) - All Brilliant SDKs in one monorepo
 - [axinorm/proxmox-capi-talos](https://github.com/axinorm/proxmox-capi-talos) - A step by step guide for Cluster API with Proxmox and Talos Linux
 - [lingarr-translate/lingarr](https://github.com/lingarr-translate/lingarr) - Lingarr is an application that supports both local and SaaS translation services to translate subtitle files into a specified target language. With automated translation options, Lingarr simplifies tr
