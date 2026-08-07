@@ -49,6 +49,7 @@
 - [data-engineering](#data-engineering)
 - [database](#database)
 - [deep-learning](#deep-learning)
+- [dependency-management](#dependency-management)
 - [deployment](#deployment)
 - [design](#design)
 - [developer-tools](#developer-tools)
@@ -431,6 +432,7 @@
 
 ## cli 
 
+- [Sn0wAlice/nix-lag](https://github.com/Sn0wAlice/nix-lag) - Report how far behind upstream your Nix fetchFromGitHub pins are
 - [tbobm/dont-burn-it-all](https://github.com/tbobm/dont-burn-it-all) - CLI + Claude Code plugin that spends your Claude Code subscription 5-hour quota on real parallel work, stopping at a threshold. Metered against the real Anthropic usage endpoint.
 - [PixiBixi/kubectl-klens](https://github.com/PixiBixi/kubectl-klens) - A kubectl plugin for quick, read-only cluster inspection. One dispatcher, ~25 shortcuts.
 - [r14dd/patent](https://github.com/r14dd/patent) - A prior-art search for your code ideas — has this dev tool already been shipped?
@@ -553,6 +555,10 @@
 
 - [mayocream/koharu](https://github.com/mayocream/koharu) - ML-powered manga translator, written in Rust.
 - [rupeshs/diffusionmagic](https://github.com/rupeshs/diffusionmagic) - Easy to use Stable diffusion workflows using diffusers
+
+## dependency-management 
+
+- [Sn0wAlice/nix-lag](https://github.com/Sn0wAlice/nix-lag) - Report how far behind upstream your Nix fetchFromGitHub pins are
 
 ## deployment 
 
@@ -1050,6 +1056,7 @@
 
 ## kubernetes 
 
+- [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner) - GitHub self-host actions project for creation of KubeVirt runners
 - [katl-dev/katl](https://github.com/katl-dev/katl) - KatlOS: an installable, upgradeable, systemd-native Kubernetes node OS.
 - [k8scout/k8scout](https://github.com/k8scout/k8scout) - Drop a single binary into a compromised Kubernetes pod and instantly map every   realistic attack path to cluster-admin, node escape, secret theft, and cloud IAM takeover.
 - [PixiBixi/kubectl-klens](https://github.com/PixiBixi/kubectl-klens) - A kubectl plugin for quick, read-only cluster inspection. One dispatcher, ~25 shortcuts.
@@ -1465,6 +1472,7 @@
 
 ## others 
 
+- [prometheus-community/PushProx](https://github.com/prometheus-community/PushProx) - Proxy to allow Prometheus to scrape through NAT etc.
 - [OneDeadKey/kalamine](https://github.com/OneDeadKey/kalamine) - Keyboard Layout Maker
 - [konnektr-io/external-dns-porkbun-webhook](https://github.com/konnektr-io/external-dns-porkbun-webhook) - External-DNS Webhook Provider to manage Porkbun Records
 - [mbatard/kareelio](https://github.com/mbatard/kareelio) - Kareelio helps you stay on top of your job search by tracking applications, interviews, follow-ups, contacts, and career opportunities in a simple and intuitive interface
@@ -1926,6 +1934,7 @@
 
 ## rust 
 
+- [Sn0wAlice/nix-lag](https://github.com/Sn0wAlice/nix-lag) - Report how far behind upstream your Nix fetchFromGitHub pins are
 - [wie-project/kakehashi](https://github.com/wie-project/kakehashi) - Userspace macOS translation layer for Linux ARM64
 - [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now faster than Postgres and Clickhouse
 - [r14dd/patent](https://github.com/r14dd/patent) - A prior-art search for your code ideas — has this dev tool already been shipped?
