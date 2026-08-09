@@ -292,7 +292,7 @@
 
 ## automation 
 
-- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Undetected Playwright automation in Python. Stealth-patched Firefox, anti-detect browser fingerprint in the engine, not injected. Passes bot detection.
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Antidetect browser stealth for Playwright: undetected fingerprint in a patched Firefox, headless or headed. Python scraping, captcha-challenged sites. MIT
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
 - [stevius10/Proxmox-GitOps](https://github.com/stevius10/Proxmox-GitOps) - IaC Automation Framework for Linux Containers (LXC) on Proxmox VE.
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
@@ -729,7 +729,7 @@
 ## electron 
 
 - [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
@@ -757,7 +757,7 @@
 
 ## firefox 
 
-- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Undetected Playwright automation in Python. Stealth-patched Firefox, anti-detect browser fingerprint in the engine, not injected. Passes bot detection.
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Antidetect browser stealth for Playwright: undetected fingerprint in a patched Firefox, headless or headed. Python scraping, captcha-challenged sites. MIT
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of Floorp 12, the most Advanced and Fastest Firefox derivative 🦊
 
@@ -1342,7 +1342,7 @@
 
 ## markdown 
 
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [ddddddO/gtree](https://github.com/ddddddO/gtree) - Easily output ASCII tree from Go program or Markdown unordered list . There's also CLI tool that can output tree from JSON, YAML, or TOML! It's called *xtree*.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [slidesk/slidesk](https://github.com/slidesk/slidesk) - Speaker companion
@@ -1358,7 +1358,7 @@
 - [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.
 - [yindia/rootcause](https://github.com/yindia/rootcause) - RootCause is a local-first MCP server that turns natural-language requests into evidence-backed incident analysis, Kubernetes diagnostics, and safer operations.
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is an internal developer platform for Kubernetes
 - [kagent-dev/kmcp](https://github.com/kagent-dev/kmcp) - CLI tool and Kubernetes Controller for building, testing and deploying MCP servers
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
@@ -1856,7 +1856,7 @@
 
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [gyptazy/manpageblog](https://github.com/gyptazy/manpageblog) - manpageblog is a small, lightweight blog engine written in Python and offers several advantages in a look of a man page (Unix like manual page).
-- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Undetected Playwright automation in Python. Stealth-patched Firefox, anti-detect browser fingerprint in the engine, not injected. Passes bot detection.
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Antidetect browser stealth for Playwright: undetected fingerprint in a patched Firefox, headless or headed. Python scraping, captcha-challenged sites. MIT
 - [hookprobe/hookprobe](https://github.com/hookprobe/hookprobe) - 🛡️ Free AI that blocks hackers while you sleep. Runs on cheap hardware. When someone in Tokyo gets attacked, you're protected in 30 seconds. No fees. No experts needed. Just protection. One node's det
 - [x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy) - A high-speed covert tunnel that disguises TCP traffic as SMTP email communication to bypass Deep Packet Inspection (DPI) firewalls.
 - [SoulKyu/github-scraping-agent-ai](https://github.com/SoulKyu/github-scraping-agent-ai) - Project that scape all github repositories, read them, analyse with an AI and return you on a discord webhook project that could interest you.
@@ -2009,9 +2009,9 @@
 
 - [kaybi-gh/K7](https://github.com/kaybi-gh/K7) - Self-hosted media server for a small circle of family and friends.
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and clus
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
-- [gosuda/portal-tunnel](https://github.com/gosuda/portal-tunnel) - Publishes localhost services to the agentic web through self-hostable, trustless relays with x402 payments.
+- [gosuda/portal-tunnel](https://github.com/gosuda/portal-tunnel) - Publishes localhost services to the agentic web through self-hostable, trustless relays.
 - [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
 - [blob42/gosuki](https://github.com/blob42/gosuki) - A lightweight, open-source, privacy-first bookmark manager that unifies your bookmarks across multiple browsers, syncs them in real time (locally or P2P), requires no extensions, and stores everything
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
