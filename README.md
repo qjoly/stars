@@ -1509,7 +1509,7 @@
 - [mbatard/talk-talos-opentofu-proxmox](https://github.com/mbatard/talk-talos-opentofu-proxmox) - Talos + OpenTofu + Proxmox : l'infra Kubernetes immutable, automatisée et sécurisée
 - [sw33tLie/macshot](https://github.com/sw33tLie/macshot) - Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.
 - [jpetazzo/taloprox](https://github.com/jpetazzo/taloprox) - 
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
 - [gravitek-io/mise-demo](https://github.com/gravitek-io/mise-demo) - Mise demonstration
 - [anandprtp/Antra](https://github.com/anandprtp/Antra) - A desktop music library builder that turns Spotify, Youtube Music Apple Music, Amazon Music, Tidal, Qobuz, and Deezer links into fully tagged local library in FLAC, ALAC, AAC, or MP3.
 - [dominikmartn/nothing-design-skill](https://github.com/dominikmartn/nothing-design-skill) - A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial.
