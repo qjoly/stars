@@ -1500,6 +1500,8 @@
 
 ## others 
 
+- [kommodity-io/cluster-api-control-plane-provider-talos](https://github.com/kommodity-io/cluster-api-control-plane-provider-talos) - A control plane provider for CAPI + Talos
+- [kommodity-io/cluster-api-bootstrap-provider-talos](https://github.com/kommodity-io/cluster-api-bootstrap-provider-talos) - A cluster-api bootstrap provider for deploying Talos clusters.
 - [grafana/beyla](https://github.com/grafana/beyla) - eBPF-based autoinstrumentation of web applications and network metrics
 - [prometheus-community/PushProx](https://github.com/prometheus-community/PushProx) - Proxy to allow Prometheus to scrape through NAT etc.
 - [OneDeadKey/kalamine](https://github.com/OneDeadKey/kalamine) - Keyboard Layout Maker
