@@ -445,6 +445,7 @@
 
 ## cli 
 
+- [zenbu-labs/terminal-code](https://github.com/zenbu-labs/terminal-code) - VS Code in the terminal
 - [Sn0wAlice/nix-lag](https://github.com/Sn0wAlice/nix-lag) - Report how far behind upstream your Nix fetchFromGitHub pins are
 - [tbobm/dont-burn-it-all](https://github.com/tbobm/dont-burn-it-all) - CLI + Claude Code plugin that spends your Claude Code subscription 5-hour quota on real parallel work, stopping at a threshold. Metered against the real Anthropic usage endpoint.
 - [PixiBixi/kubectl-klens](https://github.com/PixiBixi/kubectl-klens) - A kubectl plugin for quick, read-only cluster inspection. One dispatcher, ~25 shortcuts.
@@ -1502,6 +1503,7 @@
 
 ## others 
 
+- [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
 - [kommodity-io/cluster-api-control-plane-provider-talos](https://github.com/kommodity-io/cluster-api-control-plane-provider-talos) - A control plane provider for CAPI + Talos
 - [kommodity-io/cluster-api-bootstrap-provider-talos](https://github.com/kommodity-io/cluster-api-bootstrap-provider-talos) - A cluster-api bootstrap provider for deploying Talos clusters.
 - [grafana/beyla](https://github.com/grafana/beyla) - eBPF-based autoinstrumentation of web applications and network metrics
@@ -1511,6 +1513,7 @@
 - [mbatard/kareelio](https://github.com/mbatard/kareelio) - Kareelio helps you stay on top of your job search by tracking applications, interviews, follow-ups, contacts, and career opportunities in a simple and intuitive interface
 - [brilliantlabsAR/brilliant_sdk](https://github.com/brilliantlabsAR/brilliant_sdk) - All Brilliant SDKs in one monorepo
 - [axinorm/proxmox-capi-talos](https://github.com/axinorm/proxmox-capi-talos) - A step by step guide for Cluster API with Proxmox and Talos Linux
+- [batleforc/weebo-authentik](https://github.com/batleforc/weebo-authentik) - 
 - [lingarr-translate/lingarr](https://github.com/lingarr-translate/lingarr) - Lingarr is an application that supports both local and SaaS translation services to translate subtitle files into a specified target language. With automated translation options, Lingarr simplifies tr
 - [bradautomates/claude-video](https://github.com/bradautomates/claude-video) - Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
 - [batleforc/weebo-skills](https://github.com/batleforc/weebo-skills) - 
@@ -2135,6 +2138,7 @@
 
 ## terminal 
 
+- [zenbu-labs/terminal-code](https://github.com/zenbu-labs/terminal-code) - VS Code in the terminal
 - [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
