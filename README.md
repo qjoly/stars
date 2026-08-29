@@ -221,7 +221,7 @@
 
 ## ai 
 
-- [zachahn/vomit](https://github.com/zachahn/vomit) - Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Opus is hopeless
+- [zachahn/vomit](https://github.com/zachahn/vomit) - Clean up Claude's token vomit with a separate LLM. Save your tokens, Opus is hopeless
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF)
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [r14dd/patent](https://github.com/r14dd/patent) - A prior-art search for your code ideas — has this dev tool already been shipped?
@@ -429,7 +429,7 @@
 ## claude-code 
 
 - [chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar) - Use your tokens to raise, evolve, and collect Pokémon! 🥚
-- [zachahn/vomit](https://github.com/zachahn/vomit) - Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Opus is hopeless
+- [zachahn/vomit](https://github.com/zachahn/vomit) - Clean up Claude's token vomit with a separate LLM. Save your tokens, Opus is hopeless
 - [tbobm/dont-burn-it-all](https://github.com/tbobm/dont-burn-it-all) - CLI + Claude Code plugin that spends your Claude Code subscription 5-hour quota on real parallel work, stopping at a threshold. Metered against the real Anthropic usage endpoint.
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model 
 - [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Clau
@@ -1976,6 +1976,7 @@
 
 ## rust 
 
+- [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [LumoRez07/Flow](https://github.com/LumoRez07/Flow) - A lightweight Windows teleprompter built with Tauri, featuring a minimal always-on-top reading UI, tray controls, script editing, and Groq-powered prompt generation. Made for creators, educators, stud
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
 - [mlab-sh/k3sec](https://github.com/mlab-sh/k3sec) - Runtime security CLI for k3s clusters, written in Rust.
