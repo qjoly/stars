@@ -297,6 +297,7 @@
 
 ## automation 
 
+- [mkamranr/reelforge](https://github.com/mkamranr/reelforge) - Turn a GitHub repository or Hugging Face model into a finished vertical reel: video, cover art and per-platform copy.
 - [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Free antidetect browser stealth for Playwright: undetected headless Firefox fingerprint. Python scraping, recaptcha and bot detection bypass. Open source
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
 - [stevius10/Proxmox-GitOps](https://github.com/stevius10/Proxmox-GitOps) - IaC Automation Framework for Linux Containers (LXC) on Proxmox VE.
@@ -767,6 +768,7 @@
 
 ## fastapi 
 
+- [mkamranr/reelforge](https://github.com/mkamranr/reelforge) - Turn a GitHub repository or Hugging Face model into a finished vertical reel: video, cover art and per-platform copy.
 - [rainmanjam/jobspy-api](https://github.com/rainmanjam/jobspy-api) - Dockerized version of JobSpy job search utility with API key auth, rate limiting, and proxy support.
 
 ## firefox 
@@ -961,6 +963,7 @@
 
 ## hacktoberfest 
 
+- [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 - [stakpak/agent](https://github.com/stakpak/agent) - Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀
 - [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg
@@ -1079,6 +1082,7 @@
 
 ## kubernetes 
 
+- [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer
 - [asobti/kube-monkey](https://github.com/asobti/kube-monkey) - An implementation of Netflix's Chaos Monkey for Kubernetes clusters
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF)
 - [RafPe/kube-oidc-proxy](https://github.com/RafPe/kube-oidc-proxy) - OIDC authentication for managed Kubernetes clusters (EKS/GKE/AKS) — including multi-issuer, via impersonation.
@@ -1276,6 +1280,7 @@
 
 ## linux 
 
+- [kairos-io/hadron](https://github.com/kairos-io/hadron) - Hadron is a minimal, from-scratch Linux distro using vanilla components, engineered for trusted and flexible boot environments.
 - [wie-project/kakehashi](https://github.com/wie-project/kakehashi) - Userspace macOS translation layer for Linux ARM64
 - [katl-dev/katl](https://github.com/katl-dev/katl) - KatlOS: an installable, upgradeable, systemd-native Kubernetes node OS.
 - [c0deJedi/nbd-vram](https://github.com/c0deJedi/nbd-vram) - Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD,
@@ -1305,6 +1310,7 @@
 
 ## llm 
 
+- [mkamranr/reelforge](https://github.com/mkamranr/reelforge) - Turn a GitHub repository or Hugging Face model into a finished vertical reel: video, cover art and per-platform copy.
 - [korotovsky/slack-mcp-server](https://github.com/korotovsky/slack-mcp-server) - The most powerful MCP Slack Server with no permission requirements, Apps support, GovSlack, DMs, Group DMs and smart history fetch logic.
 - [r14dd/patent](https://github.com/r14dd/patent) - A prior-art search for your code ideas — has this dev tool already been shipped?
 - [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Clau
@@ -1506,6 +1512,9 @@
 
 ## others 
 
+- [mlab-sh/mcp](https://github.com/mlab-sh/mcp) - 
+- [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+- [kommodity-io/kommodity-autobootstrap-extension](https://github.com/kommodity-io/kommodity-autobootstrap-extension) - Talos Extension to perform auto bootstrap in private networks
 - [tbobm/apero](https://github.com/tbobm/apero) - yes
 - [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
 - [kommodity-io/cluster-api-control-plane-provider-talos](https://github.com/kommodity-io/cluster-api-control-plane-provider-talos) - A control plane provider for CAPI + Talos
@@ -1538,7 +1547,7 @@
 - [jpetazzo/taloprox](https://github.com/jpetazzo/taloprox) - 
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
 - [gravitek-io/mise-demo](https://github.com/gravitek-io/mise-demo) - Mise demonstration
-- [anandprtp/Antra](https://github.com/anandprtp/Antra) - A desktop music library builder that turns Spotify, Youtube Music Apple Music, Amazon Music, Tidal, Qobuz, and Deezer links into fully tagged local library in FLAC, ALAC, AAC, or MP3.
+- [anandprtp/Antra](https://github.com/anandprtp/Antra) - A desktop music library builder that turns Spotify, Youtube Music Apple Music, Amazon Music, Tidal, Qobuz, and Deezer links into fully tagged local library in FLAC, ALAC, Dolby Atmos, AAC, or MP3.
 - [dominikmartn/nothing-design-skill](https://github.com/dominikmartn/nothing-design-skill) - A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial.
 - [OpenCloudGaming/OpenNOW](https://github.com/OpenCloudGaming/OpenNOW) - Custom GeForce Now Client Named OpenNOW
 - [PromClick/PromClick](https://github.com/PromClick/PromClick) - 
@@ -1888,6 +1897,7 @@
 
 ## python 
 
+- [mkamranr/reelforge](https://github.com/mkamranr/reelforge) - Turn a GitHub repository or Hugging Face model into a finished vertical reel: video, cover art and per-platform copy.
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [gyptazy/manpageblog](https://github.com/gyptazy/manpageblog) - manpageblog is a small, lightweight blog engine written in Python and offers several advantages in a look of a man page (Unix like manual page).
 - [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Free antidetect browser stealth for Playwright: undetected headless Firefox fingerprint. Python scraping, recaptcha and bot detection bypass. Open source
@@ -2047,6 +2057,7 @@
 
 ## self-hosted 
 
+- [mkamranr/reelforge](https://github.com/mkamranr/reelforge) - Turn a GitHub repository or Hugging Face model into a finished vertical reel: video, cover art and per-platform copy.
 - [r0073d-l053r/ProxMate](https://github.com/r0073d-l053r/ProxMate) - A lightweight, invite-only cloud dashboard built on Proxmox VE.
 - [kaybi-gh/K7](https://github.com/kaybi-gh/K7) - Self-hosted media server for a small circle of family and friends.
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and clus
@@ -2201,6 +2212,7 @@
 
 ## text-to-speech 
 
+- [mkamranr/reelforge](https://github.com/mkamranr/reelforge) - Turn a GitHub repository or Hugging Face model into a finished vertical reel: video, cover art and per-platform copy.
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 
