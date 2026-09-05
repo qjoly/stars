@@ -44,7 +44,6 @@
 - [config](#config)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
-- [crawler](#crawler)
 - [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
@@ -298,7 +297,6 @@
 ## automation 
 
 - [mkamranr/reelforge](https://github.com/mkamranr/reelforge) - Turn a GitHub repository or Hugging Face model into a finished vertical reel: video, cover art and per-platform copy.
-- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Free antidetect browser stealth for Playwright: undetected headless Firefox fingerprint. Python scraping, recaptcha and bot detection bypass. Open source
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
 - [stevius10/Proxmox-GitOps](https://github.com/stevius10/Proxmox-GitOps) - IaC Automation Framework for Linux Containers (LXC) on Proxmox VE.
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
@@ -543,10 +541,6 @@
 - [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 
-## crawler 
-
-- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Free antidetect browser stealth for Playwright: undetected headless Firefox fingerprint. Python scraping, recaptcha and bot detection bypass. Open source
-
 ## csharp 
 
 - [kaybi-gh/K7](https://github.com/kaybi-gh/K7) - Self-hosted media server for a small circle of family and friends.
@@ -773,7 +767,6 @@
 
 ## firefox 
 
-- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Free antidetect browser stealth for Playwright: undetected headless Firefox fingerprint. Python scraping, recaptcha and bot detection bypass. Open source
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of Floorp 12, the most Advanced and Fastest Firefox derivative 🦊
 
@@ -1514,6 +1507,7 @@
 
 ## others 
 
+- [vatesfr/xenorchestra-csi-driver](https://github.com/vatesfr/xenorchestra-csi-driver) - 
 - [mlab-sh/mcp](https://github.com/mlab-sh/mcp) - 
 - [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 - [kommodity-io/kommodity-autobootstrap-extension](https://github.com/kommodity-io/kommodity-autobootstrap-extension) - Talos Extension to perform auto bootstrap in private networks
@@ -1539,6 +1533,7 @@
 - [vatesfr/cluster-api-provider-vates](https://github.com/vatesfr/cluster-api-provider-vates) - Cluster API provider implementation for Vates VMS (XCP-ng and Xen Orchestra)
 - [ErenAri/Aegis-BPF](https://github.com/ErenAri/Aegis-BPF) - Deterministic Linux runtime enforcement with eBPF LSM: block file/network operations before syscalls complete.
 - [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Free antidetect browser stealth for Playwright: undetected headless Firefox fingerprint. Python scraping, recaptcha and bot detection bypass. Open source
 - [Karandash8/make-argocd-fly](https://github.com/Karandash8/make-argocd-fly) - A tool to generate Kubernetes manifests from templates
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) - A TTS that fits in your CPU (and pocket)
@@ -1563,7 +1558,7 @@
 - [briangtn/ScreenAlerts](https://github.com/briangtn/ScreenAlerts) - 
 - [SoulKyu/cpg](https://github.com/SoulKyu/cpg) - Cilium Policy Generator using hubble relay
 - [wayblueorg/wayblue](https://github.com/wayblueorg/wayblue) - Fedora Atomic images for wayland compositors
-- [yodamad/easylab](https://github.com/yodamad/easylab) - Make labs setup easy with Pulumi & Coder
+- [yodamad/easylab](https://github.com/yodamad/easylab) - Make labs setup easy
 - [jazwa/rackstack](https://github.com/jazwa/rackstack) - A modular 3d-printable mini rack system.
 - [unfault/cli](https://github.com/unfault/cli) - A calm reviewer for thoughtful engineers.
 - [niri-wm/niri-wm.github.io](https://github.com/niri-wm/niri-wm.github.io) - 
@@ -1902,7 +1897,6 @@
 - [mkamranr/reelforge](https://github.com/mkamranr/reelforge) - Turn a GitHub repository or Hugging Face model into a finished vertical reel: video, cover art and per-platform copy.
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [gyptazy/manpageblog](https://github.com/gyptazy/manpageblog) - manpageblog is a small, lightweight blog engine written in Python and offers several advantages in a look of a man page (Unix like manual page).
-- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Free antidetect browser stealth for Playwright: undetected headless Firefox fingerprint. Python scraping, recaptcha and bot detection bypass. Open source
 - [hookprobe/hookprobe](https://github.com/hookprobe/hookprobe) - 🛡️ Free AI that blocks hackers while you sleep. Runs on cheap hardware. When someone in Tokyo gets attacked, you're protected in 30 seconds. No fees. No experts needed. Just protection. One node's det
 - [x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy) - A high-speed covert tunnel that disguises TCP traffic as SMTP email communication to bypass Deep Packet Inspection (DPI) firewalls.
 - [SoulKyu/github-scraping-agent-ai](https://github.com/SoulKyu/github-scraping-agent-ai) - Project that scape all github repositories, read them, analyse with an AI and return you on a discord webhook project that could interest you.
