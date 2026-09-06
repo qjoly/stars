@@ -316,7 +316,7 @@
 - [gites/awesome-vault-tools](https://github.com/gites/awesome-vault-tools) - Awesome tools around HashiCorp Vault
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [Corsinvest/awesome-proxmox-ve](https://github.com/Corsinvest/awesome-proxmox-ve) - A collection of awesome Proxmox VE documentation, tools, api, blogs, site
-- [az7rb/crt.sh](https://github.com/az7rb/crt.sh) - Fast parallel subdomain enumeration via 7 Certificate Transparency sources - no API keys required
+- [az7rb/crt.sh](https://github.com/az7rb/crt.sh) - A fast, parallel subdomain enumeration tool that queries 4 Certificate Transparency log sources simultaneously.
 - [adriannovegil/awesome-observability](https://github.com/adriannovegil/awesome-observability) - Awesome observability page
 - [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf) - Curated list of resources on HashiCorp's Terraform and OpenTofu
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
@@ -376,7 +376,7 @@
 - [hrs/dotfiles](https://github.com/hrs/dotfiles) - Let's be honest: mostly Emacs.
 - [NayamAmarshe/please](https://github.com/NayamAmarshe/please) - 🙏 Please CLI - Minimalistic New Tab Page CLI Tool with a greeting, date and time, inspirational quotes and your personal tasks and to-do list
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
-- [az7rb/crt.sh](https://github.com/az7rb/crt.sh) - Fast parallel subdomain enumeration via 7 Certificate Transparency sources - no API keys required
+- [az7rb/crt.sh](https://github.com/az7rb/crt.sh) - A fast, parallel subdomain enumeration tool that queries 4 Certificate Transparency log sources simultaneously.
 
 ## beginner-project 
 
@@ -1507,6 +1507,7 @@
 
 ## others 
 
+- [domoretechnet/allarise-ios](https://github.com/domoretechnet/allarise-ios) - Allarise iOS app (public mirror)
 - [vatesfr/xenorchestra-csi-driver](https://github.com/vatesfr/xenorchestra-csi-driver) - 
 - [mlab-sh/mcp](https://github.com/mlab-sh/mcp) - 
 - [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
