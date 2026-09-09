@@ -2287,6 +2287,7 @@
 
 ## vuejs 
 
+- [batlehub/batlehub](https://github.com/batlehub/batlehub) - Your package hub. Proxy, cache, and host.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 
 ## web 
