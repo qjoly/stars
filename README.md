@@ -666,6 +666,7 @@
 
 ## docker 
 
+- [project-angos/angos](https://github.com/project-angos/angos) - An OCI-compliant and Docker-compatible container registry.
 - [kaybi-gh/K7](https://github.com/kaybi-gh/K7) - Self-hosted media server for a small circle of family and friends.
 - [containerd/stargz-snapshotter](https://github.com/containerd/stargz-snapshotter) - Fast container image distribution plugin with lazy pulling
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
@@ -1984,6 +1985,7 @@
 
 ## rust 
 
+- [project-angos/angos](https://github.com/project-angos/angos) - An OCI-compliant and Docker-compatible container registry.
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [LumoRez07/Flow](https://github.com/LumoRez07/Flow) - A lightweight Windows teleprompter built with Tauri, featuring a minimal always-on-top reading UI, tray controls, script editing, and Groq-powered prompt generation. Made for creators, educators, stud
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
