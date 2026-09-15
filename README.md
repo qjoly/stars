@@ -869,6 +869,7 @@
 
 ## golang 
 
+- [zyvorai/kairon](https://github.com/zyvorai/kairon) - Apache-2.0 Kubernetes-native VM orchestration without KubeVirt or libvirt. Kubernetes declares. Kairon orchestrates. FluxVM executes.
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF)
 - [tsouza/cerberus](https://github.com/tsouza/cerberus) - Drop-in Prometheus / Loki / Tempo HTTP gateway for ClickHouse. Translate PromQL, LogQL, and TraceQL into optimized CH SQL — keep Grafana, swap the backend.
 - [tbobm/dont-burn-it-all](https://github.com/tbobm/dont-burn-it-all) - CLI + Claude Code plugin that spends your Claude Code subscription 5-hour quota on real parallel work, stopping at a threshold. Metered against the real Anthropic usage endpoint.
@@ -1508,6 +1509,7 @@
 
 ## others 
 
+- [projectbluefin/server](https://github.com/projectbluefin/server) - The world's premier FSDK server operating system.
 - [jetkvm/cloud-api](https://github.com/jetkvm/cloud-api) - JetKVM Cloud API
 - [domoretechnet/allarise-ios](https://github.com/domoretechnet/allarise-ios) - Allarise iOS app (public mirror)
 - [vatesfr/xenorchestra-csi-driver](https://github.com/vatesfr/xenorchestra-csi-driver) - 
