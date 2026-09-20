@@ -762,6 +762,7 @@
 ## fastapi 
 
 - [mkamranr/reelforge](https://github.com/mkamranr/reelforge) - Turn a GitHub repository or Hugging Face model into a finished vertical reel: video, cover art and per-platform copy.
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent
 - [rainmanjam/jobspy-api](https://github.com/rainmanjam/jobspy-api) - Dockerized version of JobSpy job search utility with API key auth, rate limiting, and proxy support.
 
 ## firefox 
@@ -1508,6 +1509,8 @@
 
 ## others 
 
+- [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) - i. am. speed.
+- [moq-dev/moq](https://github.com/moq-dev/moq) - Media over QUIC: Real-time latency at massive scale
 - [SigNoz/signoz-operator](https://github.com/SigNoz/signoz-operator) - SigNoz Operator for Kubernetes
 - [projectbluefin/server](https://github.com/projectbluefin/server) - The world's premier FSDK server operating system.
 - [jetkvm/cloud-api](https://github.com/jetkvm/cloud-api) - JetKVM Cloud API
@@ -1538,7 +1541,7 @@
 - [vatesfr/cluster-api-provider-vates](https://github.com/vatesfr/cluster-api-provider-vates) - Cluster API provider implementation for Vates VMS (XCP-ng and Xen Orchestra)
 - [ErenAri/Aegis-BPF](https://github.com/ErenAri/Aegis-BPF) - Deterministic Linux runtime enforcement with eBPF LSM: block file/network operations before syscalls complete.
 - [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability
-- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Free antidetect browser stealth for Playwright: undetected headless Firefox fingerprint. Python scraping, recaptcha and bot detection bypass. Open source
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Anti-detect stealth browser: undetected Firefox fingerprint, anti-bot detection bypass. Python web scraping automation, Cloudflare, captcha.
 - [Karandash8/make-argocd-fly](https://github.com/Karandash8/make-argocd-fly) - A tool to generate Kubernetes manifests from templates
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) - A TTS that fits in your CPU (and pocket)
