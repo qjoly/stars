@@ -1400,6 +1400,7 @@
 
 ## mcp 
 
+- [rbenaley/Vauban](https://github.com/rbenaley/Vauban) - A fortified bastion (PAM) designed to protect and control access to organization computing assets.  Goal: deliver a unique free and open-source bastion software using the Rust programming language.
 - [krezzoid/sncf-mcp](https://github.com/krezzoid/sncf-mcp) - A Model Context Protocol server that gives AI agents structured access to the French railway network (SNCF)
 - [korotovsky/slack-mcp-server](https://github.com/korotovsky/slack-mcp-server) - The most powerful MCP Slack Server with no permission requirements, Apps support, GovSlack, DMs, Group DMs and smart history fetch logic.
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and clus
