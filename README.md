@@ -75,6 +75,7 @@
 - [flutter](#flutter)
 - [framework](#framework)
 - [game](#game)
+- [gamedev](#gamedev)
 - [games](#games)
 - [gaming](#gaming)
 - [generative-ai](#generative-ai)
@@ -138,6 +139,7 @@
 - [penetration-testing](#penetration-testing)
 - [pentesting](#pentesting)
 - [php](#php)
+- [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -256,6 +258,7 @@
 
 ## ai-agents 
 
+- [with-pebbly/aseprite-ai-artist](https://github.com/with-pebbly/aseprite-ai-artist) - Agent-native control layer for Aseprite. MCP server (2025-11-25 spec, designed forward to 2026-07-28) + cross-agent skills for Claude Code, Codex, Gemini CLI and Cursor.
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and clus
 - [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Clau
 - [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - Give your agent CAD superpowers.
@@ -438,6 +441,7 @@
 
 ## claude-code 
 
+- [with-pebbly/aseprite-ai-artist](https://github.com/with-pebbly/aseprite-ai-artist) - Agent-native control layer for Aseprite. MCP server (2025-11-25 spec, designed forward to 2026-07-28) + cross-agent skills for Claude Code, Codex, Gemini CLI and Cursor.
 - [chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar) - Use your tokens to raise, evolve, and collect Pokémon! 🥚
 - [zachahn/vomit](https://github.com/zachahn/vomit) - Clean up Claude's token vomit with a separate LLM. Save your tokens, Opus is hopeless
 - [tbobm/dont-burn-it-all](https://github.com/tbobm/dont-burn-it-all) - CLI + Claude Code plugin that spends your Claude Code subscription 5-hour quota on real parallel work, stopping at a threshold. Metered against the real Anthropic usage endpoint.
@@ -570,6 +574,7 @@
 
 - [hookprobe/hookprobe](https://github.com/hookprobe/hookprobe) - 🛡️ Free AI that blocks hackers while you sleep. Runs on cheap hardware. When someone in Tokyo gets attacked, you're protected in 30 seconds. No fees. No experts needed. Just protection. One node's det
 - [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [4ndersonLin/awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) - 🛡️ Awesome Cloud Security Resources ⚔️
 
 ## data-engineering 
@@ -798,6 +803,10 @@
 ## game 
 
 - [lucky-sideburn/kubeinvaders](https://github.com/lucky-sideburn/kubeinvaders) - Gamified Chaos Engineering Tool for Kubernetes
+
+## gamedev 
+
+- [with-pebbly/aseprite-ai-artist](https://github.com/with-pebbly/aseprite-ai-artist) - Agent-native control layer for Aseprite. MCP server (2025-11-25 spec, designed forward to 2026-07-28) + cross-agent skills for Claude Code, Codex, Gemini CLI and Cursor.
 
 ## games 
 
@@ -1347,6 +1356,7 @@
 
 ## lua 
 
+- [with-pebbly/aseprite-ai-artist](https://github.com/with-pebbly/aseprite-ai-artist) - Agent-native control layer for Aseprite. MCP server (2025-11-25 spec, designed forward to 2026-07-28) + cross-agent skills for Claude Code, Codex, Gemini CLI and Cursor.
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering,
 - [badele/vide](https://github.com/badele/vide) - Neovim custom configuration, oriented for DevOps role (bash, go, json, python, terraform, typescript, etc ...). not empty code :)
@@ -1401,6 +1411,7 @@
 
 ## mcp 
 
+- [with-pebbly/aseprite-ai-artist](https://github.com/with-pebbly/aseprite-ai-artist) - Agent-native control layer for Aseprite. MCP server (2025-11-25 spec, designed forward to 2026-07-28) + cross-agent skills for Claude Code, Codex, Gemini CLI and Cursor.
 - [rbenaley/Vauban](https://github.com/rbenaley/Vauban) - A fortified bastion (PAM) designed to protect and control access to organization computing assets.  Goal: deliver a unique free and open-source bastion software using the Rust programming language.
 - [krezzoid/sncf-mcp](https://github.com/krezzoid/sncf-mcp) - A Model Context Protocol server that gives AI agents structured access to the French railway network (SNCF)
 - [korotovsky/slack-mcp-server](https://github.com/korotovsky/slack-mcp-server) - The most powerful MCP Slack Server with no permission requirements, Apps support, GovSlack, DMs, Group DMs and smart history fetch logic.
@@ -1884,6 +1895,10 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [michaelfranzl/no.php](https://github.com/michaelfranzl/no.php) - Transparent reverse proxy written in PHP
 
+## pixel-art 
+
+- [with-pebbly/aseprite-ai-artist](https://github.com/with-pebbly/aseprite-ai-artist) - Agent-native control layer for Aseprite. MCP server (2025-11-25 spec, designed forward to 2026-07-28) + cross-agent skills for Claude Code, Codex, Gemini CLI and Cursor.
+
 ## postgresql 
 
 - [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now faster than Postgres and Clickhouse
@@ -2058,6 +2073,7 @@
 
 ## security 
 
+- [zeek/zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 - [AgentGuard-hq/AgentGuard](https://github.com/AgentGuard-hq/AgentGuard) - Kernel-enforced policy for coding agents (eBPF LSM). YAML in the repo; deny is EPERM. Claude gets Semantic feedback after deny.
 - [rbenaley/Vauban](https://github.com/rbenaley/Vauban) - A fortified bastion (PAM) designed to protect and control access to organization computing assets.  Goal: deliver a unique free and open-source bastion software using the Rust programming language.
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
@@ -2275,6 +2291,7 @@
 
 ## typescript 
 
+- [with-pebbly/aseprite-ai-artist](https://github.com/with-pebbly/aseprite-ai-artist) - Agent-native control layer for Aseprite. MCP server (2025-11-25 spec, designed forward to 2026-07-28) + cross-agent skills for Claude Code, Codex, Gemini CLI and Cursor.
 - [r0073d-l053r/ProxMate](https://github.com/r0073d-l053r/ProxMate) - A lightweight, invite-only cloud dashboard built on Proxmox VE.
 - [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Clau
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
