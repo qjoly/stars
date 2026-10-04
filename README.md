@@ -197,6 +197,7 @@
 - [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [workflow](#workflow)
 - [youtube](#youtube)
 - [zsh](#zsh)
@@ -2395,6 +2396,10 @@
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [rupeshs/diffusionmagic](https://github.com/rupeshs/diffusionmagic) - Easy to use Stable diffusion workflows using diffusers
+
+## windows-11 
+
+- [LumoRez07/Flow](https://github.com/LumoRez07/Flow) - A lightweight Windows teleprompter built with Tauri, featuring a minimal always-on-top reading UI, tray controls, script editing, and Groq-powered prompt generation. Made for creators, educators, stud
 
 ## workflow 
 
