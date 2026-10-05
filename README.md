@@ -899,7 +899,7 @@
 ## golang 
 
 - [mcpunzo/k8s-rightsizer](https://github.com/mcpunzo/k8s-rightsizer) - 🔄 Kubernetes automation tool for safe workload right‑sizing.
-- [zyvorai/kairon](https://github.com/zyvorai/kairon) - Kubernetes-native VM orchestration without KubeVirt or libvirt. Kubernetes declares. Kairon orchestrates. FluxVM executes.
+- [zyvorai/zyvor-kairon](https://github.com/zyvorai/zyvor-kairon) - Kubernetes-native VM orchestration without KubeVirt or libvirt. Kubernetes declares. Kairon orchestrates. FluxVM executes.
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF)
 - [tsouza/cerberus](https://github.com/tsouza/cerberus) - Drop-in Prometheus / Loki / Tempo HTTP gateway for ClickHouse. Translate PromQL, LogQL, and TraceQL into optimized CH SQL — keep Grafana, swap the backend.
 - [tbobm/dont-burn-it-all](https://github.com/tbobm/dont-burn-it-all) - CLI + Claude Code plugin that spends your Claude Code subscription 5-hour quota on real parallel work, stopping at a threshold. Metered against the real Anthropic usage endpoint.
@@ -1108,7 +1108,7 @@
 - [mcpunzo/k8s-rightsizer](https://github.com/mcpunzo/k8s-rightsizer) - 🔄 Kubernetes automation tool for safe workload right‑sizing.
 - [super-phenix/superphenix](https://github.com/super-phenix/superphenix) - An Opensource IaaS/PaaS/SaaS platform based on Kubernetes. Build your own cloud provider wherever you want.
 - [Corium-OS/Corium](https://github.com/Corium-OS/Corium) - An immutable Kubernetes node, built as an OCI image. Fedora bootc, k0s baked into a read-only /usr, configured with cloud-init.
-- [zyvorai/kairon](https://github.com/zyvorai/kairon) - Kubernetes-native VM orchestration without KubeVirt or libvirt. Kubernetes declares. Kairon orchestrates. FluxVM executes.
+- [zyvorai/zyvor-kairon](https://github.com/zyvorai/zyvor-kairon) - Kubernetes-native VM orchestration without KubeVirt or libvirt. Kubernetes declares. Kairon orchestrates. FluxVM executes.
 - [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer
 - [asobti/kube-monkey](https://github.com/asobti/kube-monkey) - An implementation of Netflix's Chaos Monkey for Kubernetes clusters
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF)
