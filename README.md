@@ -283,7 +283,7 @@
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
-- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
+- [gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS plaintext with eBPF—no MITM proxy or custom CA installation. Supports Linux and Android on x86_64 and arm64.
 
 ## angular 
 
@@ -791,6 +791,7 @@
 
 ## firefox 
 
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Playwright that anti-bots cannot see, so no captchas: same API, anti-detect stealth headless Firefox, undetected fingerprint, bypass bot detection, Python web scraping and browser automation.
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of Floorp 12, the most Advanced and Fastest Firefox derivative 🦊
 
@@ -945,7 +946,7 @@
 - [kubeshop/botkube](https://github.com/kubeshop/botkube) - An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices
 - [openziti-test-kitchen/kubeztl](https://github.com/openziti-test-kitchen/kubeztl) - A zitified kubernetes client
 - [kumahq/kuma](https://github.com/kumahq/kuma) - 🐻 The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project.
-- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
+- [gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS plaintext with eBPF—no MITM proxy or custom CA installation. Supports Linux and Android on x86_64 and arm64.
 - [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee:
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
@@ -1053,7 +1054,7 @@
 ## https 
 
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn't need additional client-side software
-- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
+- [gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS plaintext with eBPF—no MITM proxy or custom CA installation. Supports Linux and Android on x86_64 and arm64.
 
 ## image-processing 
 
@@ -1334,7 +1335,7 @@
 - [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required! Build your own beacon using Xiao-BLE
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [f1ko/demystifying-cni](https://github.com/f1ko/demystifying-cni) - Explanation on what a CNI (Container Network Interface) is and how to write it from scratch.
-- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
+- [gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS plaintext with eBPF—no MITM proxy or custom CA installation. Supports Linux and Android on x86_64 and arm64.
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
 - [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) - bootstrap HashiCorp Consul, Nomad, or Vault over SSH &lt; 1 minute
@@ -1590,7 +1591,6 @@
 - [vatesfr/cluster-api-provider-vates](https://github.com/vatesfr/cluster-api-provider-vates) - Cluster API provider implementation for Vates VMS (XCP-ng and Xen Orchestra)
 - [ErenAri/Aegis-BPF](https://github.com/ErenAri/Aegis-BPF) - Deterministic Linux runtime enforcement with eBPF LSM: block file/network operations before syscalls complete.
 - [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability
-- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Playwright that anti-bots cannot see, so no captchas: same API, anti-detect stealth headless Firefox, undetected fingerprint, bypass bot detection, Python web scraping and browser automation.
 - [Karandash8/make-argocd-fly](https://github.com/Karandash8/make-argocd-fly) - A tool to generate Kubernetes manifests from templates
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) - A TTS that fits in your CPU (and pocket)
@@ -1958,6 +1958,7 @@
 - [mkamranr/reelforge](https://github.com/mkamranr/reelforge) - Turn a GitHub repository or Hugging Face model into a finished vertical reel: video, cover art and per-platform copy.
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [gyptazy/manpageblog](https://github.com/gyptazy/manpageblog) - manpageblog is a small, lightweight blog engine written in Python and offers several advantages in a look of a man page (Unix like manual page).
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Playwright that anti-bots cannot see, so no captchas: same API, anti-detect stealth headless Firefox, undetected fingerprint, bypass bot detection, Python web scraping and browser automation.
 - [hookprobe/hookprobe](https://github.com/hookprobe/hookprobe) - 🛡️ Free AI that blocks hackers while you sleep. Runs on cheap hardware. When someone in Tokyo gets attacked, you're protected in 30 seconds. No fees. No experts needed. Just protection. One node's det
 - [x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy) - A high-speed covert tunnel that disguises TCP traffic as SMTP email communication to bypass Deep Packet Inspection (DPI) firewalls.
 - [SoulKyu/github-scraping-agent-ai](https://github.com/SoulKyu/github-scraping-agent-ai) - Project that scape all github repositories, read them, analyse with an AI and return you on a discord webhook project that could interest you.
