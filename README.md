@@ -1104,6 +1104,7 @@
 
 ## kubernetes 
 
+- [vatesfr/vates-kube-os](https://github.com/vatesfr/vates-kube-os) - Experimental, immutable Kubernetes node OS built from source — the Xen Orchestra / XCP-ng node image used by the Vates Cluster API providers.
 - [home-operations/kritika](https://github.com/home-operations/kritika) - Repository-aware AI pull request reviewer for GitHub
 - [mcpunzo/k8s-rightsizer](https://github.com/mcpunzo/k8s-rightsizer) - 🔄 Kubernetes automation tool for safe workload right‑sizing.
 - [super-phenix/superphenix](https://github.com/super-phenix/superphenix) - An Opensource IaaS/PaaS/SaaS platform based on Kubernetes. Build your own cloud provider wherever you want.
@@ -1313,6 +1314,7 @@
 
 ## linux 
 
+- [vatesfr/vates-kube-os](https://github.com/vatesfr/vates-kube-os) - Experimental, immutable Kubernetes node OS built from source — the Xen Orchestra / XCP-ng node image used by the Vates Cluster API providers.
 - [kairos-io/hadron](https://github.com/kairos-io/hadron) - Hadron is a minimal, from-scratch Linux distro using vanilla components, engineered for trusted and flexible boot environments.
 - [wie-project/kakehashi](https://github.com/wie-project/kakehashi) - Userspace macOS translation layer for Linux ARM64
 - [katl-dev/katl](https://github.com/katl-dev/katl) - KatlOS: an installable, upgradeable, systemd-native Kubernetes node OS.
@@ -1544,6 +1546,7 @@
 
 ## operating-system 
 
+- [vatesfr/vates-kube-os](https://github.com/vatesfr/vates-kube-os) - Experimental, immutable Kubernetes node OS built from source — the Xen Orchestra / XCP-ng node image used by the Vates Cluster API providers.
 - [katl-dev/katl](https://github.com/katl-dev/katl) - KatlOS: an installable, upgradeable, systemd-native Kubernetes node OS.
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - An open-source OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 
@@ -1553,6 +1556,8 @@
 
 ## others 
 
+- [tarwin/tinyjsapp](https://github.com/tarwin/tinyjsapp) - Build native apps in JS. Backend, frontend. ~5Mb.
+- [batleforc/weebo-operator-kit](https://github.com/batleforc/weebo-operator-kit) - 
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [YusufB5/ASCILINE](https://github.com/YusufB5/ASCILINE) - A high-performance ASCII video rendering engine featuring real-time WebSocket binary streaming and an isolated compiler for serverless static generation. Built for low-latency 30 FPS playback on HTML5
 - [littlejo/xo-gocli](https://github.com/littlejo/xo-gocli) - Xen Orchestra command line in go
