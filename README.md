@@ -65,6 +65,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [downloader](#downloader)
 - [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
@@ -699,6 +700,7 @@
 
 ## docker 
 
+- [sse-secure-systems/connaisseur](https://github.com/sse-secure-systems/connaisseur) - An admission controller that integrates Container Image Signature Verification into a Kubernetes cluster
 - [project-angos/angos](https://github.com/project-angos/angos) - An OCI-compliant and Docker-compatible container registry.
 - [kaybi-gh/K7](https://github.com/kaybi-gh/K7) - Self-hosted media server for a small circle of family and friends.
 - [containerd/stargz-snapshotter](https://github.com/containerd/stargz-snapshotter) - Fast container image distribution plugin with lazy pulling
@@ -764,6 +766,10 @@
 ## dotnet 
 
 - [kaybi-gh/K7](https://github.com/kaybi-gh/K7) - Self-hosted media server for a small circle of family and friends.
+
+## downloader 
+
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
 ## dsh-plugin 
 
@@ -1116,6 +1122,7 @@
 
 ## kubernetes 
 
+- [sse-secure-systems/connaisseur](https://github.com/sse-secure-systems/connaisseur) - An admission controller that integrates Container Image Signature Verification into a Kubernetes cluster
 - [vatesfr/vates-kube-os](https://github.com/vatesfr/vates-kube-os) - Experimental, immutable Kubernetes node OS built from source — the Xen Orchestra / XCP-ng node image used by the Vates Cluster API providers.
 - [home-operations/kritika](https://github.com/home-operations/kritika) - Repository-aware AI pull request reviewer for GitHub, Forgejo and GitLab
 - [mcpunzo/k8s-rightsizer](https://github.com/mcpunzo/k8s-rightsizer) - 🔄 Kubernetes automation tool for safe workload right‑sizing.
@@ -2106,6 +2113,7 @@
 
 ## security 
 
+- [sse-secure-systems/connaisseur](https://github.com/sse-secure-systems/connaisseur) - An admission controller that integrates Container Image Signature Verification into a Kubernetes cluster
 - [zeek/zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 - [AgentGuard-hq/AgentGuard](https://github.com/AgentGuard-hq/AgentGuard) - Kernel-enforced policy for coding agents (eBPF LSM). YAML in the repo; deny is EPERM. Claude gets Semantic feedback after deny.
 - [rbenaley/Vauban](https://github.com/rbenaley/Vauban) - A fortified bastion (PAM) designed to protect and control access to organization computing assets.  Goal: deliver a unique free and open-source bastion software using the Rust programming language.
