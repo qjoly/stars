@@ -168,6 +168,7 @@
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
+- [skills](#skills)
 - [springboot](#springboot)
 - [sql](#sql)
 - [sql-server](#sql-server)
@@ -217,6 +218,7 @@
 ## agent-skills 
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 - [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job appli
 - [gosuda/portal-tunnel](https://github.com/gosuda/portal-tunnel) - Publishes localhost services to the agentic web through self-hostable, trustless relays.
@@ -224,7 +226,7 @@
 ## agents 
 
 - [AgentGuard-hq/AgentGuard](https://github.com/AgentGuard-hq/AgentGuard) - Kernel-enforced policy for coding agents (eBPF LSM). YAML in the repo; deny is EPERM. Claude gets Semantic feedback after deny.
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - Give your agent CAD superpowers.
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - Design physical products with AI
 - [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
@@ -232,6 +234,7 @@
 
 ## ai 
 
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 - [zachahn/vomit](https://github.com/zachahn/vomit) - Clean up Claude's token vomit with a separate LLM. Save your tokens, Opus is hopeless
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF)
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
@@ -269,7 +272,7 @@
 - [with-pebbly/aseprite-ai-artist](https://github.com/with-pebbly/aseprite-ai-artist) - Your coding agent paints pixel art in the Aseprite window you already have open. MCP server + skills for Claude Code, omp, Codex, Gemini CLI and Cursor — draws, looks at its work, animates and exports
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and clus
 - [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Clau
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - Give your agent CAD superpowers.
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - Design physical products with AI
 - [kelos-dev/kelos](https://github.com/kelos-dev/kelos) - Kelos - The Kubernetes-native framework for orchestrating autonomous AI coding agents.
 - [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is an internal developer platform for Kubernetes
 - [intelligentcode-ai/intelligent-claude-code](https://github.com/intelligentcode-ai/intelligent-claude-code) - Make Claude Code truly intelligent and way more autonomous!
@@ -502,6 +505,7 @@
 - [devantler-tech/ksail](https://github.com/devantler-tech/ksail) - All-in-one Kubernetes SDK: create, manage, and operate clusters across distributions (Kind, K3d, Talos, VCluster) with built-in GitOps, secrets, AI assistant, and MCP server. Only requires Docker or a
 - [homeport/termshot](https://github.com/homeport/termshot) - Creates screenshots based on terminal command output
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
+- [slidesk/slidesk](https://github.com/slidesk/slidesk) - Markdown slides with native translations and file includes. Present with a speaker view, export to PDF/PPTX, import PowerPoint, Slidev or reveal.js. A single Bun binary.
 - [NayamAmarshe/please](https://github.com/NayamAmarshe/please) - 🙏 Please CLI - Minimalistic New Tab Page CLI Tool with a greeting, date and time, inspirational quotes and your personal tasks and to-do list
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
@@ -616,6 +620,7 @@
 
 ## design 
 
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 
 ## developer-tools 
@@ -1433,7 +1438,7 @@
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [ddddddO/gtree](https://github.com/ddddddO/gtree) - Easily output ASCII tree from Go program or Markdown unordered list . There's also CLI tool that can output tree from JSON, YAML, or TOML! It's called *xtree*.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
-- [slidesk/slidesk](https://github.com/slidesk/slidesk) - Speaker companion
+- [slidesk/slidesk](https://github.com/slidesk/slidesk) - Markdown slides with native translations and file includes. Present with a speaker view, export to PDF/PPTX, import PowerPoint, Slidev or reveal.js. A single Bun binary.
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
@@ -1584,7 +1589,6 @@
 - [SoulKyu/pi-agentic-platform](https://github.com/SoulKyu/pi-agentic-platform) - pap — self-hosted agentic platform on the Pi SDK
 - [tarwin/tinyjsapp](https://github.com/tarwin/tinyjsapp) - Build native apps in JS. Backend, frontend. ~5Mb.
 - [batleforc/weebo-operator-kit](https://github.com/batleforc/weebo-operator-kit) - 
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [YusufB5/ASCILINE](https://github.com/YusufB5/ASCILINE) - A high-performance ASCII video rendering engine featuring real-time WebSocket binary streaming and an isolated compiler for serverless static generation. Built for low-latency 30 FPS playback on HTML5
 - [littlejo/xo-gocli](https://github.com/littlejo/xo-gocli) - Xen Orchestra command line in go
 - [bank-vaults/vault-secrets-webhook](https://github.com/bank-vaults/vault-secrets-webhook) - A Kubernetes mutating webhook that makes direct secret injection into Pods possible.
@@ -2067,7 +2071,7 @@
 
 ## robotics 
 
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - Give your agent CAD superpowers.
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - Design physical products with AI
 
 ## ruby 
 
@@ -2207,6 +2211,10 @@
 - [binpash/try](https://github.com/binpash/try) - Inspect, control, and manipulate a command's effects before modifying your live system.
 - [containrrr/shepherd](https://github.com/containrrr/shepherd) - Docker swarm service for automatically updating your services whenever their image is refreshed
 
+## skills 
+
+- [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
+
 ## springboot 
 
 - [Marthym/baywatch](https://github.com/Marthym/baywatch) - Follow your favorite news letters and keep an 👀 on the latest technologies news.
@@ -2344,6 +2352,7 @@
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
+- [slidesk/slidesk](https://github.com/slidesk/slidesk) - Markdown slides with native translations and file includes. Present with a speaker view, export to PDF/PPTX, import PowerPoint, Slidev or reveal.js. A single Bun binary.
 - [badele/vide](https://github.com/badele/vide) - Neovim custom configuration, oriented for DevOps role (bash, go, json, python, terraform, typescript, etc ...). not empty code :)
 - [joone/loz](https://github.com/joone/loz) - Loz is a command-line tool that enables your preferred LLM to execute system commands and utilize Unix pipes, integrating AI capabilities with other Unix tools.
 
