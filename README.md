@@ -1583,6 +1583,7 @@
 
 ## others 
 
+- [MapleTechLabs/maple](https://github.com/MapleTechLabs/maple) - OpenTelemetry observability platform
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
 - [lfpoulain/Cornelius](https://github.com/lfpoulain/Cornelius) - 
 - [abexamir/zlb](https://github.com/abexamir/zlb) - Kubernetes LoadBalancer services through an external Linux node using nftables, with shared public IPs and reserved ports
