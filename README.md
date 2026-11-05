@@ -73,6 +73,7 @@
 - [emacs](#emacs)
 - [emulator](#emulator)
 - [english](#english)
+- [esp32](#esp32)
 - [fastapi](#fastapi)
 - [firefox](#firefox)
 - [flutter](#flutter)
@@ -565,6 +566,7 @@
 
 ## computer-vision 
 
+- [lfpoulain/Cornelius](https://github.com/lfpoulain/Cornelius) - Cornelius, le cadre/miroir intelligent : il vous reconnaît, vous écoute et répond en français. Assistant vocal, reconnaissance faciale en local, Home Assistant, météo, transports et beaucoup plus !
 - [koharu-rs/koharu](https://github.com/koharu-rs/koharu) - ML-powered manga translator, written in Rust.
 
 ## config 
@@ -574,7 +576,7 @@
 
 ## continuous-integration 
 
-- [jlumbroso/free-disk-space](https://github.com/jlumbroso/free-disk-space) - :octocat:⚙️🗑️ A GitHub Action to free disk space on an Ubuntu runner.
+- [lumbroso-commons/free-disk-space](https://github.com/lumbroso-commons/free-disk-space) - :octocat:⚙️🗑️ A GitHub Action to free disk space on an Ubuntu runner.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 
 ## cpp 
@@ -815,6 +817,10 @@
 ## english 
 
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, 50+ TTS engines with voice cloning and 1696 languages!
+
+## esp32 
+
+- [lfpoulain/Cornelius](https://github.com/lfpoulain/Cornelius) - Cornelius, le cadre/miroir intelligent : il vous reconnaît, vous écoute et répond en français. Assistant vocal, reconnaissance faciale en local, Home Assistant, météo, transports et beaucoup plus !
 
 ## fastapi 
 
@@ -1071,6 +1077,7 @@
 
 ## home-assistant 
 
+- [lfpoulain/Cornelius](https://github.com/lfpoulain/Cornelius) - Cornelius, le cadre/miroir intelligent : il vous reconnaît, vous écoute et répond en français. Assistant vocal, reconnaissance faciale en local, Home Assistant, météo, transports et beaucoup plus !
 - [gruberdev/homelab](https://github.com/gruberdev/homelab) - A self-managed ArgoCD homelab kubernetes cluster using Talos
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 
@@ -1576,6 +1583,7 @@
 
 ## openai 
 
+- [lfpoulain/Cornelius](https://github.com/lfpoulain/Cornelius) - Cornelius, le cadre/miroir intelligent : il vous reconnaît, vous écoute et répond en français. Assistant vocal, reconnaissance faciale en local, Home Assistant, météo, transports et beaucoup plus !
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Serie
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [SoulKyu/github-scraping-agent-ai](https://github.com/SoulKyu/github-scraping-agent-ai) - Project that scape all github repositories, read them, analyse with an AI and return you on a discord webhook project that could interest you.
@@ -1603,11 +1611,11 @@
 
 ## others 
 
+- [tuna-os/corral](https://github.com/tuna-os/corral) - 🤠 Herd your VMs into your tailnet — QEMU + KubeVirt VM manager with a Proxmox-style web UI
 - [littlejo/opendango](https://github.com/littlejo/opendango) - Build anything, anywhere. A universal image builder powered by Dockerfile syntax.
 - [notaroomba/keybytes](https://github.com/notaroomba/keybytes) - A truly modular keyboard
 - [MapleTechLabs/maple](https://github.com/MapleTechLabs/maple) - OpenTelemetry observability platform
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
-- [lfpoulain/Cornelius](https://github.com/lfpoulain/Cornelius) - 
 - [abexamir/zlb](https://github.com/abexamir/zlb) - Kubernetes LoadBalancer services through an external Linux node using nftables, with shared public IPs and reserved ports
 - [SoulKyu/pi-agentic-platform](https://github.com/SoulKyu/pi-agentic-platform) - pap — self-hosted agentic platform on the Pi SDK
 - [tarwin/tinyjsapp](https://github.com/tarwin/tinyjsapp) - Build native apps in JS. Backend, frontend. ~5Mb.
@@ -1976,6 +1984,7 @@
 
 ## privacy 
 
+- [lfpoulain/Cornelius](https://github.com/lfpoulain/Cornelius) - Cornelius, le cadre/miroir intelligent : il vous reconnaît, vous écoute et répond en français. Assistant vocal, reconnaissance faciale en local, Home Assistant, météo, transports et beaucoup plus !
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 - [blob42/gosuki](https://github.com/blob42/gosuki) - One binary, zero extensions, real time multi browser bookmark manager . Works with any browser and handles profiles. Multi-device sync and archival
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
@@ -2190,6 +2199,7 @@
 
 ## self-hosted 
 
+- [lfpoulain/Cornelius](https://github.com/lfpoulain/Cornelius) - Cornelius, le cadre/miroir intelligent : il vous reconnaît, vous écoute et répond en français. Assistant vocal, reconnaissance faciale en local, Home Assistant, météo, transports et beaucoup plus !
 - [liketrek/TREK](https://github.com/liketrek/TREK) - The most complete open-source travel planner: real-time collaboration, bookings, budgets, packing lists, journals, offline PWA, SSO and an AI-ready MCP server, with planet-wide place search and routin
 - [super-phenix/superphenix](https://github.com/super-phenix/superphenix) - An Opensource IaaS/PaaS/SaaS platform based on Kubernetes. Build your own cloud provider wherever you want.
 - [mkamranr/reelforge](https://github.com/mkamranr/reelforge) - Turn a GitHub repository or Hugging Face model into a finished vertical reel: video, cover art and per-platform copy.
