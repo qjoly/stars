@@ -946,6 +946,7 @@
 - [cycloidio/terracognita](https://github.com/cycloidio/terracognita) - Reads from existing public and private cloud providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
 - [jacaudi/cloudflare-operator](https://github.com/jacaudi/cloudflare-operator) - A Kubernetes operator for managing Cloudflare resources. It supports DNS records, zones, zone settings, tunnels (via cloudflared), and WAF rulesets.
 - [pii-shield/pii-shield](https://github.com/pii-shield/pii-shield) - Zero-code K8s sidecar for log sanitization. Detects secrets via Entropy Analysis, preserves JSON integrity, and redacts PII deterministically. 🛡️
+- [yodamad/easylab](https://github.com/yodamad/easylab) - Make labs setup easy
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [julienhmmt/vcv](https://github.com/julienhmmt/vcv) - VaultCertsViewer is a Go application to list and manage certs in Vault, the easiest possible for SRE.
 - [89luca89/lilipod](https://github.com/89luca89/lilipod) - Lilipod is a simple container manager, able to download, unpack and use OCI images from various container registries.
@@ -1148,7 +1149,7 @@
 
 ## kubernetes 
 
-- [kubev2v/forklift](https://github.com/kubev2v/forklift) - Toolkit for migrating VMs from VMware, OVA, EC2, HyperV, oVirt and OpenStack to KubeVirt
+- [kubev2v/forklift](https://github.com/kubev2v/forklift) - Toolkit for migrating VMs from VMware, Nutanix, HyperV, OVA, EC2, Azure, oVirt and OpenStack to KubeVirt
 - [sighupio/distribution](https://github.com/sighupio/distribution) - SIGHUP Distribution (SD) - A battle-tested open-source Kubernetes distribution
 - [passmower/passmower](https://github.com/passmower/passmower) - Cloud native OIDC Identity Provider
 - [sse-secure-systems/connaisseur](https://github.com/sse-secure-systems/connaisseur) - An admission controller that integrates Container Image Signature Verification into a Kubernetes cluster
@@ -1680,7 +1681,6 @@
 - [briangtn/ScreenAlerts](https://github.com/briangtn/ScreenAlerts) - 
 - [SoulKyu/cpg](https://github.com/SoulKyu/cpg) - Cilium Policy Generator using hubble relay
 - [wayblueorg/wayblue](https://github.com/wayblueorg/wayblue) - Fedora Atomic images for wayland compositors
-- [yodamad/easylab](https://github.com/yodamad/easylab) - Make labs setup easy
 - [jazwa/rackstack](https://github.com/jazwa/rackstack) - A modular 3d-printable mini rack system.
 - [unfault/cli](https://github.com/unfault/cli) - A calm reviewer for thoughtful engineers.
 - [niri-wm/niri-wm.github.io](https://github.com/niri-wm/niri-wm.github.io) - 
