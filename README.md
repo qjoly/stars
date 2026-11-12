@@ -457,6 +457,7 @@
 ## claude 
 
 - [tbobm/dont-burn-it-all](https://github.com/tbobm/dont-burn-it-all) - CLI + Claude Code plugin that spends your Claude Code subscription 5-hour quota on real parallel work, stopping at a threshold. Metered against the real Anthropic usage endpoint.
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Serie
 - [OpenMontageInc/OpenMontage](https://github.com/OpenMontageInc/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [kelos-dev/kelos](https://github.com/kelos-dev/kelos) - Kelos - The Kubernetes-native framework for orchestrating autonomous AI coding agents.
 - [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
